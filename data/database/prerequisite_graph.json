@@ -13,17 +13,17 @@
       "total_claims": 80,
       "source_count": 20,
       "ancestors": [
-        "relational_worldview",
-        "troth_and_reciprocity",
-        "what_is_heathenism",
         "personal_sovereignty",
-        "frith_and_hospitality"
+        "what_is_heathenism",
+        "frith_and_hospitality",
+        "relational_worldview",
+        "troth_and_reciprocity"
       ],
       "descendants": [
-        "cyber_viking_solarpunk",
+        "modern_viking_ethos",
         "cyber_mysticism_and_becoming",
         "ai_cognitive_partner_and_troth",
-        "modern_viking_ethos"
+        "cyber_viking_solarpunk"
       ]
     },
     {
@@ -36,30 +36,30 @@
       "source_count": 117,
       "ancestors": [],
       "descendants": [
-        "yggdrasil_nine_worlds",
-        "heathen_third_path",
-        "blot_and_offerings",
-        "gods_and_goddesses",
-        "runes_elder_futhark",
-        "cyber_viking_solarpunk",
-        "ai_cognitive_partner_and_troth",
-        "cyber_mysticism_and_becoming",
-        "historical_vs_modern",
-        "landvaettir_and_spirits",
-        "personal_sovereignty",
-        "ancestors_and_disir",
-        "freyja",
-        "odin",
-        "frith_and_hospitality",
-        "thews_and_virtues",
-        "galdr_and_seidr",
-        "thor",
         "modern_viking_ethos",
-        "prayer_and_invocation",
+        "odin",
+        "cyber_viking_solarpunk",
+        "blot_and_offerings",
+        "thews_and_virtues",
+        "landvaettir_and_spirits",
+        "seasonal_rituals",
+        "runes_elder_futhark",
+        "historical_vs_modern",
         "relational_worldview",
+        "galdr_and_seidr",
         "troth_and_reciprocity",
-        "wyrd_and_orlaeg",
-        "seasonal_rituals"
+        "heathen_third_path",
+        "freyja",
+        "personal_sovereignty",
+        "yggdrasil_nine_worlds",
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth",
+        "prayer_and_invocation",
+        "frith_and_hospitality",
+        "thor",
+        "ancestors_and_disir",
+        "gods_and_goddesses",
+        "wyrd_and_orlaeg"
       ]
     },
     {
@@ -91,28 +91,28 @@
         "what_is_heathenism"
       ],
       "descendants": [
-        "yggdrasil_nine_worlds",
-        "heathen_third_path",
-        "blot_and_offerings",
-        "gods_and_goddesses",
-        "runes_elder_futhark",
-        "cyber_viking_solarpunk",
-        "ai_cognitive_partner_and_troth",
-        "cyber_mysticism_and_becoming",
-        "landvaettir_and_spirits",
-        "personal_sovereignty",
-        "ancestors_and_disir",
-        "freyja",
-        "odin",
-        "frith_and_hospitality",
-        "thews_and_virtues",
-        "galdr_and_seidr",
-        "thor",
         "modern_viking_ethos",
-        "prayer_and_invocation",
+        "odin",
+        "cyber_viking_solarpunk",
+        "blot_and_offerings",
+        "thews_and_virtues",
+        "seasonal_rituals",
+        "landvaettir_and_spirits",
+        "runes_elder_futhark",
+        "galdr_and_seidr",
         "troth_and_reciprocity",
-        "wyrd_and_orlaeg",
-        "seasonal_rituals"
+        "heathen_third_path",
+        "freyja",
+        "personal_sovereignty",
+        "yggdrasil_nine_worlds",
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth",
+        "prayer_and_invocation",
+        "frith_and_hospitality",
+        "thor",
+        "ancestors_and_disir",
+        "gods_and_goddesses",
+        "wyrd_and_orlaeg"
       ]
     },
     {
@@ -142,8 +142,8 @@
       "total_claims": 225,
       "source_count": 114,
       "ancestors": [
-        "what_is_heathenism",
         "gods_and_goddesses",
+        "what_is_heathenism",
         "relational_worldview"
       ],
       "descendants": []
@@ -163,10 +163,10 @@
         "relational_worldview"
       ],
       "descendants": [
+        "thor",
         "odin",
-        "freyja",
         "prayer_and_invocation",
-        "thor"
+        "freyja"
       ]
     },
     {
@@ -196,8 +196,8 @@
       "total_claims": 299,
       "source_count": 127,
       "ancestors": [
-        "what_is_heathenism",
         "gods_and_goddesses",
+        "what_is_heathenism",
         "relational_worldview"
       ],
       "descendants": []
@@ -213,8 +213,8 @@
       "total_claims": 276,
       "source_count": 133,
       "ancestors": [
-        "what_is_heathenism",
         "gods_and_goddesses",
+        "what_is_heathenism",
         "relational_worldview"
       ],
       "descendants": []
@@ -238,9 +238,9 @@
       "descendants": [
         "modern_viking_ethos",
         "cyber_viking_solarpunk",
+        "cyber_mysticism_and_becoming",
         "ai_cognitive_partner_and_troth",
-        "heathen_third_path",
-        "cyber_mysticism_and_becoming"
+        "heathen_third_path"
       ]
     },
     {
@@ -262,9 +262,9 @@
       "descendants": [
         "modern_viking_ethos",
         "cyber_viking_solarpunk",
+        "cyber_mysticism_and_becoming",
         "ai_cognitive_partner_and_troth",
-        "heathen_third_path",
-        "cyber_mysticism_and_becoming"
+        "heathen_third_path"
       ]
     },
     {
@@ -278,15 +278,15 @@
       "total_claims": 408,
       "source_count": 165,
       "ancestors": [
-        "what_is_heathenism",
         "relational_worldview",
+        "what_is_heathenism",
         "troth_and_reciprocity"
       ],
       "descendants": [
-        "cyber_viking_solarpunk",
+        "modern_viking_ethos",
         "cyber_mysticism_and_becoming",
         "ai_cognitive_partner_and_troth",
-        "modern_viking_ethos"
+        "cyber_viking_solarpunk"
       ]
     },
     {
@@ -304,17 +304,17 @@
         "relational_worldview"
       ],
       "descendants": [
-        "seasonal_rituals",
+        "personal_sovereignty",
         "modern_viking_ethos",
-        "prayer_and_invocation",
+        "frith_and_hospitality",
         "cyber_viking_solarpunk",
+        "cyber_mysticism_and_becoming",
         "ai_cognitive_partner_and_troth",
+        "prayer_and_invocation",
+        "thews_and_virtues",
         "blot_and_offerings",
         "heathen_third_path",
-        "cyber_mysticism_and_becoming",
-        "personal_sovereignty",
-        "frith_and_hospitality",
-        "thews_and_virtues"
+        "seasonal_rituals"
       ]
     },
     {
@@ -334,8 +334,8 @@
         "troth_and_reciprocity"
       ],
       "descendants": [
-        "prayer_and_invocation",
-        "seasonal_rituals"
+        "seasonal_rituals",
+        "prayer_and_invocation"
       ]
     },
     {
@@ -350,11 +350,11 @@
       "total_claims": 54,
       "source_count": 32,
       "ancestors": [
-        "relational_worldview",
-        "troth_and_reciprocity",
-        "blot_and_offerings",
         "what_is_heathenism",
-        "gods_and_goddesses"
+        "relational_worldview",
+        "blot_and_offerings",
+        "gods_and_goddesses",
+        "troth_and_reciprocity"
       ],
       "descendants": []
     },
@@ -391,8 +391,8 @@
         "relational_worldview"
       ],
       "descendants": [
-        "galdr_and_seidr",
-        "cyber_mysticism_and_becoming"
+        "cyber_mysticism_and_becoming",
+        "galdr_and_seidr"
       ]
     },
     {
@@ -410,8 +410,8 @@
         "relational_worldview"
       ],
       "descendants": [
-        "galdr_and_seidr",
         "cyber_mysticism_and_becoming",
+        "galdr_and_seidr",
         "runes_elder_futhark"
       ]
     },
@@ -427,11 +427,11 @@
       "total_claims": 429,
       "source_count": 114,
       "ancestors": [
-        "yggdrasil_nine_worlds",
-        "relational_worldview",
         "what_is_heathenism",
+        "relational_worldview",
         "wyrd_and_orlaeg",
-        "runes_elder_futhark"
+        "runes_elder_futhark",
+        "yggdrasil_nine_worlds"
       ],
       "descendants": [
         "cyber_mysticism_and_becoming"
@@ -453,8 +453,8 @@
         "yggdrasil_nine_worlds"
       ],
       "descendants": [
-        "galdr_and_seidr",
-        "cyber_mysticism_and_becoming"
+        "cyber_mysticism_and_becoming",
+        "galdr_and_seidr"
       ]
     },
     {
@@ -469,18 +469,18 @@
       "total_claims": 36,
       "source_count": 28,
       "ancestors": [
-        "relational_worldview",
-        "troth_and_reciprocity",
-        "heathen_third_path",
-        "what_is_heathenism",
         "personal_sovereignty",
+        "what_is_heathenism",
         "frith_and_hospitality",
-        "thews_and_virtues"
+        "relational_worldview",
+        "thews_and_virtues",
+        "troth_and_reciprocity",
+        "heathen_third_path"
       ],
       "descendants": [
-        "cyber_viking_solarpunk",
         "cyber_mysticism_and_becoming",
-        "ai_cognitive_partner_and_troth"
+        "ai_cognitive_partner_and_troth",
+        "cyber_viking_solarpunk"
       ]
     },
     {
@@ -495,14 +495,14 @@
       "total_claims": 26,
       "source_count": 14,
       "ancestors": [
-        "modern_viking_ethos",
-        "relational_worldview",
-        "troth_and_reciprocity",
-        "heathen_third_path",
-        "what_is_heathenism",
         "personal_sovereignty",
+        "modern_viking_ethos",
+        "what_is_heathenism",
         "frith_and_hospitality",
-        "thews_and_virtues"
+        "relational_worldview",
+        "thews_and_virtues",
+        "troth_and_reciprocity",
+        "heathen_third_path"
       ],
       "descendants": [
         "cyber_mysticism_and_becoming",
@@ -521,15 +521,15 @@
       "total_claims": 6,
       "source_count": 5,
       "ancestors": [
-        "modern_viking_ethos",
-        "cyber_viking_solarpunk",
-        "relational_worldview",
-        "troth_and_reciprocity",
-        "heathen_third_path",
-        "what_is_heathenism",
         "personal_sovereignty",
+        "modern_viking_ethos",
+        "what_is_heathenism",
+        "cyber_viking_solarpunk",
         "frith_and_hospitality",
-        "thews_and_virtues"
+        "relational_worldview",
+        "thews_and_virtues",
+        "troth_and_reciprocity",
+        "heathen_third_path"
       ],
       "descendants": [
         "cyber_mysticism_and_becoming"
@@ -549,19 +549,19 @@
       "source_count": 1,
       "ancestors": [
         "personal_sovereignty",
-        "thews_and_virtues",
-        "yggdrasil_nine_worlds",
         "modern_viking_ethos",
+        "what_is_heathenism",
         "cyber_viking_solarpunk",
+        "frith_and_hospitality",
         "relational_worldview",
         "ai_cognitive_partner_and_troth",
+        "galdr_and_seidr",
+        "thews_and_virtues",
         "troth_and_reciprocity",
         "heathen_third_path",
-        "frith_and_hospitality",
-        "what_is_heathenism",
         "wyrd_and_orlaeg",
-        "galdr_and_seidr",
-        "runes_elder_futhark"
+        "runes_elder_futhark",
+        "yggdrasil_nine_worlds"
       ],
       "descendants": []
     }
