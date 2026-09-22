@@ -1,0 +1,341 @@
+---
+content_id: post_2013_08_08_volmarrs-heathen-freysblot-harvest-ritual-august-2-2013
+url: https://volmarrsheathenism.com/2013/08/08/volmarrs-heathen-freysblot-harvest-ritual-august-2-2013/
+title: "Volmarr’s Heathen Freysblot Harvest Ritual August-2-2013"
+published: "2013-08-08T07:11:43+00:00"
+modified: "2019-05-05T05:28:35+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["Rituals"]
+tags: []
+normalized_hash: "sha256:798cb5ce8dee1067d2a0a64f9bf4f59a532bd2a4b7daee0b1c107c8217c0c876"
+---
+
+Need:  
+• drinking horn  
+• mead (or beer or wine or even can use juice)  
+• spring water in small bowl  
+• fresh pine twig  
+• offering bowl  
+• candles  
+• wand (if you don’t have one you can use your fingers instead)  
+• Thor’s Ritual Hammer (optional, can use it for the Hammer Hallowings)  
+• Green candle  
+• Any symbol for Freyr. Phallic symbols. Horse symbols.  
+• Baked goods, nuts, berries, and sweet fruit such as strawberries, grapes, cherries, blueberries. Freyr does prefer organic and natural foods if your budget allows.  
+• A list of all the spiritual seed tasks you had planted at Ostara (as many of them as you can remember). You can add items to the list that were not seed goals at Ostara but are goals anyways which you have been working on or have a shot of accomplishing within the next few months.
+
+–
+
+This ritual, as are all Heathen or northern rituals, is done while facing north, except where otherwise noted. The altar should be such that it is in front of you when you face north.
+
+If you don’t know how to pronounce the runes see my webpage on how to pronounce them [here](http://volmarrsheathenism.webs.com/pronouncing-runes).
+
+–
+
+Put spring water in small bowl. Trace 3 Laguz runes over it.:
+
+[![Laguz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/laguz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/laguz.png)
+
+“LAGUZ… LAGUZ… LAGUZ”
+
+“From the Well of Wyrd does this water flow, and to the Well of Wyrd does it return”
+
+–
+
+Make Hammer Sign at item and then splash each ritual item with blessed water using the pine twig and for each item say:
+
+“I bless this \_\_\_\_\_\_ with the waters of the Well of Wyrd”
+
+–
+
+Now trace Hammer Sign at person being blessed and/or self and splash them with water using twig.
+
+“I bless \_\_\_\_\_\_ with the waters of the Well of Wyrd”
+
+–
+
+Use twig to splash ritual space with water.
+
+“I bless this space with the waters of the Well of Wyrd”
+
+–
+
+Few silent deep breaths.
+
+–
+
+All stand in Elhaz position.
+
+[![Elhaz Position 1](https://volmarrsheathenism.com/wp-content/uploads/2013/02/elhaz-position-1.png?w=130&h=200)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/elhaz-position-1.png)
+
+“Bi-Frost’s rainbow light shine down upon this space and myself so that I may form a portal between the worlds of Asgard and Midgard”
+
+–
+
+Few silent deep breaths.
+
+–
+
+All face north and trace the Hammer Sign while chanting:
+
+“Hammer in the north hallow and ward this stead”
+
+All turn east and trace the Hammer Sign while chanting:
+
+“Hammer in the east hallow and ward this stead”
+
+All turn south and trace the Hammer Sign while chanting:
+
+“Hammer in the south hallow and ward this stead”
+
+All turn west trace the Hammer Sign while chanting:
+
+“Hammer in the west hallow and ward this stead”
+
+All return to north and look up and trace Hammer sign while chanting:
+
+“Hammer above hallow and ward this stead”
+
+All look below and trace Hammer sign while chanting:
+
+“Hammer below hallow and ward this stead”
+
+–
+
+Return to facing north and all stand in the Elhaz position and chant:
+
+“Around me and within me Asgard and Midgard”
+
+[![Dagaz Position 1](https://volmarrsheathenism.com/wp-content/uploads/2013/02/dagaz-position-1.png?w=97&h=210)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/dagaz-position-1.png)
+
+and move into the Dagaz position in the end.
+
+–
+
+Few silent deep breaths.
+
+–
+
+(Highly recommended optional casting of the rune ring)
+
+(face north and trace the rune shape in the air before you using your wand and loudly chant: “FEHU!”)
+
+[![Fehu](https://volmarrsheathenism.com/wp-content/uploads/2013/02/fehu.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/fehu.png)
+
+(face north-east and trace the rune shape and loudly chant: “URUZ”)
+
+[![Uruz](https://volmarrsheathenism.com/wp-content/uploads/2012/12/uruz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2012/12/uruz.png)
+
+(face east and trace the rune shape and loudly chant: “THURISAZ”)
+
+[![Thurisaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/thurisaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/thurisaz.png)
+
+(face south-east and trace the rune shape and loudly chant: “ANSUZ”)
+
+[![Ansuz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/ansuz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/ansuz.png)
+
+(face south and trace the rune shape and loudly chant: “RAIDHO”)
+
+[![Raidho](https://volmarrsheathenism.com/wp-content/uploads/2013/02/raidho.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/raidho.png)
+
+(face south-west and trace the rune shape and loudly chant: “KENAZ”)
+
+[![Kenaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/kenaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/kenaz.png)
+
+(face west and trace the rune shape and loudly chant: “GEBO”)
+
+[![Gebo](https://volmarrsheathenism.com/wp-content/uploads/2013/02/gebo.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/gebo.png)
+
+(face north-west and trace the rune shape and loudly chant: “WUNJO”)
+
+[![Wunjo](https://volmarrsheathenism.com/wp-content/uploads/2013/02/wunjo.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/wunjo.png)
+
+(face north and trace the rune shape and loudly chant: “HAGALAZ”)
+
+[![Hagalaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/hagalaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/hagalaz.png)
+
+(face north-east and trace the rune shape and loudly chant: “NAUDHIZ”)
+
+[![Nauthiz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/nauthiz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/nauthiz.png)
+
+(face east and trace the rune shape and loudly chant: “ISA”)
+
+[![Isa](https://volmarrsheathenism.com/wp-content/uploads/2013/02/isa.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/isa.png)
+
+(face south-east and trace the rune shape and loudly chant: “JERA”)
+
+[![Jera](https://volmarrsheathenism.com/wp-content/uploads/2013/02/jera.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/jera.png)
+
+(face south and trace the rune shape and loudly chant: “EIHWAZ”)
+
+[![Eihwaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/eihwaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/eihwaz.png)
+
+(face south-west and trace the rune shape and loudly chant: “PERTHRO”)
+
+[![Perthro](https://volmarrsheathenism.com/wp-content/uploads/2013/02/perthro.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/perthro.png)
+
+(face west and trace the rune shape and loudly chant: “ELHAZ”)
+
+[![Elhaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/elhaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/elhaz.png)
+
+(face north-west and trace the rune shape and loudly chant: “SOWILO”)
+
+[![Sowilo](https://volmarrsheathenism.com/wp-content/uploads/2013/02/sowilo.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/sowilo.png)
+
+(face north and trace the rune shape and loudly chant: “TIWAZ”)
+
+[![Tiwaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/tiwaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/tiwaz.png)
+
+(face north-east and trace the rune shape and loudly chant: “BERKANO”)
+
+[![Berkano](https://volmarrsheathenism.com/wp-content/uploads/2013/02/berkano.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/berkano.png)
+
+(face east and trace the rune shape and loudly chant: “EHWAZ”)
+
+[![Ehwaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/ehwaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/ehwaz.png)
+
+(face south-east and trace the rune shape and loudly chant: “MANNAZ”)
+
+[![Mannaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/mannaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/mannaz.png)
+
+(face south and trace the rune shape and loudly chant: “LAGUZ”)
+
+[![Laguz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/laguz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/laguz.png)
+
+(face south-west and trace the rune shape and loudly chant: “INGWAZ”)
+
+[![Ingwaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/ingwaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/ingwaz.png)
+
+(face west and trace the rune shape and loudly chant: “DAGAZ”)
+
+[![Dagaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/dagaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/dagaz.png)
+
+(face north-west and trace the rune shape and loudly chant: “OTHALA”)
+
+[![Othala](https://volmarrsheathenism.com/wp-content/uploads/2013/02/othala.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/othala.png)
+
+(Few silent deep breaths)
+
+–
+
+Hold up the bottle of mead:
+
+“I now brew the holy mead of inspiration. Won by high Odin long ago!”
+
+Chant into the bottle of mead:
+
+“Odhroerir! Son! Bodhn!”
+
+“Now I hallow this drink with staves of light!”
+
+Chant and trace these runes over the bottle:
+
+“Othala”
+
+[![Othala](https://volmarrsheathenism.com/wp-content/uploads/2013/02/othala.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/othala.png)
+
+“Dagaz”
+
+[![Dagaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/dagaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/dagaz.png)
+
+“Raidho”
+
+[![Raidho](https://volmarrsheathenism.com/wp-content/uploads/2013/02/raidho.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/raidho.png)
+
+“Ansuz”
+
+[![Ansuz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/ansuz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/ansuz.png)
+
+“Raidho”
+
+[![Raidho](https://volmarrsheathenism.com/wp-content/uploads/2013/02/raidho.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/raidho.png)
+
+“Isa”
+
+[![Isa](https://volmarrsheathenism.com/wp-content/uploads/2013/02/isa.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/isa.png)
+
+“Elhaz!”
+
+[![Elhaz](https://volmarrsheathenism.com/wp-content/uploads/2013/02/elhaz.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/elhaz.png)
+
+All say:
+
+“Hail Odhroerir!”
+
+–
+
+Few silent deep breaths.
+
+–
+
+“Hail Freyr! Son of Njord. Brother of Freyja. Husband of Gerd. Trusted friend of Skirnir. Descendant of the Vanir. Harvest god and wealth-giver. King of Alfheim. Blot-god of the Swedes. Possessor of Skidbladnir, and the boar known as Gullinbursti. Beli’s slayer. Enemy of Surtr. Wielder of the stag-horn. Fruitful one. Sure giver. Father of the Yngling line. Lord of the Volsi!”
+
+“Hail Freyr!”
+
+–
+
+“Now is the start of the harvest season. This is a time to work hard to bring forth all those things which you have been lending energies towards all this season. This is a time to honor Freyr, god of wealth and the harvest, so that your personal life harvest can be the fruitful one. Since most of us in the modern world are not farmers, harvest means for us the task of working on manifesting wishes and desires. Compared to other holidays this one is very straightforward. At this time we work on the tangible outward aspect of energies, working on manifesting and bringing into being that which started as inner energies in the spring.”
+
+“Look at the list of all the wishes which you planted as seeds at Ostara. Now is the time to make those things happen, at least for those things in your life which have not already happened by now. You are to keep this list of tasks, at this time, some place where you will see it often in your day, so that you remain aware and focused towards the things you are working on manifesting.”
+
+“At this time of the harvest I am working on:” (read your list of tasks)
+
+“You have from now till the middle of October to work on your wishes for this season. Any of those wishes that have not manifested by then should be mulched as spiritual weeds. You can then try again for next season for any things that have not manifested by then. After that it is time to make things more simple in your life to focus on the inward turning energies of winter.”
+
+–
+
+“Freyr please help keep me focused on working on the things which I am trying to manifest in my life this season. Please Freyr lend me your potent energies for this purpose so that my life harvest this season may be a fruitful one.”
+
+“Also please Freyr help to me keep away any distracting energies which may interfere with me accomplishing my harvest goals. Please help me to know what things may need to be extracted from my situation if there is anything which is acting to divert my harvest focus.”
+
+“Hail Freyr!”
+
+–
+
+“Freyr now is the time to year to have a feast in your honor to give thanks for your fruitful energies.”
+
+“This feast is for you Freyr! Hail Freyr!”
+
+–
+
+(Use the pine twig to splash a bit of the liquid in the offering bowl on yourself, on any others in the ritual with you, on your altar, on the ritual space, and in all general areas of your dwelling as well. Does not need to be much splashed around, just a little is fine. This helps to imbue more of the energies of the ritual on you, and others who may also in the ritual with you, and to your place.)
+
+–
+
+“Now my rite has ended. May all gathered here fare well on their return to their home places. And may the bonds of frith between us grow, gods, wights, and humans alike. Until we meet again.”
+
+–  
+–
+
+Pour out the offerings from the offering bowl outside:
+
+“A gift for a gift”
+
+Trace gebo at spot offerings were given to.
+
+“GEBO!”
+
+[![Gebo](https://volmarrsheathenism.com/wp-content/uploads/2013/02/gebo.png?w=75&h=75)](https://volmarrsheathenism.com/wp-content/uploads/2013/02/gebo.png)
+
+Pour out remaining blessed water outside.
+
+“I pour the sacred water back to the Earth so it may find it’s way back to the Well of Wyrd”
+
+–
+
+Now at this point it is very important to ground your energies. This should always be done after every ritual. Not doing so can lead to problems in the long-run. Grounding is like shifting gears in a car, except it is the process of shifting brain states. During rituals you create a trance like brain state, which is desired for during rituals or for during any spiritual practices. But trance states are not good for doing everyday mundane things. You need to return your mind back to the normal state of consciousness after the ritual is finished. That is what grounding is.
+
+The most simple and common method to ground is to visualize yourself as a tree and see roots growing into the ground from the base of your spine and going down into the earth. Sometimes rituals require industrial strength grounding as they can really create some intense energy. In that case you can try the following triple grounding method.:
+
+First visualize your chakras. You picture in your mind closing first the top one and then seeing a sort of lid closing over it, then proceed with the net lower chakra and so on. You want to leave the bottom most chakra, the root chakra fully open as this is your connection to grounding. Don’t be concerned about having the others closed, the normal proper function of them is that they open and close as needed. Problems with being ungrounded happen when one of more of them are stuck open. Only the bottom one is to be left open at all times.
+
+Next step is to picture a ball of pure white light above your head. Now let this white light slowly descent downward into your body and slowly move lower. As it descends it takes with it any unneeded, old, and negative energies. It is sort of sweeping downward through your energies taking all you no longer need with it. Once it reaches your feet let it move lower till it passes down through the floor. If you are on an upper close let it pass all the way to the ground. Let the earth take this energy to recycle it.
+
+Now final step is to do the traditional grounding. Picture yourself as a tree. Visualize roots coming out of the base of your spine and going down into the Earth. Feel the calmness of a tree, the rooted solidness.
+
+If after these three things you still feel hyper or spaced out you can either eat some food, or put a small amount of salt on your tongue. Another thing you can do is prostrate down to the ground, placing your head on the ground and stay like this for a few moments.
+
+–
+
+Feel free to copy and use this ritual so long as you acknowledge the source.

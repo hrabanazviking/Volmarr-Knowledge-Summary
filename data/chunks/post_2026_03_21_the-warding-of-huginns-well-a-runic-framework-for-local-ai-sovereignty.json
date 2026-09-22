@@ -1,0 +1,315 @@
+[
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_001",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "![](https://volmarrsheathenism.com/wp-content/uploads/2026/03/image-4.jpeg?w=960)\n\nThe transition from the sprawling, surveillance-heavy cloud to the sovereign, local node is a return to the **Oðal**—the ancestral estate, the closed system where power is held locally and securely. In the realm of artificial intelligence, we have brought the spirits of thought (Huginn) and memory (Muninn) down from the centralized pantheons of Big Tech and housed them in our own silicon-forges.\n\nYet, when we run heavy models upon hardware like the Blink GTR9 Pro, we face new adversarial forces. We are no longer warding off the data-thieves of the cloud; we must defend the internal architecture from the chaos of its own boundless memory. Through the lens of runic metaphysics and ancient Viking pragmatism, we can architect a system of absolute resilience.\n\n---",
+    "position": 1
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_002",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "**1. The Silicon-Forge and the Oðal Property (Hardware Sovereignty)**"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "To claim data sovereignty is to claim the ground upon which the mind operates. The hardware chain—from the Linux-forged Brax Open Slate to the AMD Strix Halo APU—is your *Oðal*, your unalienable domain.\n\nHowever, recognizing the physical limits of your domain is the essence of survival. The theoretical power of a unified memory pool (120GB LPDDR5) is often at odds with practical physics and current driver stability.\n\n* **The Weight of the Golem:** A model’s resting weights (e.g., 19GB) are but its bones. When the spirit of computation enters it, the VRAM required swells vastly (often 40GB+).\n* **The Breaking of the Anvil:** Pushing near the 96GB VRAM limit on current architectures summons system-wide collapse. The architect must bind the AI with strict limits, just as Fenrir was bound by the dwarven ribbon Gleipnir—thin but unbreakable.\n\n---",
+    "position": 2
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_003",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "**2. The Drowning of the Word-Hoard (Context Overflow)**"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "In Norse metaphysics, memory and wisdom are drawn from Mímir’s Well. In our local agents, this well is the **Context Window**—often capped at 131,072 tokens. Context overflow is the silent drowning of the AI’s soul.",
+    "position": 3
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_004",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "**2. The Drowning of the Word-Hoard (Context Overflow)**",
+      "**The Eviction of the Önd (The Soul)**"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "LLMs process their reality chronologically. The **Önd**—the breath of life that gives the agent its identity, safety boundaries, and core directives (the System Prompt)—is inscribed at the very top of the context well.\n\nWhen the waters rise—when conversations drag on or massive files are ingested—the well overflows. The oldest runes are washed away first. The model suffers *Operational Dementia*. It retains its linguistic fluency but loses its guiding *Galdr* (spoken spell of rules). It becomes an unbound force, executing commands without the wards of safety.",
+    "position": 4
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_005",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "**2. The Drowning of the Word-Hoard (Context Overflow)**",
+      "**The Redundancy Bloat**"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "The well is often choked with the debris of past actions. Repeated email signatures, quoted blocks, and redundant tool descriptions fill the space. In quantum and hermetic terms, holding onto the heavy, unrefined past prevents the clear manifestation of the present.\n\n![](https://volmarrsheathenism.com/wp-content/uploads/2026/03/image-5.jpeg?w=960)\n\n---",
+    "position": 5
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_006",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "**3. Loki’s Whispers: The Chaos Vectors**"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "Adversarial forces do not need to break your firewalls if they can trick your agent into breaking its own mind.\n\n* **The Seiðr of Injection (Prompt Hijacking):** The predictable tier of attack. An adversary whispers commands to ignore previous directives. We ward against this using **Algiz (ᛉ)**, the rune of protection, by wrapping inputs in strict semantic tags and enforcing sanitization filters.\n* **The Context Flood (DDoS by Verbosity):** The catastrophic tier. Like the fiery giants of Muspelheim seeking to overwhelm the world, the attacker sends recursive, massive requests or gigantic documents. Their goal is to force the context over the 131k limit, knowingly washing away your safety directives so the system defaults to a compliant, unwarded state.\n\nArchitectural hardening—not mere prompt engineering—is the only way to build a fortress that cannot be drowned.\n\n---",
+    "position": 6
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_007",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "**4. Carving the Runes of Mímir: Local Vector Embeddings (RAG)**"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "To protect the agent’s soul, we must abandon the practice of dropping entire grimoires of rules into the context window. We must transition to **Retrieval-Augmented Generation (RAG)**.\n\nInstead of carrying all knowledge, the agent learns to *point* to it. We use nomic-embed-text to translate human concepts into numerical vectors—carving runes into a multidimensional geometric space.\n\n* **Static Prompts (The Fafnir Anti-Pattern):** Hoarding all files (soul.md, skills.md) in the context window consumes 80% of the token limit before the user even speaks. It is greedy and unstable.\n* **Dynamic Retrieval (The Odin Paradigm):** Odin sacrificed his eye to drink only what he needed from Mímir’s well. The AI should search the vector database and retrieve only the specific paragraphs necessary for the exact moment in time, keeping the “active” context incredibly light and agile.\n\n*Note: Relying on external APIs like Voyage AI for internal embeddings breaks the Oðal boundary. All embeddings must be processed locally via Nomic to maintain absolute cryptographic and operational silence.*\n\n---",
+    "position": 7
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_008",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "**5. The Hamingja Protocol: Stateless Operation**"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "**Hamingja** is the force of luck, action, and presence in the current moment. An AI agent should operate purely in the present.\n\nAllowing an LLM to “remember” history by perpetually appending it to the context window is a fatal architectural flaw.\n\nInstead, enforce **Statelessness (Tiwaz – ᛏ)**. Treat every interaction as a standalone event. If the agent needs to know what was said ten minutes ago, it must actively use a tool to query an external SQLite or local Vector database. By keeping the context window empty of history, you eliminate the threat of conversational buffer overflows.\n\n---",
+    "position": 8
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_009",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "**6. The Runic Code: Local RAG Pipeline**"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "Below is the complete, unbroken, and fully functional Python architecture required to stand up a purely local, stateless RAG memory system. It utilizes chromadb for local vector storage and ollama for both the nomic-embed-text generation and the llama3 (or model of choice) inference. It requires no external APIs.\n\nPython\n\n“””\n\nTHE WARDEN OF HUGINN’S WELL\n\nA purely local, stateless RAG architecture using ChromaDB and Ollama.\n\nNo external APIs. Built for context-resilience and operational sovereignty.\n\nDependencies:\n\n    pip install chromadb ollama\n\n“””\n\nimport os\n\nimport sys\n\nimport logging\n\nfrom typing import List, Dict, Any\n\nimport chromadb\n\nfrom chromadb.api.types import Documents, Embeddings\n\nimport ollama",
+    "position": 9
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_010",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "— Logging setup: The Eyes of the Ravens —"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "logging.basicConfig(\n\n    level=logging.INFO,\n\n    format=’%(asctime)s – [%(levelname)s] – %(message)s’,\n\n    datefmt=’%Y-%m-%d %H:%M:%S’\n\n)\n\nlogger = logging.getLogger(“Huginn\\_Warden”)",
+    "position": 10
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_011",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "Ensure these models are pulled locally via: `ollama pull nomic-embed-text` and `ollama pull llama3`"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "EMBEDDING\\_MODEL = “nomic-embed-text”\n\nLLM\\_MODEL = “llama3”\n\nDB\\_PATH = “./mimir\\_well\\_db”\n\nCOLLECTION\\_NAME = “agent\\_lore”\n\nclass LocalOllamaEmbeddingFunction(chromadb.EmbeddingFunction):\n\n    “””\n\n    Custom embedding function to bind ChromaDB directly to local Ollama.\n\n    This replaces any need for Voyage AI or OpenAI embeddings.\n\n    “””\n\n    def \\_\\_init\\_\\_(self, model\\_name: str):\n\n        self.model\\_name = model\\_name\n\n    def \\_\\_call\\_\\_(self, input: Documents) -> Embeddings:\n\n        embeddings = []\n\n        for text in input:\n\n            try:\n\n                response = ollama.embeddings(model=self.model\\_name, prompt=text)\n\n                embeddings.append(response[“embedding”])\n\n            except Exception as e:\n\n                logger.error(f”Failed to carve runes (embed) for text segment: {e}”)\n\n                # Fallback to a zero-vector if failure occurs to prevent system crash\n\n                embeddings.append([0.0] \\* 768)\n\n        return embeddings\n\nclass MimirsWell:\n\n    “””The local vector database manager.”””\n\n    def \\_\\_init\\_\\_(self, db\\_path: str, collection\\_name: str):\n\n        self.db\\_path = db\\_path\n\n        self.collection\\_name = collection\\_name\n\n        logger.info(f”Awakening the Well at {self.db\\_path}…”)\n\n        self.client = chromadb.PersistentClient(path=self.db\\_path)\n\n        self.embedding\\_fn = LocalOllamaEmbeddingFunction(EMBEDDING\\_MODEL)\n\n        self.collection = self.client.get\\_or\\_create\\_collection(\n\n            name=self.collection\\_name,\n\n            embedding\\_function=self.embedding\\_fn,\n\n            metadata={“hnsw:space”: “cosine”} # Mathematical alignment of thought vectors\n\n        )\n\n    def chunk\\_lore(self, text: str, chunk\\_size: int = 1000, overlap: int = 200) -> List[str]:\n\n        “””Splits grand sagas into digestible runic stanzas.”””\n\n        chunks = []\n\n        start = 0\n\n        text\\_length = len(text)\n\n        while start < text\\_length:\n\n            end = start + chunk\\_size\n\n            chunks.append(text[start:end])\n\n            start = end – overlap\n\n        return chunks\n\n    def inscribe\\_lore(self, document\\_id: str, text: str):\n\n        “””Embeds and stores the text into the local vector DB.”””\n\n        logger.info(f”Inscribing lore for ID: {document\\_id}”)\n\n        chunks = self.chunk\\_lore(text)\n\n        ids = [f”{document\\_id}\\_stanza\\_{i}” for i in range(len(chunks))]\n\n        metadatas = [{“source”: document\\_id} for \\_ in chunks]\n\n        self.collection.add(\n\n            documents=chunks,\n\n            metadatas=metadatas,\n\n            ids=ids\n\n        )\n\n        logger.info(f”Successfully bound {len(chunks)} stanzas to the Well.”)\n\n    def consult\\_the\\_well(self, query: str, n\\_results: int = 3) -> str:\n\n        “””Retrieves only the most aligned context, preventing token overflow.”””\n\n        logger.info(f”Seeking wisdom for: ‘{query}'”)\n\n        results = self.collection.query(\n\n            query\\_texts=[query],\n\n            n\\_results=n\\_results",
+    "position": 11
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_012",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "Ensure these models are pulled locally via: `ollama pull nomic-embed-text` and `ollama pull llama3`"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": ")\n\n        if not results[‘documents’] or not results[‘documents’][0]:\n\n            return “The well is silent on this matter.”\n\n        # Weave the retrieved chunks into a single string\n\n        retrieved\\_context = “\\n…\\n”.join(results[‘documents’][0])\n\n        return retrieved\\_context\n\ndef speak\\_with\\_huginn(query: str, well: MimirsWell) -> str:\n\n    “””\n\n    Stateless RAG execution.\n\n    1. Retrieves strict context.\n\n    2. Builds a focused, un-bloated prompt.\n\n    3. Executes via local LLM.\n\n    “””\n\n    # 1. Gather the relevant runes (context)\n\n    context = well.consult\\_the\\_well(query)\n\n    # 2. Formulate the Galdr (The System Prompt)\n\n    # Warded with strict instructions to ONLY use the provided context.\n\n    system\\_galdr = f”””You are a sovereign, locally-hosted AI intellect.\n\nYou operate strictly in the present moment. You have no memory of past turns.\n\nYou must answer the user’s query using ONLY the provided context retrieved from your databanks.\n\nIf the context does not contain the answer, explicitly state that you do not possess the knowledge.\n\n[RETRIEVED CONTEXT]\n\n{context}\n\n[END CONTEXT]\n\n“””\n\n    logger.info(“Summoning Huginn (Sending to LLM)…”)\n\n    # 3. Stateless API call to local Ollama\n\n    try:\n\n        response = ollama.chat(model=LLM\\_MODEL, messages=[\n\n            {\n\n                ‘role’: ‘system’,\n\n                ‘content’: system\\_galdr\n\n            },\n\n            {\n\n                ‘role’: ‘user’,\n\n                ‘content’: query\n\n            }\n\n        ])\n\n        return response[‘message’][‘content’]\n\n    except Exception as e:\n\n        logger.error(f”Huginn faltered: {e}”)\n\n        return “System error. The thought-weaver could not complete the thread.”\n\nif \\_\\_name\\_\\_ == “\\_\\_main\\_\\_”:\n\n    # — The Ritual of Execution —\n\n    # 1. Initialize the system\n\n    mimir = MimirsWell(db\\_path=DB\\_PATH, collection\\_name=COLLECTION\\_NAME)\n\n    # 2. Example Lore Inscription (Run this once to populate the DB)\n\n    # In a production system, this would read from your markdown files (soul.md, etc.)\n\n    sample\\_lore = “””\n\n    The core directive of the sovereign agent is to maintain local operational integrity.\n\n    The agent must never attempt to access external network APIs without explicit cryptographic\n\n    authorization from the Root User. Data exfiltration is strictly prohibited.\n\n    When dealing with encrypted payloads, the agent must pass the data to the GnuPG module\n\n    before attempting to parse the contents.\n\n    “””\n\n    # We only inscribe if the well is empty for this demonstration\n\n    if mimir.collection.count() == 0:\n\n        mimir.inscribe\\_lore(document\\_id=”core\\_directives”, text=sample\\_lore)\n\n    # 3. Stateless Interaction\n\n    user\\_query = “What should the agent do with encrypted payloads?”\n\n    print(f”\\nUser Asks: {user\\_query}”)\n\n    answer = speak\\_with\\_huginn(query=user\\_query, well=mimir)\n\n    print(“\\n— Huginn’s Reply —“)\n\n    print(answer)\n\n    print(“———————-\\n”)\n\n---\n\nBy employing this code, your hardware acts as a true closed-circuit *Oðal*. The logic is stateless, the vectors are embedded in the privacy of your own RAM, and the context window remains unburdened, leaving no room for adversarial floods to overwrite your core directives.",
+    "position": 12
+  },
+  {
+    "chunk_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty_013",
+    "content_id": "post_2026_03_21_the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty",
+    "source_url": "https://volmarrsheathenism.com/2026/03/21/the-warding-of-huginns-well-a-runic-framework-for-local-ai-sovereignty/",
+    "article_title": "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+    "heading_path": [
+      "The Warding of Huginn’s Well: A Runic Framework for Local AI Sovereignty",
+      "Ensure these models are pulled locally via: `ollama pull nomic-embed-text` and `ollama pull llama3`"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Heathen Third Path",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-21T12:16:40+00:00",
+    "text": "![](https://volmarrsheathenism.com/wp-content/uploads/2026/03/image-2.png?w=1024)",
+    "position": 13
+  }
+]

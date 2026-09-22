@@ -1,0 +1,21 @@
+---
+content_id: post_2022_12_20_viking-norse-pagan-spells-to-overcome-the-obstacle-of-a-woman-you-are-interested-in-playing-hard-to-get
+url: https://volmarrsheathenism.com/2022/12/20/viking-norse-pagan-spells-to-overcome-the-obstacle-of-a-woman-you-are-interested-in-playing-hard-to-get/
+title: "Viking Norse Pagan Spells to Overcome the Obstacle of a Woman You Are Interested in Playing Hard to Get"
+published: "2022-12-20T23:15:59+00:00"
+modified: "2022-12-20T23:15:59+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["Uncategorized"]
+tags: []
+normalized_hash: "sha256:4db742d1ef2ecd1ff2e9a36d90e7bfad2fcd799d3e7fa1e4d3f68ff9a46aa1fa"
+---
+
+Here are several Viking Norse Pagan spells that you might try in order to overcome the obstacle of a woman you are interested in playing hard to get:
+
+1. A spell to open the heart: This spell is designed to help open the heart of the woman you are interested in and to create a sense of connection and attraction between you. To cast the spell, you will need a piece of paper, a pen, and a red candle. On the piece of paper, write the name of the woman you are interested in and your own name. Place the paper under the candle, and light the candle. As you do so, recite the following words: “Goddess Freya, hear my plea, open the heart of [woman’s name] to me. Let love and desire flow freely, as I will, so mote it be.” Allow the candle to burn down completely.
+2. A spell to create attraction: This spell is designed to create a sense of attraction between you and the woman you are interested in. To cast the spell, you will need a piece of paper, a pen, and a pink candle. On the piece of paper, write the name of the woman you are interested in and your own name. Place the paper under the candle, and light the candle. As you do so, recite the following words: “Goddess Freya, hear my call, bring love and passion to me, one and all. Create a bond of attraction between [woman’s name] and I, let our hearts and desires fly. As I will, so mote it be.” Allow the candle to burn down completely.
+3. A spell to create connection: This spell is designed to create a sense of connection and understanding between you and the woman you are interested in. To cast the spell, you will need a piece of paper, a pen, and a yellow candle. On the piece of paper, write the name of the woman you are interested in and your own name. Place the paper under the candle, and light the candle. As you do so, recite the following words: “Odin, Hoenir, Lodur, hear my call, bring understanding and connection to [woman’s name] and I, one and all. Let our hearts and minds align, and let our love and desire shine. As I will, so mote it be.” Allow the candle to burn down completely.
+4. A spell to break down barriers: This spell is designed to help break down any barriers or obstacles that might be standing in the way of a relationship with the woman you are interested in. To cast the spell, you will need a piece of paper, a pen, and a green candle. On the piece of paper, write the name of the woman you are interested in and your own name. Place the paper under the candle, and light the candle. As you do so, recite the following words: “Thor, god of strength and protection, break down the barriers that stand between [woman’s name] and I. Let our hearts and minds connect, and let our love and desire intersect. As I will, so mote it be.” Allow the candle to burn down completely.
+
+It is important to keep in mind that these spells are meant to be used as tools to guide the process of wooing a woman, and that they should be used in conjunction with more practical efforts such as communication and building a connection. It is also important to remember that spells are not a substitute for consent, and that it is always important to respect the wishes and desires of the other person in any potential relationship.

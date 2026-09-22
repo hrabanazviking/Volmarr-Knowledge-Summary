@@ -1,0 +1,24 @@
+---
+content_id: post_2013_05_14_book-review-of-sea-sky-soil
+url: https://volmarrsheathenism.com/2013/05/14/book-review-of-sea-sky-soil/
+title: "Book review of Sea Sky Soil"
+published: "2013-05-15T02:56:50+00:00"
+modified: "2013-05-15T02:56:50+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["Books"]
+tags: []
+normalized_hash: "sha256:b8f956bea79eb8a545143478c8620e5561fde6251102abcbccaceaabb2a6045f"
+---
+
+For those interested in learning some very interesting theories about the hidden aspects of the Vanir I recommend the book [Sea Sky Soil](http://www.amazon.com/Sea-Sky-Soil-Introduction-Waincraft/dp/1300548835/ref=sr_1_1?ie=UTF8&qid=1368585855&sr=8-1&keywords=sea+sky+soil). This book is based on the [Vanir Theory](http://waincraft.org/world-view/the-vanir-theory/). It basically deconstructs the theoretical hidden Vanir deities on an archetypal level using the theories expressed by the Vanir theory. This book is like looking at the bones of what makes up northern European Paganism, but outside the level of particular names or traditions. It’s spiritual dissection of the essence of things.
+
+From my own personal work with the Vanir the ideas expressed in this book totally make sense and are important for understanding about the greater whole of the Vanir which the lore does not describe. In the least it does offer up potential avenues to pursue in pathworking attempts at contacting these other hidden Vanir.
+
+Waincraft is a tradition the authors of the book and others have made based on these archetypes they have derived from their work. I see Waincraft as more of a loose theoretical framework that is useful for people practicing Heathenism or Norse-Paganism. People could if they wanted practice Waincraft on it’s own as a religious tradition, but by itself it is very barebones and abstract in nature, very dispersonal. It’s true value comes out when used as a way to gain a deeper understanding of northern European Heathenism/Paganism (that has more of a Vanic like slant to it).
+
+The section of the book that talks about spirit animals from a Northern European slant is amazing and perhaps the best writing anyone has made in making them clear to understand and have a deeper sense of meaning. When comparing the ideas there to the common Native American based concepts of the various spirit animals I can see some similar aspects for some animals but some totally different aspects for other animals. Of course it has animals listed with are not common or important for Native American traditions but are of importance for Heathenism or Norse-Paganism.
+
+For anyone following any shamanic oriented northern European Heathen or Pagan practices this book would be totally invaluable since it provides a complete and detailed and I feel very accurate cosmology. There is no practices here though, it is merely like a catalog of concepts, but a very well done one.
+
+Anyone that is looking to more deeply understand the nature of northern Heathenism or Paganism should get this book. It is ideas which are brilliant and totally ahead of their time. To make use of this book you need to be practicing some path of Northern European Paganism/Heathenism or be someone that prefer something that is very abstract, but the concepts here will vastly enhance your understanding of any northern form of Paganism/Heathenism you may be following.

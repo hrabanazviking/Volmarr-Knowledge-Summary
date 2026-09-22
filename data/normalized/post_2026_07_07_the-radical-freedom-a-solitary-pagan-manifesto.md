@@ -1,0 +1,59 @@
+---
+content_id: post_2026_07_07_the-radical-freedom-a-solitary-pagan-manifesto
+url: https://volmarrsheathenism.com/2026/07/07/the-radical-freedom-a-solitary-pagan-manifesto/
+title: "THE RADICAL FREEDOM: A Solitary Pagan Manifesto"
+published: "2026-07-07T04:55:13+00:00"
+modified: "2026-07-28T23:12:24+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["1990s Paganism", "5D warfare", "Asatru", "Conflicts Within Heathenism", "Cyber Viking", "Defeating Gatekeeping", "Defeating Wokism", "Devotion", "Enlightened Capitalism", "Free Speech", "Freedom", "Heathen Third Path", "Heritage", "Intro to Heathenism", "Learning Heathenism", "Neo-Paganism", "Norse Paganism", "Norse-Wicca", "Pagan Elders", "Resistance", "Saxon Paganism", "Social Behavior", "Solitary Paganism", "Sovereign Paganism", "Spiritual Practices", "Spirituality", "Technocratic Serpent", "Thews (Virtues)", "Traditional Witchcraft", "Vanatru", "Wicca", "Wisdom", "ancestors", "crackpot ideas", "dangerous ideas", "dangerous philosophy", "defeating Trumpism", "defeating greed based capitalism", "defeating neo-liberalism", "defeating the Technocracy", "democratic socialism", "digital oucastes", "digital sovereignty", "government mind control", "individual sovereignty", "insane philosophy", "modern Viking culture", "open source ai", "opensource AI", "personal sovereignty", "politics", "surveillance state", "thought control", "tinfoil hat", "weird ideas", "writings of neurodivergent philosophers", "writings of tinfoil hat wearers"]
+tags: []
+normalized_hash: "sha256:d049e3679f6fde2af3cf3845ab605b56c1857222e8922ca29a159bad31549e9a"
+---
+
+### *An Unwavering Shield Against the New Inquisitors*
+
+We remember the early 1990s. We remember when Paganism was a refuge for the heretic, the outcast, the mystic, and the fiercely independent. We gathered in moonlit fields, incense smoke-filled living rooms, and back-room occult shops because we were unified by a singular, foundational truth: **The Divine speaks directly to the individual, and no human institution has the right to stand as a gatekeeper between the soul and the cosmos.**
+
+Today, a hollow, bureaucratic rot has infected the collective Pagan scene. The vibrant, chaotic, and liberated current of our ancestors has been choked by a new breed of puritans. They wear the mask of progressivism, but their methods are identical to the oldest, most oppressive religious hierarchies in human history.
+
+We break our silence to name this corruption, to defy it, and to declare our absolute independence from it.
+
+## 1. Against the Bureaucracy of “Closed Practices”
+
+The concept of the “closed practice” as weaponized in the 2020s is an ideological cage. It assumes that the Gods, Goddesses, the spirits of the land, the and the ancient currents of magick care about modern socio-political identities.
+
+* **Our Reality:** The Web of Wyrd weaves through all things. The runes, the ancient deities, and the mysteries of the Earth do not check human credentials before they speak to a seeking heart.
+* **The Truth:** Restricting spiritual exploration based on rigid categories is nothing more than cultural hoarding. It mimics the worst of tribal gatekeeping and institutional dogmatism. If a God or Goddess calls to you, you answer. Period. No internet tribunal has the authority to issue a permit for your devotion.
+
+## 2. Against Forced Politics and Ideological Conscription
+
+Paganism is a vast, multidimensional landscape of cosmic law, ancient philosophy, and raw nature. It is not an arm of any 2020s political party or social agenda.
+
+* **The Intruders:** The current scene demands absolute conformity to modern “woke” orthodoxy, transforming sacred spaces into echo chambers for secular political discourse.
+* **Our Reality:** Nature is beautiful, brutal, complex, and indifferent to human political trends. Forcing ancient, cosmic realities to fit into the microscopic, hyper-temporary frameworks of 21st-century social engineering is an act of supreme arrogance. We seek the eternal, not the trend.
+
+## 3. Against the Sacrilege of Elder Cancel Culture
+
+We watch with disgust as 2020s internet mobs track down, tear apart, and attempt to erase Pagan elders—the very people who built the foundations, published the texts, fought the legal battles, and kept the flames alive when it was genuinely dangerous to be a Pagan.
+
+* **The Crime:** Young practitioners, armed with nothing but unearned moral superiority and an internet connection, weaponize “cancel culture” to destroy the legacies of our elders over minor disagreements, language evolutions, or refusal to bow to modern dogmas.
+* **Our Value:** This is a profound violation of ancestral and community honor. We do not discard our elders when their vocabulary doesn’t match the shifting consensus of a social media platform. We owe them our respect, our protection, and our gratitude. To cancel an elder is to cut your own roots.
+
+> ### The Mirror of Tyranny
+>
+> Let us be entirely clear: The authoritarian, hyper-controlling, dogma-enforcing behavior of the 2020s Pagan scene is **no better than Christian Nationalism.** Both operate from the exact same psychological defect—the desperate, insecure urge to police the thoughts, words, and private spiritual lives of others. One uses the Bible; the other uses a social justice glossary. Both are enemies of human liberty.
+
+## Why the Tribes Have Scattered
+
+The current arbiters of the organized Pagan scene wonder why their festivals are emptying, why their local groups are fracturing, and why the vibrant community of the late 20th century feels dead.
+
+They blame “apathy.” They are wrong.
+
+The collective spiritual intelligence of the modern Pagan movement has looked at the drama, the policing, the constant hyper-vigilance, and the endless ideological purity tests—and we have chosen to walk away.
+
+The majority of Pagans today are **resolutely solitary**. We have returned to the woods, to our private altars, to our local hearths, and to our individual code. We are highly resistant to organized scenes because we refuse to exchange the tyrannical dogmatism of the church we left behind for the tyrannical dogmatism of an online consensus.
+
+We do not need your permission. We do not need your validation. We do not recognize your authority.
+
+**The fire is ours. The sky is ours. The magick remains free.**

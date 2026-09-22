@@ -1,0 +1,34 @@
+---
+content_id: post_2013_02_14_volmarrs-daily-spiritual-rituals-and-practices
+url: https://volmarrsheathenism.com/2013/02/14/volmarrs-daily-spiritual-rituals-and-practices/
+title: "Volmarr’s daily spiritual rituals and practices"
+published: "2013-02-14T22:00:18+00:00"
+modified: "2013-05-01T01:26:46+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["Spirituality"]
+tags: []
+normalized_hash: "sha256:9fbc8a640d13c6c6afac312e70a5ff199ca8e1c6c3ca3d6f1a6e5152a83f8d91"
+---
+
+This is shared so as to inspire others to perhaps take up a similar set of daily practices. It really does help a great deal to have such a daily practice, and it is the key thing in making ones religious practice truly spiritual.
+
+Every day I do the following and in this order:
+
+Short invocation prayer to Sunna, which comes from [Northern Tradition for the Solitary Practitioner](http://www.amazon.com/gp/product/1601630344/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601630344&linkCode=as2&tag=volmarr-20), page 53.
+
+A [Hammer hollowing ritual](https://volmarrsheathenism.wordpress.com/2012/12/03/lessor-hallowing-ritual-of-the-hammer-lhrh/) to banish negative energies and invoke protection and positive energies.
+
+Short devotional ritual to Freyja in which I offer incense and candle flame, and draw one rune for the day. The ritual used is the one from [Northern Tradition for the Solitary Practitioner](http://www.amazon.com/gp/product/1601630344/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601630344&linkCode=as2&tag=volmarr-20), the morning devotional page 161, adding my [own invocation](https://volmarrsheathenism.wordpress.com/2012/12/01/asatru-god-goddess-and-wight-invocations/) at the start of it, and not doing the oil consecration part.
+
+A set of short prayers related to most of the gods/goddesses (Aesir and Vanir). They are some of the prayers from chapter 5 of [Northern Tradition for the Solitary Practitioner](http://www.amazon.com/gp/product/1601630344/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601630344&linkCode=as2&tag=volmarr-20). That book says to do the prayers using prayer beads, but I don’t see any need for the beads, just go through the prayers I like each day. The ones I do are section I, section V, and the first part of section IX stopping at and including Njord. You can find those on pages 110-115.
+
+Daily offering blot of grape juice to the god, goddess, or wight of the day. Fridays I offer separately to both Freyja, and Freyr. On Saturdays I now offer to Njord since he does not have his own day, and also to my ancestors. Other days the god, goddess, or wight whom the day of the week is named for. This daily blot is simple, I step outside with a horn filled with grape juice, raise the horn, speak the [invocation](https://volmarrsheathenism.wordpress.com/2012/12/01/asatru-god-goddess-and-wight-invocations), drink half the juice and pour out the rest for the god/goddess/wight.
+
+On Tuesdays additionally in honor of Tyr I read through the thews (virtues) which I follow which happen to be the [Vanir Virtues](https://volmarrsheathenism.wordpress.com/2013/01/31/the-vanic-virtues/)
+
+15 minutes sitting silent meditation.
+
+At night I do a short nightly devotional ritual to Freyja, similar to the one I do in the morning. It is the one listed in [Northern Tradition for the Solitary Practitioner](http://www.amazon.com/gp/product/1601630344/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601630344&linkCode=as2&tag=volmarr-20), as the evening devotional page 162-163, adding my [own invocation](https://volmarrsheathenism.wordpress.com/2012/12/01/asatru-god-goddess-and-wight-invocations/) at the start of it, and not doing the oil consecration part. In that ritual I thank Freyja for all positive things that have happened during the day. Thanking your god or goddess for positive things that happens helps to encourage more of similar things to happen in the future for you.
+
+All of this may sound like a lot but it takes less than an hour to do the morning part, more often around 40 minutes, and makes a huge difference in how I feel in general and in greatly improved events for the day. The night part only takes 5 minutes if even that long. I even do that part in the middle of a moment I have woken from sleep if I happen to fall asleep before doing it, and then go right back to bed after.

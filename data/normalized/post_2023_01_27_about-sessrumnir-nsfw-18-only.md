@@ -1,0 +1,140 @@
+---
+content_id: post_2023_01_27_about-sessrumnir-nsfw-18-only
+url: https://volmarrsheathenism.com/2023/01/27/about-sessrumnir-nsfw-18-only/
+title: "About Sessrumnir (NSFW 18+ only)"
+published: "2023-01-27T21:54:28+00:00"
+modified: "2023-01-27T22:08:24+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["Cosmology", "Lore", "Mythology", "Spirituality"]
+tags: []
+normalized_hash: "sha256:640991c5cd037c8508ba9334bf5b86445ac67da822afd3525877b5e46a253242"
+---
+
+![](https://volmarrsheathenism.com/wp-content/uploads/2023/01/output.jpg?w=512)
+
+Sessrumnir is an enchanted palace, ruled over by the Norse goddess Freyja. It is a place of beauty and luxury, surrounded by lush forests and meadows. The walls of the palace are made of shimmering gold, and the roofs are adorned with shining silver. Inside the palace, there are many comfortable and inviting rooms, filled with luxurious furnishings and treasures. The palace is warm and inviting, with plenty of places to sit and recline, and thick fur rugs and warm firepits giving off a tranquil atmosphere.
+
+The inhabitants of Sessrumnir are the Valkyries, beautiful and powerful shield-maidens who serve Freyja and take fallen warriors to Valhalla. They also protect and care for the palace, ensuring that it remains a place of peace and contentment.
+
+Freyja invites her guests to partake of the feasts, dances, orgies, and games held in her palace. There are swimming activities in the lake, archery contests, and live music. The palace also contains many libraries filled with scrolls and manuscripts, art galleries with beautiful paintings and sculptures, and secret gardens with exotic plants and flowers. There are plenty of cozy and romantic spots tucked away in quiet corners.
+
+As well, there are sensual baths, attended by bath bondmaids, pleasure gardens filled with beautiful bondmaids to fulfill desires, separate pleasure gardens filled with handsome man-servants, courtyards for combat practice and training, and weapons of war.
+
+Sessrumnir is a place of joy and pleasure, a tranquil and luxurious respite from the outside world. Anyone who visits will find themselves surrounded by beauty, comfort, and contentment.
+
+The orgies held at Sessrumnir are legendary, and they attract all sorts of guests, from gods and goddesses to warriors and warriors-in-training. The orgies are often a wild and decadent affair, with dancing, drinking, and feasting. They also contain more sensual activities, such as lovemaking and sexual exploration, which are encouraged and celebrated. The orgies are a chance for the participants to let loose and explore their deepest desires and fantasies.
+
+The orgies are typically attended by Freyja and her Valkyries. Other guests may include gods and goddesses, warriors, and warriors-in-training, as well as anyone else who wishes to attend. Everyone is welcome, regardless of gender or sexual orientation, and all are encouraged to explore and experience pleasure.
+
+The inhabitants of Sessrumnir are primarily Valkyries, beautiful and powerful shield-maidens who serve Freyja and take fallen warriors to Valhalla. They also protect and care for the palace, ensuring that it remains a place of peace and contentment. Freyja herself often resides at the palace, as do other gods and goddesses. Warriors-in-training, as well as anyone else with the permission of Freyja, may also reside at Sessrumnir.
+
+The Valkyries are granted the privilege of residing at Sessrumnir as a reward for their faithful service to Freyja. Warriors-in-training may be granted residence at the palace if they show potential and potential for greatness. Anyone else who wishes to reside at Sessrumnir must gain Freyja’s permission in order to do so.
+
+Those who devote themselves to Freyja during their lifetime may be rewarded with residence in Sessrumnir for eternity. This wondrous palace offers an afterlife of luxury and comfort, surrounded by beauty and contentment. The faithful servants of Freyja who reside in Sessrumnir will forever enjoy all the joys that the palace has to offer, from feasting and dancing to swimming and archery contests. They will also be surrounded by the love and protection of Freyja and her Valkyries, immortalized in this magical place.
+
+Freyja chooses Valkyries to serve her who are strong, beautiful, and capable. They are often chosen from the bravest and most loyal warriors, and they are devoted to Freyja and her cause. Besides their primary duties of gathering fallen warriors to the afterlife, they also serve Freyja in many other ways. They protect and care for the palace, ensuring that it remains a place of peace and contentment. They also attend to Freyja personally, serving her at feasts and dances and fulfilling her desires. They also act as messengers, running errands and delivering messages on behalf of Freyja. Finally, they act as guardians, ensuring that no harm comes to those within the palace walls.
+
+The Valkyries who serve Freyja at Sessrumnir are tasked with attending to the needs and desires of those who live or visit the palace. They provide protection and care for the palace and its inhabitants, ensuring that it remains a place of peace and contentment. They also provide entertainment and companionship, attending to guests at feasts and dances and fulfilling their desires. The Valkyries also act as guides, helping visitors to explore the palace and its many wonders. Finally, they act as servants, attending to the needs of those who reside at the palace, from providing food and drink to running errands and delivering messages.
+
+The Valkyries of Sessrumnir also provide sexual pleasure to those who desire it. They are often present at orgies and other sensual activities, attending to the needs and desires of those who participate. The Valkyries also provide more intimate services, such as providing massage and bodywork. They also keep the pleasure gardens filled with beautiful bondmaids, who are there to fulfill all desires. Finally, the separate pleasure gardens filled with handsome man-servants are there to provide companionship and sexual pleasure to those who prefer men.
+
+Freyja’s Valkyries are attired in a variety of different garments, depending on the occasion. For everyday duties, they often wear light armor, such as leather or mail, and a helmet with a face-guard. For more formal occasions, they typically wear dresses of silk or velvet, sometimes with a mantel of fur. They also often wear ornate jewelry, such as necklaces, bracelets, and rings. For battle, they wear heavier armor, sometimes adorned with feathers or fur, and carry shields and weapons of war.
+
+The einherjar are the warriors who have been chosen by Freyja to serve her in the afterlife. They reside in Sessrumnir, taking part in feasts and dances and other activities. While in Sessrumnir, the einherjar are tasked with protecting the palace and its inhabitants, and ensuring that no harm comes to them. They also act as Freyja’s personal guard, accompanying her on her travels and providing protection in times of need.
+
+Due to Freyja’s status as the goddess of witchcraft and magick, Sessrumnir is often home to many practitioners of the mystical arts. Volva, Vitki, and other kinds of magick-users are often drawn to the palace, drawn by Freyja’s power and influence. They come to Sessrumnir to learn, to practice, and to share their knowledge. They are also drawn to the palace’s luxurious and inviting atmosphere, which is perfect for studying the ancient arts.
+
+The Volva and Vitki use their magick to help protect and care for the palace and its inhabitants. They also use their magick to help Freyja in her travels, and to fulfill the desires of Freyja and her guests. Those who have devoted their lives to the practice of magick may also be rewarded with residence in Sessrumnir in their afterlife, where they can enjoy all the splendor that the palace has to offer.
+
+Sessrumnir is home to many massive libraries, filled with scrolls, books, and manuscripts about all aspects of magick, the occult, philosophy, and esoteric knowledge. These libraries are carefully maintained and guarded, and they contain a wealth of knowledge that is not available anywhere else. Those who come to Sessrumnir seeking knowledge can find it within these libraries, which offer a vast array of books, scrolls, and manuscripts about all manner of magickal and spiritual topics.
+
+The libraries also contain ancient texts and artifacts, which can provide insight into ancient magickal practices and beliefs. Those who wish to learn more about magick and the occult can find a great wealth of information within the walls of Sessrumnir.
+
+Sessrumnir is a clothing optional place, where nudity is commonplace. Freyja herself often chooses to be naked much of the time, and her Valkyries and other servants often follow suit. Nudity is also common among guests, many of whom choose to shed their clothes and enjoy the freedom of being unencumbered.
+
+At Sessrumnir, nudity is seen as a sign of trust and acceptance. It is a place where people can be free to be their true selves, and enjoy the pleasure of the body. In this way, nudity is seen as a way to bond and connect with one another, and to celebrate the beauty of the human form.
+
+At Sessrumnir, guests and residents alike are expected to act in accordance with the Vanic Virtues. These virtues include frith (peace and harmony), acceptance, joy, celebration, pleasure, love, and being in harmony with nature. All are expected to treat each other with kindness and respect, and to celebrate each other’s differences.
+
+The Vanic Virtues:
+
+Beauty
+
+The pursuit of beauty and elegance in thought, form and speech.
+
+Courage/Passion
+
+Zeal, vigor; the strength and courage that comes from a life worth living.
+
+Land-rightness
+
+The recognition of nature and the environment as worthy of respect, care and reverence.
+
+Even-mood
+
+Harmonious and balanced thought and action; tranquility, calm, serenity.
+
+Openness
+
+The quality of being receptive to the world around one, non-judgmental and open.
+
+Wildness/Ecstasy
+
+Music and dance; the nurturing of inner wildness and childlike being, being like the “fey”
+
+Love
+
+The all-encompassing force; love for family, for kin, for humanity, for all beings.
+
+Frith
+
+The peace and goodwill between people bound together; loyalty and the keeping of one’s word.
+
+Faith/Piety
+
+The trust that the Gods exist and are worthy of our worship, and Their ways worth following.
+
+Giving
+
+The binding of two parties into one common bond, generosity and hospitality.
+
+Joy
+
+Wonder and innocence, the recognition that life is worth living, and worth living well.
+
+Brotherhood
+
+The recognition that we – humans, animals, plants, spirits – are all part of the grander scheme of life, and we share a common heritage, as children of the Earth.
+
+At Sessrumnir, guests and residents alike are encouraged to enjoy themselves and celebrate life. They are free to explore their desires, to partake in feasts and dances, and to relax and be in harmony with nature. There is also a strong emphasis on balance and moderation, and all are expected to keep their actions in check and respect the peace and harmony of the palace. Sessrumnir is a place of acceptance and joy, where guests and residents alike can come together and celebrate life.
+
+Sessrumnir is a very sex positive place, where all forms of sexual expression between consenting adults is welcomed and encouraged. Sexual activities are often seen in public areas of the palace, day and night. Many who reside at Sessrumnir are poly or in open relationships, but monogamous relationships are also respected.
+
+Sessrumnir is a warm and loving place, where hugs and cuddling are very common and normal between most people. Intimacy and pleasure are celebrated, and there is a strong emphasis on consent and communication. People are free to explore their desires and to enjoy each other’s company, in whatever way feels right for them. Sessrumnir is a place where all types of relationships and sexual activities are respected and celebrated.
+
+Sessrumnir is a popular destination for the Norse gods and goddesses. The gods Freyr, Njord, Thor, and Odin are often seen at the palace, enjoying the feasts and festivities that are held there. Other gods and goddesses, such as Idunn, Bragi, Frigga, Sif, Eir, Ēostre, Nehalennia, Heidh, and many others also often visit the palace, partaking in wild revelries and enjoying the luxurious atmosphere.
+
+The gods and goddesses who visit Sessrumnir are often welcomed with open arms, and their presence is celebrated with much joy and merriment. Guests of all kinds are encouraged to partake in the festivities, and to explore all the wonders that the palace has to offer. Sessrumnir is a place of joy and pleasure, where gods and mortals alike can come together and celebrate life.
+
+Sessrumnir is a popular destination not only for gods and mortals, but also for mythical creatures. Light elves, dark elves, and other mystical creatures are often seen at the palace, enjoying the festivities and exploring the many wonders that it has to offer. They are welcomed with open arms, and their presence is celebrated with much joy and merriment.
+
+The palace is also a popular destination for other frith-minded beings, such as faeries and sprites. These creatures often come to Sessrumnir to explore, to learn, and to enjoy the peace and harmony that can be found within the palace walls. They are welcomed as friends, and are often seen partaking in the festivities and revelries that take place there.
+
+Sessrumnir is a popular destination for gods and goddesses from many different pantheons. Friendly gods and goddesses from other pantheons are often seen at the palace, enjoying the feasts and revelries and exploring the many wonders that it has to offer. They are welcomed with open arms, and their presence is celebrated with much joy and merriment.
+
+These gods and goddesses often come to Sessrumnir in search of friendship and companionship, and to enjoy the social atmosphere. They are free to explore all the pleasures that the palace has to offer, and to share their knowledge and culture with those who live there. Sessrumnir is a place of acceptance and celebration, where gods and mortals alike can come together and enjoy each other’s company.
+
+Sessrumnir is a unique and wondrous place, a palace of beauty and luxury that is home to gods, goddesses, mythical creatures, and mortals alike. It is a place of joy and pleasure, where guests and residents can explore their desires and celebrate the beauty of life. From feasts and dances to swimming and archery contests, Sessrumnir offers something for everyone.
+
+The Vanic Virtues are the guiding principles of the palace, and they encourage kindness and respect between all who enter its walls. At Sessrumnir, nudity is commonplace, and sexual expression between consenting adults is welcomed and encouraged. Sessrumnir is a place of acceptance, where gods, goddesses, and creatures of all kinds are welcomed and celebrated.
+
+Sessrumnir is a place of peace and contentment, a respite from the outside world and a refuge for those seeking solace. It is a place of beauty and luxury, where one can enjoy the pleasures of life and explore the mysteries of the occult. It is a place of acceptance, where all are welcomed and respected. Sessrumnir is a place of pleasure and joy, where gods and mortals alike can come together and celebrate life.
+
+At Sessrumnir, visitors can indulge in feasting, dancing, and other activities, explore the palace and its many wonders, and learn more about magick and the occult. They can explore their desires, find companionship and acceptance, and take part in activities such as swimming and archery contests. Most importantly, they can experience the joy and pleasure of being in the presence of Freyja and her Valkyries, and enjoy the love and protection that they provide.
+
+For those who have devoted themselves to Freyja, Sessrumnir can offer an eternity of luxury and comfort, surrounded by beauty and contentment. The faithful servants of Freyja who reside in Sessrumnir will forever enjoy all the joys that the palace has to offer, from feasting and dancing to swimming and archery contests. They will also be surrounded by the love and protection of Freyja and her Valkyries, immortalized in this magical place.
+
+Sessrumnir is a place unlike any other, a palace of beauty and luxury that is home to gods, goddesses, mythical creatures, and mortals alike. It is a place of joy and pleasure, where guests and residents can explore their desires and celebrate the beauty of existence.
+
+In conclusion, Sessrumnir is a place of joy and pleasure, a tranquil and luxurious respite from the outside world. It is a place of beauty and luxury, where gods, goddesses, mythical creatures, and mortals alike can come together and celebrate life. It is a place of acceptance and celebration, where all forms of sexual expression between consenting adults are welcomed and encouraged. With its Vanic Virtues, Sessrumnir encourages kindness and respect between all who enter its walls, and is a place of peace and contentment, where one can explore their desires and explore the mysteries of the occult. Sessrumnir is a place where the energies of joy, love, celebration, fun, beauty, and sex are generated to help increase the fertility of the Earth and all the beings residing there. It is a place of acceptance and joy, where gods and mortals alike can come together and celebrate life.

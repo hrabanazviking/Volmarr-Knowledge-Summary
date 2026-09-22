@@ -1,0 +1,14 @@
+---
+content_id: post_2013_02_27_traditions
+url: https://volmarrsheathenism.com/2013/02/27/traditions/
+title: "Traditions"
+published: "2013-02-28T00:37:16+00:00"
+modified: "2013-05-01T01:21:19+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["Uncategorized"]
+tags: []
+normalized_hash: "sha256:a92a313e94938e0ba6fd40e47e27477aafd7c13e495af7a273ef372d2d3009ac"
+---
+
+No matter what we may consider our religion to be labeled, Heathenism, Asatru, Vanatru, Norse-Paganism, Anglo-Saxon Paganism, Northern Tradition Paganism, we still all follow various separate traditions within any one of those various religions, with tradition being a sub-path within the larger label of religion. I have my own tradition. It is mine. I may choose to share it with others who are interested in it, if there is any such, but that is not at all my purpose in having my own tradition. I have my own tradition simply because it is what works for me spiritually. I don’t expect what works for me will be what works for and/or is ideal for others. In some cases it may be, but that is not for me to decide, only each individual can decide if they wish to follow another persons tradition or even make their own. Just because I may take some elements from or gain some ideas from or be in some ways inspired by some other traditions does not in any way make what I follow that other person’s tradition. My tradition is only my own. There is not a tradition existing that does not take ideas from other traditions and remix them with their own ideas to make their own tradition. This borrowing and remixing is how all new traditions are made. People of other traditions need to keep in mind what may be good or bad for practioners to do in their own tradition’s system does not hold true in other people’s traditions. Each tradition has it’s own basis for how things work and why. I do what I do in my own tradition because that is what works for the basis of mine. I am not a heretic of your tradition, because I am not even a member of your tradition. Unless you are someone who follows my exact tradition than even you have no concept of why I do whatever I happen to do.

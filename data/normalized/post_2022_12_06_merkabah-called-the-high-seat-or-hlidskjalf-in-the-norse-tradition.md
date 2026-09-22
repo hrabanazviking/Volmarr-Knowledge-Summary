@@ -1,0 +1,20 @@
+---
+content_id: post_2022_12_06_merkabah-called-the-high-seat-or-hlidskjalf-in-the-norse-tradition
+url: https://volmarrsheathenism.com/2022/12/06/merkabah-called-the-high-seat-or-hlidskjalf-in-the-norse-tradition/
+title: "Merkabah Called the High Seat or Hlidskjalf, in the Norse Tradition"
+published: "2022-12-07T00:18:03+00:00"
+modified: "2022-12-07T00:21:22+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["Magick", "Metaphysics", "Mythology", "Spiritual Practices", "Spirituality", "Uncategorized", "Vikings", "Wisdom"]
+tags: []
+normalized_hash: "sha256:139ae6b1aa6c4b482e763f968644de75ab0c2f600ed2ae132ad36ed2e7677431"
+---
+
+In the Norse pagan tradition, the Merkabah is often referred to as the “high seat” or “Hlidskjalf,” which is a term used to describe a throne or seat of power. This high seat is said to be a device or vehicle that can be used for spiritual ascension, time travel, and other mystical purposes.
+
+One of the most famous users of the high seat in Norse mythology is the god Odin, who is often depicted seated on his throne, gazing out over the nine realms and gaining knowledge and wisdom through his all-seeing eye. Odin is said to have discovered the secrets of the high seat through his own spiritual quests and explorations, and to have used it to gain insights and knowledge that were not accessible to other beings.
+
+The high seat is also associated with other Norse deities, such as Frigg, who is said to be the queen of the gods and to possess her own high seat from which she observes and guides the affairs of the nine realms.
+
+In the Norse Pagan tradition, the high seat is seen as a symbol of spiritual power and wisdom, and is often invoked in rituals and practices related to divination, magic, and spiritual enlightenment. It is a powerful and transformative device that can be used to access higher dimensions, transcend time and space, and connect with the divine forces of the universe.

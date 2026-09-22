@@ -1,0 +1,10 @@
+# Excluded URL patterns and paths
+/feed/
+/comments/feed/
+/category/
+/tag/
+/page/
+/author/
+/wp-content/uploads/
+?replytocom=
+?share=

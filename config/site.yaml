@@ -1,0 +1,25 @@
+site:
+  base_url: "https://volmarrsheathenism.com"
+  domain: "volmarrsheathenism.com"
+  sitemap_url: "https://volmarrsheathenism.com/sitemap.xml"
+  feed_url: "https://volmarrsheathenism.com/feed/"
+
+crawl:
+  same_domain_only: true
+  respect_robots_txt: true
+  preserve_original_html: true
+  preserve_publication_date: true
+  preserve_modified_date: true
+  preserve_categories: true
+  preserve_tags: true
+  preserve_author: true
+  rate_limit_seconds: 0.5
+  timeout_seconds: 15
+
+exclude:
+  - attachment_pages
+  - feeds
+  - comment_pages
+  - search_results
+  - duplicate_archives
+  - image_only_pages

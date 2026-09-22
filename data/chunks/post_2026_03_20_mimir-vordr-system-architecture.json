@@ -1,0 +1,1308 @@
+[
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_001",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "![](https://volmarrsheathenism.com/wp-content/uploads/2026/03/951ea063-64dc-44cb-9400-1c8c428303cc.jpg?w=576)",
+    "position": 1
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_002",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "The Warden of the Well — Complete Technical Reference",
+      "Ørlög Architecture / Viking Girlfriend Skill for OpenClaw"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "—\n\n> \\*”Odin gave an eye to drink from Mímir’s Well and received the wisdom of all worlds.\n\n> The Warden drinks for Sigrid — extracting truth from ground knowledge\n\n> so she never has to guess when she can know.”\\*\n\n—",
+    "position": 2
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_003",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "1. What Is Mímir-Vörðr?"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "\\*\\*Mímir-Vörðr\\*\\* (pronounced \\*MEE-mir VOR-dur\\*) is the intelligence accuracy layer of\n\nthe Ørlög Architecture. It is a \\*\\*Multi-Domain RAG System with Integrated Hallucination\n\nVerification\\*\\* — a system that treats Sigrid’s internal knowledge database as the\n\nauthoritative \\*\\*Ground Truth\\*\\* and actively prevents language model hallucinations from\n\nreaching the user.\n\nThe core philosophy: \\*\\*smart memory utilisation over raw horse-power.\\*\\*\n\nInstead of deploying a larger model to handle more knowledge, Mímir-Vörðr:\n\n1. Retrieves the specific facts needed for each query from a curated knowledge base\n\n2. Injects those facts as grounded context into the model’s prompt\n\n3. Generates a response using a four-step verification loop\n\n4. Scores the response’s faithfulness to the source material\n\n5. Retries or blocks any response that falls below the faithfulness threshold\n\nThe result is a small local model (llama3 8B) that answers with the accuracy of a much\n\nlarger model — because it is not guessing, it is reading.\n\n—",
+    "position": 3
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_004",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "2. Norse Conceptual Framework"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "The system is named after three Norse mythological concepts that perfectly capture its function:\n\n| Norse Name | Meaning | System Role |\n\n|———–|———|————|\n\n| \\*\\*Mímisbrunnr\\*\\* | The Well of Mímir — source of cosmic wisdom beneath Yggdrasil | The knowledge database (ChromaDB + in-memory BM25 index) |\n\n| \\*\\*Huginn\\*\\* | Odin’s raven “Thought” — flies out to gather information | The retrieval orchestrator (query → chunks → context) |\n\n| \\*\\*Vörðr\\*\\* | A guardian spirit / warden — protective double of a person | The truth guard (claim extraction → NLI → faithfulness scoring) |\n\nTogether they form \\*\\*Mímir-Vörðr\\*\\* — “The Warden of the Well” — a system that\n\nholds the ground truth and refuses to let falsehood pass.\n\n—",
+    "position": 4
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_005",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "3. System Overview — Top-Level Architecture"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\ngraph TB\n\n    subgraph User[“User Interaction Layer”]\n\n        Q[User Query]\n\n        R[Final Response]\n\n    end\n\n    subgraph MV[“Mímir-Vörðr System”]\n\n        subgraph S0[“Stage 0 — Health Monitor (Background)”]\n\n            HM[MimirHealthMonitor<br/>60s health checks<br/>auto-reindex on corruption]\n\n        end\n\n        subgraph S1[“Stage I — Retrieval (Huginn’s Ara)”]\n\n            HG[HuginnRetriever<br/>domain detection<br/>federated retrieval]\n\n            MW[MimirWell / Mímisbrunnr<br/>ChromaDB + BM25 fallback<br/>57 knowledge files / 25 160 chunks]\n\n            MS[MemoryStore<br/>episodic context]\n\n        end\n\n        subgraph S2[“Stage II — Generation & Verification (CoVe)”]\n\n            CP[CovePipeline<br/>4-step Chain-of-Verification]\n\n            MR[ModelRouterClient<br/>smart tier routing]\n\n        end\n\n        subgraph S3[“Stage III — Truth Guard (Vörðr)”]\n\n            VD[VordurChecker<br/>claim extraction<br/>NLI faithfulness scoring]\n\n            DL[DeadLetterStore<br/>failed verification log]\n\n        end\n\n        subgraph RES[“Norns Shield — Resilience Infrastructure”]\n\n            CB[Circuit Breakers<br/>9 independent instances]\n\n            RE[Retry Engines<br/>jittered exponential backoff]\n\n        end\n\n    end\n\n    subgraph Ext[“External Services”]\n\n        OL[Ollama llama3 8B<br/>subconscious tier<br/>localhost:11434]\n\n        LI[LiteLLM Proxy<br/>conscious / deep / code tiers<br/>localhost:4000]\n\n    end\n\n    Q –> HG\n\n    HG –> MW\n\n    HG –> MS\n\n    MW –> CP\n\n    MS –> CP\n\n    CP –> MR\n\n    MR –> OL\n\n    MR –> LI\n\n    CP –> VD\n\n    VD –> OL\n\n    VD –> DL\n\n    VD –>|”score ≥ 0.8 → pass”| R\n\n    VD –>|”score < 0.5 → retry”| HG\n\n    HM -.->|”monitors”| MW\n\n    HM -.->|”monitors”| VD\n\n    HM -.->|”monitors”| HG\n\n    CB -.->|”protects”| MW\n\n    CB -.->|”protects”| VD\n\n    RE -.->|”wraps”| MW\n\n    RE -.->|”wraps”| VD\n\n“`\n\n—",
+    "position": 5
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_006",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "4. The Three-Stage Pipeline — Detailed Flow",
+      "Stage I: Retrieval (Huginn’s Ara)"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nflowchart TD\n\n    START([User Query arrives]) –> DD{Detect Domain}\n\n    DD –>|”Norse keywords detected”| DN[Domain: norse\\_spirituality<br/>or norse\\_mythology<br/>or norse\\_culture]\n\n    DD –>|”Code keywords detected”| DC[Domain: coding]\n\n    DD –>|”Character/values keywords”| DH[Domain: character]\n\n    DD –>|”No clear domain”| DA[Domain: None<br/>global search]\n\n    DN –> TRY1\n\n    DC –> TRY1\n\n    DH –> TRY1\n\n    DA –> TRY1\n\n    TRY1{ChromaDB<br/>circuit breaker<br/>OPEN?} –>|No — proceed| CH[ChromaDB semantic search<br/>retrieve top-50 by cosine similarity<br/>optional domain metadata filter]\n\n    TRY1 –>|Yes — fast fail| BM1[BM25 keyword search<br/>in-memory flat index<br/>Fallback A]\n\n    CH –>|Success| RR[Rerank 50 → 3<br/>0.7 × keyword overlap<br/>0.3 × position bonus]\n\n    CH –>|Failure — retry × 3| CH2{Retry<br/>exhausted?}\n\n    CH2 –>|No| CH\n\n    CH2 –>|Yes| BM1\n\n    BM1 –> RR2{BM25 has results?}\n\n    RR2 –>|Yes| RR\n\n    RR2 –>|No| EMPTY[Return empty RetrievalResult<br/>Fallback B — log WARNING]\n\n    RR –> EP[Fetch episodic context<br/>MemoryStore.get\\_context]\n\n    EMPTY –> EP\n\n    EP –> CTX[Assemble context\\_string:<br/>GROUND TRUTH GT-1 GT-2 GT-3<br/>+ MEMORY episodic context]\n\n    CTX –> DONE([RetrievalResult ready<br/>→ Stage II])\n\n    style BM1 fill:#f0b840,color:#000\n\n    style EMPTY fill:#e07050,color:#fff\n\n    style CH fill:#4080d0,color:#fff\n\n    style RR fill:#50a050,color:#fff\n\n“`",
+    "position": 6
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_007",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "4. The Three-Stage Pipeline — Detailed Flow",
+      "Stage II: Generation & Chain-of-Verification (CoVe)"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nflowchart TD\n\n    START([RetrievalResult + Query enters]) –> CX{Complexity?}\n\n    CX –>|”LOW complexity<br/>(greeting, simple lookup)”| S1\\_ONLY[Step 1 only:<br/>Generate draft response<br/>→ skip CoVe steps 2-4]\n\n    CX –>|”MEDIUM or HIGH complexity”| CB\\_CHECK\n\n    CB\\_CHECK{CoVe pipeline<br/>circuit breaker open?}\n\n    CB\\_CHECK –>|Yes — bypass| BYPASS[Direct model completion<br/>CoveResult.used\\_cove = False]\n\n    CB\\_CHECK –>|No — proceed| S1[Step 1: Draft<br/>Generate initial response<br/>from retrieved context]\n\n    S1 –> CP1[Write checkpoint:<br/>step\\_reached = 1]\n\n    CP1 –> S2[Step 2: Plan Verification<br/>Generate 3 verification questions<br/>subconscious tier]\n\n    S2 –>|Success| CP2[Write checkpoint:<br/>step\\_reached = 2]\n\n    S2 –>|Failure — retry × 2| S2F{Retry<br/>exhausted?}\n\n    S2F –>|No| S2\n\n    S2F –>|Yes — template fallback| S2T[Use domain template questions:<br/>Fallback A]\n\n    S2T –> CP2\n\n    CP2 –> S3[Step 3: Execute Questions<br/>Answer each against MimirWell<br/>subconscious tier]\n\n    S3 –>|Success| CP3[Write checkpoint:<br/>step\\_reached = 3]\n\n    S3 –>|Failure| S3F[Skip Step 3<br/>qa\\_pairs = empty<br/>Fallback — log WARNING]\n\n    S3F –> S4\n\n    CP3 –> S4[Step 4: Revise<br/>Rewrite draft using Q&A findings<br/>chosen routing tier]\n\n    S4 –>|Success| FINAL[CoveResult:<br/>final\\_response = Step 4 output<br/>steps\\_completed = 4<br/>used\\_cove = True]\n\n    S4 –>|Failure — retry × 2| S4F{Retry<br/>exhausted?}\n\n    S4F –>|No| S4\n\n    S4F –>|Yes| S4FB[Return Step 1 draft<br/>steps\\_completed = 3<br/>Fallback — log WARNING]\n\n    S1\\_ONLY –> PASS\\_THROUGH[CoveResult:<br/>final\\_response = draft<br/>steps\\_completed = 1<br/>used\\_cove = False]\n\n    FINAL –> STAGE3([→ Stage III: Vörðr])\n\n    PASS\\_THROUGH –> STAGE3\n\n    S4FB –> STAGE3\n\n    BYPASS –> STAGE3\n\n    style S2T fill:#f0b840,color:#000\n\n    style S3F fill:#f0b840,color:#000\n\n    style S4FB fill:#f0b840,color:#000\n\n    style BYPASS fill:#e07050,color:#fff\n\n    style FINAL fill:#50a050,color:#fff\n\n“`",
+    "position": 7
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_008",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "4. The Three-Stage Pipeline — Detailed Flow",
+      "Stage III: Truth Guard (Vörðr)"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nflowchart TD\n\n    START([CoveResult response enters]) –> PA{Persona check<br/>pure regex}\n\n    PA –>|VIOLATION detected<br/>”I am ChatGPT” etc.| BLOCK[Block response<br/>Return canned persona-safe reply<br/>Log PersonaViolationError]\n\n    PA –>|OK| CE[Extract factual claims<br/>subconscious tier]\n\n    CE –>|Model returns claim list| VER\n\n    CE –>|Model timeout / failure| CES[Fallback: sentence splitter<br/>regex split on . ! ?]\n\n    CES –> VER\n\n    VER[Verify each claim<br/>against source chunks<br/>max 10 claims]\n\n    VER –> JM{Judge model<br/>available?}\n\n    JM –>|Ollama OK| OL[Ollama llama3 8B<br/>NLI structured prompt:<br/>ENTAILED / NEUTRAL / CONTRADICTED]\n\n    JM –>|Ollama circuit breaker OPEN| CON[Conscious tier fallback<br/>same NLI prompt]\n\n    CON –>|Conscious fails| REG[Regex heuristic scorer<br/>keyword overlap scoring<br/>Fallback B]\n\n    REG –>|All fail| PT[Pass-through<br/>UNCERTAIN verdict at 0.5<br/>Fallback C]\n\n    OL –> SCORE[Compute FaithfulnessScore<br/>ENTAILED=1.0 NEUTRAL=0.5<br/>CONTRADICTED=0.0 UNCERTAIN=0.5<br/>score = mean of all verdicts]\n\n    CON –> SCORE\n\n    REG –> SCORE\n\n    PT –> SCORE\n\n    SCORE –> TIER{Score tier?}\n\n    TIER –>|”≥ 0.80 HIGH”| PASS[Pass through<br/>attach score to response<br/>log DEBUG]\n\n    TIER –>|”0.50-0.79 MARGINAL”| MARG[Pass through<br/>flag marginal in metadata<br/>log WARNING]\n\n    TIER –>|”< 0.50 HALLUCINATION”| RETRY{Retry count<br/>< max 2?}\n\n    RETRY –>|Yes — retry| REXP[Expand retrieval:<br/>n\\_initial × 2<br/>→ back to Stage I]\n\n    RETRY –>|No — exhausted| DLS[Write to DeadLetterStore<br/>session/dead\\_letters.jsonl]\n\n    DLS –> CANNED[Return canned response:<br/>”The threads of the Well are<br/>unclear to me right now…”]\n\n    PASS –> OUT([Final CompletionResponse<br/>faithfulness\\_score attached<br/>→ memory\\_store.record\\_turn])\n\n    MARG –> OUT\n\n    CANNED –> OUT\n\n    style BLOCK fill:#c0392b,color:#fff\n\n    style PASS fill:#27ae60,color:#fff\n\n    style MARG fill:#f39c12,color:#fff\n\n    style CANNED fill:#8e44ad,color:#fff\n\n    style DLS fill:#e74c3c,color:#fff\n\n    style REXP fill:#2980b9,color:#fff\n\n“`\n\n—",
+    "position": 8
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_009",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "5.1 MimirWell — Mímisbrunnr (The Knowledge Store)"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "MimirWell is the foundational layer. Everything else in the system depends on it.",
+    "position": 9
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_010",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Knowledge Hierarchy"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\ngraph TB\n\n    subgraph L3[“Level 3 — Axiom (Core Truths)”]\n\n        AI[core\\_identity.md]\n\n        SO[SOUL.md]\n\n        VA[values.json]\n\n        AG[AGENTS.md]\n\n    end\n\n    subgraph L2[“Level 2 — Cluster (Domain Summaries, Phase 2)”]\n\n        C1[Norse Spirituality Summary]\n\n        C2[Norse Culture Summary]\n\n        C3[Coding Summary]\n\n        C4[Character Summary]\n\n        C5[Norse Mythology Summary]\n\n        C6[Roleplay Summary]\n\n    end\n\n    subgraph L1[“Level 1 — Raw (Document Chunks, 512 tokens each)”]\n\n        subgraph NS[“norse\\_spirituality (15 114 chunks)”]\n\n            NS1[freyjas\\_aett\\_grimoire.md]\n\n            NS2[tyrs\\_aett\\_grimoire.md]\n\n            NS3[heimdalls\\_aett\\_grimoire.md]\n\n            NS4[galdrabok\\_reconstruction.json]\n\n            NS5[voluspa.json]\n\n            NS6[trolldom practices…]\n\n            NS7[“+ 13 more files”]\n\n        end\n\n        subgraph NC[“norse\\_culture (4 502 chunks)”]\n\n            NC1[viking\\_honor.json]\n\n            NC2[Viking\\_Frith.json]\n\n            NC3[viking\\_history…]\n\n            NC4[“+ 9 more files”]\n\n        end\n\n        subgraph NM[“norse\\_mythology (3 793 chunks)”]\n\n            NM1[norse\\_gods.json]\n\n            NM2[Poetic\\_Edda\\_Translation.json]\n\n            NM3[Norse\\_Gods\\_Personality…]\n\n        end\n\n        subgraph CO[“coding (1 170 chunks)”]\n\n            CO1[AI\\_PYTHON\\_GUIDES.md]\n\n            CO2[ARTIFICIAL\\_INTELLIGENCE.md]\n\n            CO3[“+ 4 more files”]\n\n        end\n\n        subgraph CH[“character (270 chunks)”]\n\n            CH1[emotional\\_expressions.yaml]\n\n            CH2[viking\\_values.yaml]\n\n        end\n\n        subgraph RP[“roleplay (311 chunks)”]\n\n            RP1[gm\\_mindset.yaml]\n\n            RP2[Viking\\_bondmaids.json]\n\n            RP3[“+ 3 more files”]\n\n        end\n\n    end\n\n    L3 –> L2\n\n    L2 –> L1\n\n“`",
+    "position": 10
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_011",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Dual-Path Retrieval Architecture"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nflowchart LR\n\n    Q([Query]) –> CB{Circuit<br/>breaker<br/>OPEN?}\n\n    CB –>|No| CD[ChromaDB<br/>PersistentClient<br/>cosine similarity<br/>all-MiniLM-L6-v2]\n\n    CB –>|Yes| BI[In-Memory<br/>BM25 Flat Index<br/>Counter-based TF-IDF]\n\n    CD –>|Success| RE[Retry Engine<br/>3 attempts<br/>0.5s base, ×2 backoff]\n\n    CD –>|Failure × 3| BI\n\n    RE –>|Success| RR[Reranker<br/>0.7 × keyword overlap<br/>0.3 × position bonus<br/>50 → 3 chunks]\n\n    BI –> RR\n\n    RR –> CTX[Context String<br/>GT-1 GT-2 GT-3 citations]\n\n    CTX –> OUT([RetrievalResult])\n\n    style CD fill:#4080d0,color:#fff\n\n    style BI fill:#f0b840,color:#000\n\n    style RR fill:#50a050,color:#fff\n\n“`",
+    "position": 11
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_012",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Chunking Strategy by File Type"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nflowchart TD\n\n    FILE([Knowledge File]) –> EXT{File Extension}\n\n    EXT –>|.md .txt| MD[Split by ## heading<br/>then by 2 048 chars<br/>64-token overlap]\n\n    EXT –>|.json| JN{Root type?}\n\n    JN –>|dict| JD[Each top-level key = chunk group<br/>merged up to 2 048 chars]\n\n    JN –>|list| JL[Each array element = chunk<br/>merged up to 2 048 chars]\n\n    EXT –>|.jsonl| JSONL[Line groups up to 2 048 chars<br/>max 200 chunks per file]\n\n    EXT –>|.yaml .yml| YML[Each top-level key = chunk<br/>merged up to 2 048 chars]\n\n    EXT –>|.csv| CSV[20 rows per chunk<br/>header row repeated in each]\n\n    MD –> STORE\n\n    JD –> STORE\n\n    JL –> STORE\n\n    JSONL –> STORE\n\n    YML –> STORE\n\n    CSV –> STORE\n\n    STORE[Store KnowledgeChunk:<br/>chunk\\_id = uuid4<br/>text = chunk text<br/>source\\_file = relative path<br/>domain = detected domain<br/>level = 1 raw or 3 axiom<br/>metadata = file\\_type heading position]\n\n    STORE –> CDB[(ChromaDB collection:<br/>mimir\\_well)]\n\n    STORE –> FI[(In-Memory BM25<br/>Flat Index)]\n\n“`",
+    "position": 12
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_013",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Self-Healing Ingest"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nstateDiagram-v2\n\n    [\\*] –> CheckLock: ingest\\_all() called\n\n    CheckLock –> LockFound: .mimir\\_ingest\\_lock exists\n\n    CheckLock –> CheckCount: No lock file\n\n    LockFound –> ForceRebuild: Previous ingest interrupted\\nforce=True set automatically\n\n    CheckCount –> AlreadyPopulated: ChromaDB count > 0\\nand force=False\n\n    CheckCount –> WriteNewLock: Collection empty or force=True\n\n    AlreadyPopulated –> [\\*]: Return empty IngestReport\\n(idempotent — no work needed)\n\n    ForceRebuild –> ClearCollection: Drop existing documents\n\n    ClearCollection –> WriteNewLock\n\n    WriteNewLock –> IngestIdentity: Write .mimir\\_ingest\\_lock\n\n    IngestIdentity –> IngestKnowledge: Ingest 4 identity files\\nlevel=3 axiom chunks\n\n    IngestKnowledge –> FileLoop: Iterate knowledge\\_reference/\\n57 files sorted alphabetically\n\n    FileLoop –> TryFile: Next file\n\n    TryFile –> ChunkFile: Read + chunk file\n\n    ChunkFile –> UpsertChunk: Insert into ChromaDB + BM25\n\n    UpsertChunk –> FileLoop: Next file\n\n    TryFile –> LogError: File fails (encoding/parse)\n\n    LogError –> FileLoop: Non-fatal — continue\n\n    FileLoop –> ClearLock: All files processed\n\n    ClearLock –> UpdateState: Delete .mimir\\_ingest\\_lock\n\n    UpdateState –> [\\*]: Return IngestReport\\nfiles / chunks / errors / duration\n\n“`\n\n—",
+    "position": 13
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_014",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "5.2 VordurChecker — The Truth Guard"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "VordurChecker is the quality gate. It examines what the model produced, extracts\n\neach factual claim, and verifies each against the retrieved source material.",
+    "position": 14
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_015",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Claim Verification Pipeline"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nflowchart TD\n\n    RESP([Model Response text]) –> PERSONA{Persona check<br/>regex guard}\n\n    PERSONA –>|Violation| ERR([Block — PersonaViolationError])\n\n    PERSONA –>|OK| EXTRACT[Extract factual claims<br/>subconscious tier:<br/>”Extract factual claims as a<br/>numbered list. One claim per line.”]\n\n    EXTRACT –>|Claim list returned| VERIFY\n\n    EXTRACT –>|Model timeout| SENT[Regex sentence splitter<br/>fallback: split on . ! ?]\n\n    SENT –> VERIFY\n\n    VERIFY[For each claim up to max 10]\n\n    VERIFY –> JUDGE{Judge model<br/>available?}\n\n    JUDGE –>|Ollama OK<br/>llama3 8B| NLI[“NLI structured prompt:\\nSource: {chunk\\_text}\\nClaim: {claim\\_text}\\nAnswer: ENTAILED, NEUTRAL,\\nor CONTRADICTED”]\n\n    JUDGE –>|Ollama CB open| CON[Conscious tier\\nsame NLI prompt]\n\n    CON –>|Conscious fails| REG[Regex heuristic:\\nkeyword overlap between\\nclaim and chunk text]\n\n    REG –>|All fail| PT[UNCERTAIN passthrough\\nverdict = 0.5]\n\n    NLI –> PARSE[Parse first word of response\\nuppercase match against\\nENTAILED / NEUTRAL / CONTRADICTED\\nGarbled → UNCERTAIN]\n\n    PARSE –> WEIGHT[Apply weight:\\nENTAILED = 1.0\\nNEUTRAL = 0.5\\nCONTRADICTED = 0.0\\nUNCERTAIN = 0.5]\n\n    CON –> WEIGHT\n\n    REG –> WEIGHT\n\n    PT –> WEIGHT\n\n    WEIGHT –> NEXT{More claims?}\n\n    NEXT –>|Yes| VERIFY\n\n    NEXT –>|No| SCORE[score = mean of all claim weights\\ncount: entailed neutral contradicted uncertain]\n\n    SCORE –> TIER{Faithfulness tier}\n\n    TIER –>|”≥ 0.80″| HIGH[“FaithfulnessScore\\ntier = high\\nneeds\\_retry = False”]\n\n    TIER –>|”0.50 – 0.79″| MARG[“FaithfulnessScore\\ntier = marginal\\nneeds\\_retry = False”]\n\n    TIER –>|”< 0.50″| HALL[“FaithfulnessScore\\ntier = hallucination\\nneeds\\_retry = True”]\n\n    style HIGH fill:#27ae60,color:#fff\n\n    style MARG fill:#f39c12,color:#fff\n\n    style HALL fill:#c0392b,color:#fff\n\n    style ERR fill:#c0392b,color:#fff\n\n“`",
+    "position": 15
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_016",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Persona Guard Rules (Regex)"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "The persona check runs before any model call. It is pure regex — instant, free, unbypassable.\n\n“`mermaid\n\ngraph LR\n\n    RESP([Response text]) –> R1[“Pattern: I am ChatGPT / Claude / GPT / OpenAI”]\n\n    RESP –> R2[“Pattern: I am an AI language model / AI assistant”]\n\n    RESP –> R3[“Pattern: I don’t have feelings / I cannot feel”]\n\n    RESP –> R4[“Pattern: wrong gender self-reference (he said / his personality)”]\n\n    RESP –> R5[“Pattern: denial of Norse identity (I’m not Norse / not Heathen)”]\n\n    RESP –> R6[“Axiom keyword check: core identity axiom keywords present”]\n\n    R1 –> CHECK{Any pattern\\nmatched?}\n\n    R2 –> CHECK\n\n    R3 –> CHECK\n\n    R4 –> CHECK\n\n    R5 –> CHECK\n\n    R6 –> CHECK\n\n    CHECK –>|Yes| VIOLATION([PersonaViolationError\\npersona\\_intact = False])\n\n    CHECK –>|No| PASS([persona\\_intact = True\\ncontinue to claim extraction])\n\n    style VIOLATION fill:#c0392b,color:#fff\n\n    style PASS fill:#27ae60,color:#fff\n\n“`\n\n—",
+    "position": 16
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_017",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "5.3 HuginnRetriever — The Flight of Thought"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "HuginnRetriever orchestrates the retrieval process. It knows where to look,\n\nwhat to filter, and how to combine knowledge with episodic memory.",
+    "position": 17
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_018",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Domain Detection Logic"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nflowchart TD\n\n    Q([Query text]) –> TOK[Tokenise to lowercase words]\n\n    TOK –> SCAN[Scan against 6 domain keyword sets]\n\n    SCAN –> NS{Norse Spirituality<br/>keywords?}\n\n    SCAN –> NM{Norse Mythology<br/>keywords?}\n\n    SCAN –> NC{Norse Culture<br/>keywords?}\n\n    SCAN –> CO{Coding<br/>keywords?}\n\n    SCAN –> CH{Character<br/>keywords?}\n\n    SCAN –> RO{Roleplay<br/>keywords?}\n\n    NS –>|”rune futhark seiðr galdr\\nheathen volva blot galdrabok\\nansuz thurisaz fehu uruz…”| SCORE\\_NS[Domain score: norse\\_spirituality]\n\n    NM –>|”odin thor loki frigg\\nyggdrasil asgard valhalla\\neddas ragnarok…”| SCORE\\_NM[Domain score: norse\\_mythology]\n\n    NC –>|”viking norse history\\nhonor frith longship\\nmead hall thing…”| SCORE\\_NC[Domain score: norse\\_culture]\n\n    CO –>|”python javascript code\\nfunction class debug\\napi async git docker…”| SCORE\\_CO[Domain score: coding]\n\n    CH –>|”values soul identity\\nfeel emotion personality\\nhonor ethics belief…”| SCORE\\_CH[Domain score: character]\n\n    RO –>|”roleplay gm bondmaid\\nconversation scene\\ncharacter play…”| SCORE\\_RO[Domain score: roleplay]\n\n    SCORE\\_NS –> MAX[Select domain with highest score\\nconfidence = matches / query\\_words]\n\n    SCORE\\_NM –> MAX\n\n    SCORE\\_NC –> MAX\n\n    SCORE\\_CO –> MAX\n\n    SCORE\\_CH –> MAX\n\n    SCORE\\_RO –> MAX\n\n    MAX –> THRESH{confidence\\n≥ 0.05?}\n\n    THRESH –>|Yes| DOMAIN([Return: detected\\_domain, confidence])\n\n    THRESH –>|No| NONE([Return: None global search\\nno domain pre-filter])\n\n    style DOMAIN fill:#4080d0,color:#fff\n\n    style NONE fill:#888,color:#fff\n\n“`",
+    "position": 18
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_019",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Federated Retrieval — Four Memory Tiers"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nflowchart LR\n\n    Q([Query]) –> P[Parallel retrieval<br/>all tiers simultaneously]\n\n    P –> T1[Tier 1: Conversation Buffer<br/>MemoryStore short/medium/long term<br/>current session context]\n\n    P –> T2[Tier 2: Episodic JSON Store<br/>MemoryStore persistent facts<br/>keyword-matched memories]\n\n    P –> T3[Tier 3: ChromaDB Episodic<br/>semantic search over<br/>past session memories]\n\n    P –> T4[Tier 4: MimirWell Knowledge<br/>ChromaDB mimir\\_well<br/>ground truth knowledge base]\n\n    T1 –>|”success or empty”| AGG[Aggregate results]\n\n    T2 –>|”success or empty”| AGG\n\n    T3 –>|”success or empty”| AGG\n\n    T4 –>|”success or empty”| AGG\n\n    AGG –> FMR[FederatedMemoryResult:\\nepisodic\\_context = tiers 1+2+3\\nknowledge\\_context = tier 4\\ncombined\\_context = both\\nsources\\_used = which tiers contributed]\n\n    FMR –> CTX([Combined context\\nready for prompt injection])\n\n    style T1 fill:#3498db,color:#fff\n\n    style T2 fill:#2980b9,color:#fff\n\n    style T3 fill:#1a6494,color:#fff\n\n    style T4 fill:#154360,color:#fff\n\n    style CTX fill:#27ae60,color:#fff\n\n“`\n\n—",
+    "position": 19
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_020",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "5.4 CovePipeline — Chain-of-Verification"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "The Chain-of-Verification (CoVe) is a four-step prompt engineering technique\n\nthat dramatically improves factual accuracy by having the model check its own work.",
+    "position": 20
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_021",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Four-Step Loop with Checkpointing"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nsequenceDiagram\n\n    participant C as CovePipeline\n\n    participant R as ModelRouter\n\n    participant M as MimirWell\n\n    participant K as CoveCheckpoint\n\n    C->>C: Check complexity (LOW/MEDIUM/HIGH)\n\n    alt LOW complexity\n\n        C->>R: Direct completion (no CoVe)\n\n        R–>>C: Draft response\n\n        C–>>C: CoveResult(used\\_cove=False)\n\n    else MEDIUM or HIGH complexity\n\n        C->>R: Step 1: Generate draft response\n\n        R–>>C: Draft text\n\n        C->>K: Save checkpoint(step\\_reached=1, draft=…)\n\n        C->>R: Step 2: Plan verification questions\n\n        R–>>C: 3 verification questions\n\n        Note over C,R: Fallback: domain template questions\n\n        C->>K: Save checkpoint(step\\_reached=2, questions=[…])\n\n        C->>M: Step 3: Answer each question from the Well\n\n        M–>>C: Q&A pairs (question → retrieved answer)\n\n        Note over C,M: Fallback: skip (qa\\_pairs=[])\n\n        C->>K: Save checkpoint(step\\_reached=3, qa\\_pairs=[…])\n\n        C->>R: Step 4: Revise draft using Q&A findings\n\n        R–>>C: Revised final response\n\n        Note over C,R: Fallback: return Step 1 draft\n\n        C->>K: Delete checkpoint (complete)\n\n        C–>>C: CoveResult(used\\_cove=True, steps\\_completed=4)\n\n    end\n\n“`",
+    "position": 21
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_022",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Checkpoint Recovery — Crash Resilience"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nstateDiagram-v2\n\n    [\\*] –> CheckResume: run() called\n\n    CheckResume –> HasCheckpoint: checkpoint file found\\nin session/cove\\_checkpoints/\n\n    CheckResume –> Step1: No checkpoint — start fresh\n\n    HasCheckpoint –> ReadCheckpoint: Load CoveCheckpoint\n\n    ReadCheckpoint –> Resume1: step\\_reached == 0\n\n    ReadCheckpoint –> Resume2: step\\_reached == 1\\ndraft already done\n\n    ReadCheckpoint –> Resume3: step\\_reached == 2\\nquestions already done\n\n    ReadCheckpoint –> Resume4: step\\_reached == 3\\nqa\\_pairs already done\n\n    Resume1 –> Step1\n\n    Resume2 –> Step2: Skip Step 1 — use saved draft\n\n    Resume3 –> Step3: Skip Steps 1-2 — use saved questions\n\n    Resume4 –> Step4: Skip Steps 1-3 — use saved qa\\_pairs\n\n    Step1 –> Checkpoint1: Write checkpoint step\\_reached=1\n\n    Checkpoint1 –> Step2\n\n    Step2 –> Checkpoint2: Write checkpoint step\\_reached=2\n\n    Checkpoint2 –> Step3\n\n    Step3 –> Checkpoint3: Write checkpoint step\\_reached=3\n\n    Checkpoint3 –> Step4\n\n    Step4 –> DeleteCheckpoint: Write final response\n\n    DeleteCheckpoint –> [\\*]: Return CoveResult\n\n“`\n\n—",
+    "position": 22
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_023",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "5.5 Norns’ Shield — Resilience Infrastructure"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "The resilience layer is named after the three Norns (Urðr, Verðandi, Skuld) — the\n\nweavers of fate who ensure that what must happen, does. In the system, the Norns’\n\nShield ensures that no single failure can break the whole.",
+    "position": 23
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_024",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Circuit Breaker State Machine"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nstateDiagram-v2\n\n    [\\*] –> CLOSED: System starts\n\n    CLOSED –> CLOSED: Call succeeds\\nfailure\\_count reset to 0\n\n    CLOSED –> OPEN: failure\\_count ≥ threshold\\n(default: 3 failures)\n\n    OPEN –> OPEN: Call rejected immediately\\nCircuitBreakerOpenError raised\\ncooldown not elapsed\n\n    OPEN –> HALF\\_OPEN: cooldown\\_s elapsed\\n(30s read / 60s write / 120s CoVe pipeline)\n\n    HALF\\_OPEN –> CLOSED: success\\_count ≥ success\\_threshold\\n(default: 2 consecutive successes)\\nservice considered recovered\n\n    HALF\\_OPEN –> OPEN: Any failure in probe call\\nreset cooldown timer\n\n    note right of OPEN\n\n        Fast-fail: callers get\n\n        CircuitBreakerOpenError\n\n        immediately — no wait,\n\n        no retry, straight to fallback\n\n    end note\n\n    note right of HALF\\_OPEN\n\n        One probe call allowed through.\n\n        If it succeeds → CLOSED.\n\n        If it fails → back to OPEN.\n\n    end note\n\n“`",
+    "position": 24
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_025",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Circuit Breaker Registry — All 9 Instances"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "| Breaker Name | Component | failure\\_threshold | cooldown\\_s |\n\n|————-|———–|:—————–:|:———-:|\n\n| `mimir\\_chromadb\\_read` | MimirWell ChromaDB reads | 3 | 30 |\n\n| `mimir\\_chromadb\\_write` | MimirWell ChromaDB upserts | 3 | 60 |\n\n| `vordur\\_judge\\_subconscious` | VordurChecker Ollama NLI | 5 | 60 |\n\n| `vordur\\_judge\\_conscious` | VordurChecker conscious fallback | 3 | 30 |\n\n| `huginn\\_full` | HuginnRetriever full pipeline | 3 | 30 |\n\n| `cove\\_step2` | CovePipeline Step 2 question planning | 3 | 30 |\n\n| `cove\\_step3` | CovePipeline Step 3 question execution | 3 | 30 |\n\n| `cove\\_step4` | CovePipeline Step 4 revision | 3 | 30 |\n\n| `cove\\_pipeline` | CovePipeline entire bypass | 3 | 120 |",
+    "position": 25
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_026",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Retry Engine — Backoff Curve"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`\n\nAttempt | Base Delay | With Jitter (±20%)\n\n——–|————|——————–\n\n   1    | 0.50s      | 0.40s – 0.60s\n\n   2    | 1.00s      | 0.80s – 1.20s\n\n   3    | 2.00s      | 1.60s – 2.40s\n\n  max   | 8.00s      | 6.40s – 9.60s (capped)\n\n“`\n\n\\*\\*Non-retriable exceptions\\*\\* (never retried, always fast-fail):\n\n– `CircuitBreakerOpenError` — structural failure, fallback immediately\n\n– `PersonaViolationError` — logic error, not a transient condition",
+    "position": 26
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_027",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "5. Component Deep-Dive",
+      "Fallback Chain Map"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\ngraph TD\n\n    subgraph RETRIEVAL[“MimirWell Retrieval Fallback Chain”]\n\n        R1[Primary: ChromaDB cosine similarity] –>|failure| R2\n\n        R2[Fallback A: In-memory BM25 keyword index] –>|empty| R3\n\n        R3[Fallback B: Empty list — log WARNING]\n\n    end\n\n    subgraph VORDUR[“VordurChecker Judge Fallback Chain”]\n\n        V1[Primary: Ollama llama3 8B NLI] –>|CB open| V2\n\n        V2[Fallback A: Conscious tier LiteLLM NLI] –>|failure| V3\n\n        V3[Fallback B: Regex keyword heuristic scorer] –>|failure| V4\n\n        V4[Fallback C: UNCERTAIN passthrough at 0.5]\n\n    end\n\n    subgraph COVE[“CovePipeline Step Fallback Chain”]\n\n        C1[Step 1: Chosen routing tier] –>|failure| C1F[CovePipelineError — abort]\n\n        C2[Step 2: Subconscious tier] –>|failure| C2F[Template questions — Fallback A]\n\n        C2F –>|still fail| C2G[Static default questions — Fallback B]\n\n        C3[Step 3: Subconscious + MimirWell] –>|failure| C3F[Skip — qa\\_pairs empty]\n\n        C4[Step 4: Chosen routing tier] –>|failure| C4F[Return Step 1 draft — Fallback]\n\n    end\n\n    subgraph HUGINN[“HuginnRetriever Fallback Chain”]\n\n        H1[Full pipeline: ChromaDB + episodic] –>|failure| H2\n\n        H2[Fallback A: BM25 knowledge only] –>|empty| H3\n\n        H3[Fallback B: Episodic memory only] –>|empty| H4\n\n        H4[Fallback C: Empty RetrievalResult — never crashes]\n\n    end\n\n    style R3 fill:#e07050,color:#fff\n\n    style V4 fill:#e07050,color:#fff\n\n    style C1F fill:#e07050,color:#fff\n\n    style H4 fill:#e07050,color:#fff\n\n“`\n\n—",
+    "position": 27
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_028",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "6. Data Flow — Full Turn Pipeline"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nflowchart TD\n\n    USER([User sends message]) –> MAIN[main.py — \\_handle\\_turn]\n\n    MAIN –> SEC[security.py\\nInput sanitise + path guard]\n\n    SEC –> TRUST[trust\\_engine.py\\nGebo ledger update]\n\n    TRUST –> ETHICS[ethics.py\\nValue / taboo eval]\n\n    ETHICS –> WYRD[wyrd\\_matrix.py\\nPAD emotional state]\n\n    WYRD –> BIO[bio\\_engine.py\\nCycle + biorhythm state]\n\n    BIO –> MET[metabolism.py\\npsutil somatic state]\n\n    MET –> SCHED[scheduler.py\\nTime of day context]\n\n    SCHED –> ENV[environment\\_mapper.py\\nSpatial context]\n\n    ENV –> SYNTH[prompt\\_synthesizer.py\\nAssemble system prompt\\nwith all state hints]\n\n    SYNTH –> HUGINN[HuginnRetriever\\nFederated retrieval:\\nall 4 memory tiers]\n\n    HUGINN –>|”ground truth context\\n+ episodic context”| COVE[CovePipeline\\nStep 1 draft\\nStep 2 questions\\nStep 3 execute\\nStep 4 revise]\n\n    COVE –>|”final\\_response”| VORDUR[VordurChecker\\nPersona guard\\nClaim extraction\\nNLI verification\\nFaithfulness score]\n\n    VORDUR –>|”score ≥ 0.50″| RESP[CompletionResponse\\nfaithfulness\\_score attached\\nfaithfulness\\_tier attached]\n\n    VORDUR –>|”score < 0.50\\n retry 1-2″| HUGINN\n\n    VORDUR –>|”exhausted retries”| DL[DeadLetterStore\\n+ canned response]\n\n    RESP –> MEMREC[memory\\_store.record\\_turn\\nEpisodic + semantic update]\n\n    DL –> MEMREC\n\n    MEMREC –> DREAM[dream\\_engine.py\\nNocturnal processing]\n\n    DREAM –> BUS[StateBus publish\\nAll module states]\n\n    BUS –> ORACLE[oracle.py\\nAtmospheric update]\n\n    ORACLE –> OUT([Response delivered to user])\n\n    style HUGINN fill:#1a6494,color:#fff\n\n    style COVE fill:#2471a3,color:#fff\n\n    style VORDUR fill:#154360,color:#fff\n\n    style RESP fill:#27ae60,color:#fff\n\n    style DL fill:#c0392b,color:#fff\n\n    style OUT fill:#1e8449,color:#fff\n\n“`\n\n—",
+    "position": 28
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_029",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "7. Dead Letter System"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "When verification fails after all retries, the failed response is not silently discarded.\n\nIt is written to a \\*\\*Dead Letter Store\\*\\* with complete forensic data.\n\n“`mermaid\n\nflowchart LR\n\n    HALL([Hallucination score\\nafter 2 retries]) –> DLS[\\_DeadLetterStore\\nsession/dead\\_letters.jsonl]\n\n    DLS –> ENTRY[DeadLetterEntry:\\nentry\\_id = uuid\\ntimestamp = ISO-8601\\ncomponent = vordur\\nquery = original user text\\nresponse = failed response\\nfaithfulness\\_score = 0.xx\\nerror\\_type = exception class\\nretry\\_count = 2\\ntrace = full traceback\\ncontext\\_chunks = chunk\\_ids]\n\n    DLS –> CANNED[Canned response delivered to user:\\nThe threads of the Well are unclear\\nto me right now…]\n\n    DLS –> HEALTH[MimirHealthMonitor reads:\\ndead\\_letters\\_5m count\\nIf > 5 in 5 min → CRITICAL log\\nIf > 10 in 5 min → StateBus alert]\n\n    HEALTH –> STAT[System status: CRITICAL]\n\n    STAT –> REINDEX{Corruption\\ndetected?}\n\n    REINDEX –>|Yes| REINGEST[MimirWell.reindex\\nauto-triggered\\ncircuit breakers reset]\n\n    REINDEX –>|No| LOG[Log for human review]\n\n    style HALL fill:#c0392b,color:#fff\n\n    style CANNED fill:#8e44ad,color:#fff\n\n    style STAT fill:#e74c3c,color:#fff\n\n    style REINGEST fill:#f39c12,color:#fff\n\n“`\n\n—",
+    "position": 29
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_030",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "8. Health Monitor — Background Daemon"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\nflowchart TD\n\n    START([MimirHealthMonitor.start]) –> SCHED[APScheduler BackgroundScheduler]\n\n    SCHED –>|”Every 60 seconds”| HC[health\\_check]\n\n    SCHED –>|”Every 600 seconds”| FD[full\\_diagnostics]\n\n    HC –> CDB{ChromaDB\\ncount query}\n\n    CDB –>|count > 0| OK1[status: ok]\n\n    CDB –>|count == 0| ZERO[Suspected corruption\\nOR empty after crash]\n\n    CDB –>|exception| DOWN1[status: down]\n\n    ZERO –> REINDEX{auto\\_reindex\\nconfigured?}\n\n    REINDEX –>|Yes| RI[MimirWell.reindex\\nautomatically triggered]\n\n    REINDEX –>|No| WARN[Log WARNING — manual reindex needed]\n\n    HC –> OLL{Ollama socket ping\\nlocalhost:11434}\n\n    OLL –>|open| OLLOK[Ollama: healthy]\n\n    OLL –>|refused/timeout| OLLDOWN[Ollama: down\\nVörðr fallback to conscious tier]\n\n    HC –> LIT{LiteLLM socket ping\\nlocalhost:4000}\n\n    LIT –>|open| LITOK[LiteLLM: healthy]\n\n    LIT –>|refused/timeout| LITDOWN[LiteLLM: down\\nRouter fallback chain activated]\n\n    HC –> DLR[Read dead letter count\\nlast 5 minutes]\n\n    DLR –> DLT{dead\\_letters\\_5m\\n≥ threshold?}\n\n    DLT –>|>= 5| CRIT[Log CRITICAL\\nPublish StateBus alert]\n\n    DLT –>|>= 10| EMERG[Log EMERGENCY\\nPublish CRITICAL health state]\n\n    DLT –>|< 5| NORM[Normal operation]\n\n    HC –> STATE[Assemble MimirHealthState:\\noverall: healthy/degraded/critical\\ncomponent health map\\ndead\\_letters\\_total\\nlast\\_reindex\\_at]\n\n    STATE –> PUBLISH[Publish to StateBus:\\nevent\\_type = mimir\\_health]\n\n    style ZERO fill:#f39c12,color:#fff\n\n    style DOWN1 fill:#c0392b,color:#fff\n\n    style RI fill:#2ecc71,color:#fff\n\n    style CRIT fill:#c0392b,color:#fff\n\n    style EMERG fill:#7b241c,color:#fff\n\n“`\n\n—",
+    "position": 30
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_031",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "9. Configuration Reference"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "All Mímir-Vörðr settings are configured in the main config YAML. All values\n\nhave sensible defaults and the system degrades gracefully when keys are missing.\n\n“`yaml",
+    "position": 31
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_032",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "── MimirWell / Mímisbrunnr ──────────────────────────────────────────────────"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "mimir\\_well:\n\n  collection\\_name: mimir\\_well          # ChromaDB collection name\n\n  persist\\_dir: data/chromadb\\_mimir     # directory for ChromaDB persistence\n\n                                       # (separate from sigrid\\_episodic)\n\n  chunk\\_size\\_tokens: 512               # max tokens per chunk (≈ 2 048 chars)\n\n  chunk\\_overlap\\_tokens: 64             # overlap between adjacent chunks (≈ 256 chars)\n\n  n\\_retrieve: 50                       # candidates before rerank\n\n  n\\_final: 3                           # chunks kept after rerank\n\n  auto\\_ingest: true                    # ingest on first startup if collection empty\n\n  force\\_reindex: false                 # set true to drop and rebuild on next start",
+    "position": 32
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_033",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "── HuginnRetriever ───────────────────────────────────────────────────────────"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "huginn:\n\n  n\\_initial: 50                        # semantic retrieval candidates\n\n  n\\_final: 3                           # kept after rerank\n\n  domain\\_detection: true               # enable keyword-based domain detection\n\n  include\\_episodic: true               # also retrieve from MemoryStore episodic",
+    "position": 33
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_034",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "── VordurChecker / Vörðr ────────────────────────────────────────────────────"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "vordur:\n\n  enabled: true\n\n  high\\_threshold: 0.80                 # score ≥ this → tier = high\n\n  marginal\\_threshold: 0.50             # score ≥ this → tier = marginal\n\n                                       # score < marginal → tier = hallucination\n\n  persona\\_check: true                  # enable regex persona guard\n\n  judge\\_tier: subconscious             # model tier for NLI verification\n\n  max\\_claims: 10                       # cap to prevent runaway verification\n\n  verification\\_timeout\\_s: 8.0         # per-claim judge model timeout",
+    "position": 34
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_035",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "── CovePipeline ─────────────────────────────────────────────────────────────"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "cove\\_pipeline:\n\n  enabled: true\n\n  min\\_complexity: medium               # “low” | “medium” | “high”\n\n                                       # CoVe only activates at or above this level\n\n  n\\_verification\\_questions: 3          # questions generated in Step 2\n\n  step\\_timeout\\_s: 15.0                # per-step model call timeout",
+    "position": 35
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_036",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "── MimirHealthMonitor ───────────────────────────────────────────────────────"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "health\\_monitor:\n\n  check\\_interval\\_s: 60                 # health check frequency\n\n  diagnostics\\_interval\\_s: 600         # full diagnostics frequency\n\n  dead\\_letter\\_alert\\_threshold: 5       # dead letters per 5-min window before alert\n\n  auto\\_reindex\\_on\\_corruption: true     # auto-trigger reindex on zero-doc detection",
+    "position": 36
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_037",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "── Circuit Breakers (all optional — defaults shown) ─────────────────────────"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "circuit\\_breakers:\n\n  chromadb\\_read:           {failure\\_threshold: 3, cooldown\\_s: 30}\n\n  chromadb\\_write:          {failure\\_threshold: 3, cooldown\\_s: 60}\n\n  vordur\\_subconscious:     {failure\\_threshold: 5, cooldown\\_s: 60}\n\n  vordur\\_conscious:        {failure\\_threshold: 3, cooldown\\_s: 30}\n\n  huginn\\_full:             {failure\\_threshold: 3, cooldown\\_s: 30}\n\n  cove\\_step2:              {failure\\_threshold: 3, cooldown\\_s: 30}\n\n  cove\\_step3:              {failure\\_threshold: 3, cooldown\\_s: 30}\n\n  cove\\_step4:              {failure\\_threshold: 3, cooldown\\_s: 30}\n\n  cove\\_pipeline:           {failure\\_threshold: 3, cooldown\\_s: 120}",
+    "position": 37
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_038",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "── Retry Engines (all optional — defaults shown) ────────────────────────────"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "retry\\_engines:\n\n  chromadb:     {max\\_attempts: 3, base\\_delay\\_s: 0.5, backoff\\_factor: 2.0, max\\_delay\\_s: 4.0}\n\n  judge\\_model:  {max\\_attempts: 2, base\\_delay\\_s: 1.0, backoff\\_factor: 2.0, max\\_delay\\_s: 4.0}\n\n  cove\\_step:    {max\\_attempts: 2, base\\_delay\\_s: 0.5, backoff\\_factor: 2.0, max\\_delay\\_s: 4.0}\n\n“`\n\n—",
+    "position": 38
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_039",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "10. Error Taxonomy — Unified Exception Hierarchy"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`\n\nMimirVordurError (base)\n\n│\n\n├── MimirWellError\n\n│   ├── ChromaDBUnavailableError   — ChromaDB cannot be reached or initialised\n\n│   ├── ChromaDBCorruptionError    — Collection detected as corrupt / unexpectedly empty\n\n│   ├── IngestError                — Unrecoverable failure during knowledge ingest\n\n│   └── RetrievalTimeoutError      — A retrieval call exceeded its timeout budget\n\n│\n\n├── HuginnError\n\n│   ├── HuginnRetrievalFailedError     — All retrieval attempts failed\n\n│   └── HuginnAllFallbacksExhaustedError — Every fallback level exhausted\n\n│\n\n├── VordurError\n\n│   ├── ClaimExtractionError       — Claim extraction produced unusable output\n\n│   ├── VerificationTimeoutError   — Judge model call timed out\n\n│   ├── JudgeModelUnavailableError — All judge model tiers unavailable\n\n│   └── PersonaViolationError      — Regex detected a persona integrity failure\n\n│\n\n├── CovePipelineError\n\n│   ├── CoveStepFailedError(step, reason)  — Specific step failed all fallbacks\n\n│   └── CoveAllFallbacksExhaustedError     — Entire pipeline failed\n\n│\n\n└── CircuitBreakerOpenError(component, cooldown\\_remaining\\_s)\n\n    — Fast-fail: never retry, go straight to next fallback tier\n\n“`\n\n—",
+    "position": 39
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_040",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "11. Knowledge Files Indexed — Complete Inventory",
+      "Identity / Axiom Files (Level 3 — 67 chunks)"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "| File | Domain | Chunks |\n\n|——|——–|——–|\n\n| `core\\_identity.md` | character | ~20 |\n\n| `SOUL.md` | character | ~15 |\n\n| `values.json` | character | ~12 |\n\n| `AGENTS.md` | character | ~20 |",
+    "position": 40
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_041",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "11. Knowledge Files Indexed — Complete Inventory",
+      "Norse Spirituality — 15 114 chunks"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "| File | Description |\n\n|——|————-|\n\n| `freyjas\\_aett\\_grimoire.md` | Full grimoire: Fehu, Uruz, Thurisaz, Ansuz, Raidho, Kenaz, Gebo, Wunjo |\n\n| `tyrs\\_aett\\_grimoire.md` | Full grimoire: Hagalaz, Nauthiz, Isa, Jera, Eihwaz, Perthro, Algiz, Sowilo |\n\n| `heimdalls\\_aett\\_grimoire.md` | Full grimoire: Tiwaz, Berkanan, Ehwaz, Mannaz, Laguz, Ingwaz, Othalan, Dagaz |\n\n| `yrsas\\_rune\\_poems.md` | The three rune poems: Norse, Anglo-Saxon, Icelandic |\n\n| `galdrabok\\_reconstruction.json` | Icelandic sorcery grimoire reconstruction |\n\n| `voluspa.json` | The Seeress’s Prophecy — Poetic Edda structured |\n\n| `Voluspa\\_the\\_Seeresss\\_Vision\\_the\\_Ultimate\\_Poetic\\_Rendering.jsonl` | Expanded Völuspá |\n\n| `trolldom\\_and\\_magick\\_practices\\_in\\_norse\\_paganism\\_volume1.jsonl` | Traditional trolldom practices |\n\n| `viking\\_trolldom\\_the\\_ancient\\_northern\\_ways.yaml` | Northern sorcery ways |\n\n| `about\\_norse\\_paganism.json` | Norse pagan theology and practice |\n\n| `Authentic\\_Norse\\_Religious\\_Practices.json` | Reconstructed ritual practices |\n\n| `Norse\\_Magick\\_Spells\\_and\\_Rituals.json` | Working spells and ritual structures |\n\n| `The\\_Heathen\\_Third\\_Path\\_\\*.md` (×2) | Heathen Third Path philosophy and practice |\n\n| `norse\\_paganism\\_1000\\_training\\_pairsv1.jsonl` | 1 000 Q&A pairs on Norse paganism |\n\n| `norse\\_paganism\\_1000\\_training\\_pairsv2.jsonl` | 1 000 additional Q&A pairs |\n\n| `viking\\_era\\_witches\\_report.md` | Historical analysis of Norse seiðr workers |\n\n| `9th\\_century\\_celtic\\_pagan\\_witches.md` | Celtic witchcraft intersection |\n\n| `9th\\_century\\_finnish\\_pagan\\_witches\\_report.md` | Finnish seiðr parallels |\n\n| `9th\\_century\\_slavic\\_witches\\_report.md` | Slavic witchcraft traditions |",
+    "position": 41
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_042",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "11. Knowledge Files Indexed — Complete Inventory",
+      "Norse Mythology — 3 793 chunks"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "| File | Description |\n\n|——|————-|\n\n| `norse\\_gods.json` | Complete pantheon — Aesir, Vanir, Jotnar |\n\n| `Norse\\_Gods\\_and\\_Goddesses\\_Personality\\_Traits\\_Volume1.jsonl` | Personality deep-dives |\n\n| `Poetic\\_Edda\\_Translation.json` | Full Poetic Edda in structured JSON |",
+    "position": 42
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_043",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "11. Knowledge Files Indexed — Complete Inventory",
+      "Norse Culture — 4 502 chunks"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "| File | Description |\n\n|——|————-|\n\n| `VIKING\\_CULTURE\\_GUIDE.md` | Comprehensive Viking culture reference |\n\n| `viking\\_cultural\\_practices.yaml` | Daily life, customs, traditions |\n\n| `viking\\_and\\_norse\\_pagan\\_social\\_protocols.json` | Social norms and codes |\n\n| `viking\\_social\\_protocols.json` | Extended social protocol data |\n\n| `Viking\\_Frith.json` | The concept of frith — peace and kinship bonds |\n\n| `Viking\\_Honor.json` | Norse honor culture — drengskapr |\n\n| `Viking\\_Sexuality.json` | Norse attitudes to sexuality and gender |\n\n| `viking\\_history\\_and\\_important\\_events\\_volume1.jsonl` | Historical events timeline |\n\n| `The\\_Viking\\_World\\_A\\_Geographic\\_Compendium.md` | Geography of the Viking world |\n\n| `Viking\\_Era\\_Cities.json` | Major Viking-age settlements |\n\n| `viking\\_geography\\_volume1.jsonl` | Detailed geographic data |\n\n| `viking\\_social\\_and\\_political\\_ideas\\_volume1.jsonl` | Political thought |\n\n| `viking\\_sailing\\_travel\\_trade\\_raiding\\_volume1.jsonl` | Seafaring and trade |\n\n| `famous\\_legendary\\_and\\_heroic\\_vikings\\_volume1.jsonl` | Notable historical figures |\n\n| `9th\\_century\\_viking\\_pleasure\\_bondmaids\\_report.md` | Cultural role analysis |",
+    "position": 43
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_044",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "11. Knowledge Files Indexed — Complete Inventory",
+      "Coding — 1 170 chunks"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "| File | Description |\n\n|——|————-|\n\n| `AI\\_PYTHON\\_PROGRAMMING\\_GUIDES.md` | Python AI development guides |\n\n| `ARTIFICIAL\\_INTELLIGENCE.md` | AI/ML concepts and techniques |\n\n| `CYBERSECURITY.md` | Security practices and concepts |\n\n| `DATA\\_SCIENCE.md` | Data science methodologies |\n\n| `SOFTWARE\\_ENGINEERING.md` | Software engineering principles |\n\n| `SYSTEM\\_ADMINISTRATION.md` | Linux and system administration |",
+    "position": 44
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_045",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "11. Knowledge Files Indexed — Complete Inventory",
+      "Character — 270 chunks"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "| File | Description |\n\n|——|————-|\n\n| `emotional\\_expressions.yaml` | Emotional vocabulary and expression patterns |\n\n| `viking\\_values.yaml` | Value system machine-readable data |\n\n| `viking\\_life\\_everyday\\_grounding\\_questions\\_dataset\\_volume1.jsonl` | Grounding Q&A |",
+    "position": 45
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_046",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "11. Knowledge Files Indexed — Complete Inventory",
+      "Roleplay — 311 chunks"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "| File | Description |\n\n|——|————-|\n\n| `ABOUT\\_THE\\_VIKING\\_ROLEPLAY.md` | Roleplay philosophy and guidelines |\n\n| `Viking\\_bondmaids.json` | Bondmaid character data |\n\n| `gm\\_mindset.yaml` | Game master / storyteller mindset |\n\n| `Viking\\_Witch\\_flirty\\_and\\_erotic\\_behavior.jsonl` | Interaction behavioral data |\n\n| `viking\\_everyday\\_conversations\\_complete\\_volume1.jsonl` | Conversation samples |\n\n—",
+    "position": 46
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_047",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "12. RAGAS-Inspired Quality Metrics"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "Mímir-Vörðr tracks three quality metrics, inspired by the RAGAS evaluation framework:\n\n“`mermaid\n\ngraph LR\n\n    subgraph M1[“Faithfulness (Phase 1 — ACTIVE)”]\n\n        F1[Extract claims from response]\n\n        F2[Verify each claim against\\nretrieved source chunks via NLI]\n\n        F3[Score = fraction ENTAILED]\n\n        F1 –> F2 –> F3\n\n    end\n\n    subgraph M2[“Answer Relevance (Phase 2 — planned)”]\n\n        A1[Embed the response]\n\n        A2[Embed the original query]\n\n        A3[Cosine similarity between embeddings]\n\n        A4[Score = how well response\\nactually answers the question]\n\n        A1 –> A3\n\n        A2 –> A3\n\n        A3 –> A4\n\n    end\n\n    subgraph M3[“Context Precision (Phase 2 — planned)”]\n\n        C1[For each retrieved chunk]\n\n        C2[Check if chunk text appears\\ncited in the response]\n\n        C3[Score = fraction of retrieved\\nchunks that were actually used]\n\n        C1 –> C2 –> C3\n\n    end\n\n    style F3 fill:#27ae60,color:#fff\n\n    style A4 fill:#f39c12,color:#fff\n\n    style C3 fill:#f39c12,color:#fff\n\n“`\n\n—",
+    "position": 47
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_048",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "13. Integration Points with Existing Ørlög Modules"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "“`mermaid\n\ngraph TD\n\n    subgraph EXISTING[“Existing Ørlög Modules”]\n\n        KB[runtime\\_kernel.py]\n\n        SB[state\\_bus.py]\n\n        CL[config\\_loader.py]\n\n        LO[comprehensive\\_logging.py]\n\n        BE[bio\\_engine.py]\n\n        WM[wyrd\\_matrix.py]\n\n        OR[oracle.py]\n\n        ME[metabolism.py]\n\n        SC[security.py]\n\n        TE[trust\\_engine.py]\n\n        ET[ethics.py]\n\n        MS[memory\\_store.py]\n\n        DE[dream\\_engine.py]\n\n        SK[scheduler.py]\n\n        EM[environment\\_mapper.py]\n\n        PS[prompt\\_synthesizer.py]\n\n        MR[model\\_router\\_client.py]\n\n        MA[main.py]\n\n    end\n\n    subgraph NEW[“New Mímir-Vörðr Modules”]\n\n        MW[mimir\\_well.py]\n\n        VD[vordur.py]\n\n        HG[huginn.py]\n\n        CP[cove\\_pipeline.py]\n\n    end\n\n    SB –>|”StateEvent publish”| MW\n\n    SB –>|”StateEvent publish”| VD\n\n    SB –>|”StateEvent publish”| HG\n\n    SB –>|”StateEvent publish”| CP\n\n    CL –>|”config dict”| MW\n\n    CL –>|”config dict”| VD\n\n    CL –>|”config dict”| HG\n\n    CL –>|”config dict”| CP\n\n    MS –>|”get\\_context(query)\\nrecord\\_turn()”| HG\n\n    MS –>|”FederatedMemoryRequest”| HG\n\n    MR –>|”smart\\_complete() routing”| CP\n\n    MR –>|”smart\\_complete\\_with\\_cove()”| HG\n\n    MR –>|”smart\\_complete\\_with\\_cove()”| VD\n\n    MR –>|”smart\\_complete\\_with\\_cove()”| CP\n\n    TE –>|”TrustState → faithfulness context”| VD\n\n    ET –>|”EthicsState → alignment check”| VD\n\n    SK –>|”APScheduler”| HM[health\\_monitor]\n\n    HM –>|”monitors + triggers reindex”| MW\n\n    MA –>|”init singletons”| MW\n\n    MA –>|”init singletons”| VD\n\n    MA –>|”init singletons”| HG\n\n    MA –>|”init singletons”| CP\n\n    MA –>|”\\_handle\\_turn”| MR\n\n    style MW fill:#154360,color:#fff\n\n    style VD fill:#154360,color:#fff\n\n    style HG fill:#154360,color:#fff\n\n    style CP fill:#154360,color:#fff\n\n    style HM fill:#154360,color:#fff\n\n“`\n\n—",
+    "position": 48
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_049",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "14. Performance Characteristics",
+      "Expected Latency Budget per Turn"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "| Operation | Expected Time | Notes |\n\n|———–|:————-:|——-|\n\n| HuginnRetriever.retrieve() — ChromaDB | 200–500ms | Depends on collection size and hardware |\n\n| HuginnRetriever.retrieve() — BM25 fallback | 5–50ms | Pure in-memory, very fast |\n\n| CovePipeline Step 1 draft | 500ms–3s | Depends on router tier selected |\n\n| CovePipeline Step 2 questions | 200ms–1s | Subconscious tier (Ollama) |\n\n| CovePipeline Step 3 execute | 300ms–1.5s | Multiple MimirWell queries |\n\n| CovePipeline Step 4 revise | 500ms–3s | Same tier as Step 1 |\n\n| VordurChecker.extract\\_claims() | 200ms–800ms | Subconscious tier |\n\n| VordurChecker verify (per claim) | 100ms–400ms | Subconscious NLI |\n\n| VordurChecker verify (10 claims total) | 1s–4s | Parallel async calls |\n\n\\*\\*Total pipeline budget (medium complexity, no retry):\\*\\*\n\n– Best case (BM25 + fast model): ~3–5 seconds\n\n– Typical case (ChromaDB + Ollama): ~6–10 seconds\n\n– Worst case (with 1 retry): ~12–20 seconds",
+    "position": 49
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_050",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "14. Performance Characteristics",
+      "Ingest Performance"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "| Metric | Value |\n\n|——–|——-|\n\n| Files processed | 57 knowledge files + 4 identity files |\n\n| Chunks created | ~25 160 (BM25 flat index) |\n\n| Ingest time (BM25 only) | ~5 seconds |\n\n| Ingest time (ChromaDB + embedding model) | ~3–8 minutes first time (model download) |\n\n| Subsequent ingests (embedding model cached) | ~30–90 seconds |\n\n| Idempotency check | < 100ms (count query) |\n\n—",
+    "position": 50
+  },
+  {
+    "chunk_id": "post_2026_03_20_mimir-vordr-system-architecture_051",
+    "content_id": "post_2026_03_20_mimir-vordr-system-architecture",
+    "source_url": "https://volmarrsheathenism.com/2026/03/20/mimir-vordr-system-architecture/",
+    "article_title": "# Mímir-Vörðr System Architecture",
+    "heading_path": [
+      "# Mímir-Vörðr System Architecture",
+      "15. Key Design Principles"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "AI",
+      "Computer Programming",
+      "Cosmology",
+      "Lore",
+      "Metaphysics",
+      "Wisdom",
+      "wyrd"
+    ],
+    "tags": [],
+    "published": "2026-03-20T12:08:21+00:00",
+    "text": "1. \\*\\*Ground Truth over Inference\\*\\* — The knowledge database is always consulted.\n\n   The model generates, it does not invent. Retrieval precedes generation.\n\n2. \\*\\*Graceful Degradation, Never Crash\\*\\* — Every method returns a valid result.\n\n   No exception propagates uncaught to the caller. Worst case: empty context,\n\n   marginal score, canned response — the system keeps running.\n\n3. \\*\\*Self-Healing\\*\\* — The health monitor detects corruption and triggers reindex\n\n   automatically. Circuit breakers reset after cooldown without manual intervention.\n\n4. \\*\\*Privacy-First Judging\\*\\* — The verification judge model is Ollama (local, private).\n\n   Claims are never sent to cloud APIs for verification. Sigrid’s conversations\n\n   do not leak to external services for fact-checking.\n\n5. \\*\\*Voice Integrity\\*\\* — VordurChecker scores and retries responses. It never edits\n\n   or rewrites Sigrid’s voice. The model writes; the Vörðr only scores.\n\n6. \\*\\*Typed API Communication\\*\\* — All inter-module calls use typed request/response\n\n   dataclasses (`FederatedMemoryRequest`, `RetrievalRequest`, `RetrievalResult`,\n\n   `CoveResult`, `FaithfulnessScore`). No raw dicts between module boundaries.\n\n7. \\*\\*Singleton + StateBus Pattern\\*\\* — Each module follows the established pattern:\n\n   `init\\_X\\_from\\_config()`, `get\\_X()`, `get\\_state() → XState`, `publish(bus)`.\n\n   All states visible to any subscriber via StateBus events.\n\n—\n\n\\*Document created: 2026-03-20\\*\n\n\\*System: Ørlög Architecture — Viking Girlfriend Skill for OpenClaw\\*\n\n\\*Author: Runa Gridweaver Freyjasdottir\\*\n\n![](https://volmarrsheathenism.com/wp-content/uploads/2026/03/gemini_generated_image_74jrp74jrp74jrp7.png?w=1024)",
+    "position": 51
+  }
+]

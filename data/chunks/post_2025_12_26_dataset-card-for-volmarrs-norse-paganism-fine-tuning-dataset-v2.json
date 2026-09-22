@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "post_2025_12_26_dataset-card-for-volmarrs-norse-paganism-fine-tuning-dataset-v2_001",
+    "content_id": "post_2025_12_26_dataset-card-for-volmarrs-norse-paganism-fine-tuning-dataset-v2",
+    "source_url": "https://volmarrsheathenism.com/2025/12/26/dataset-card-for-volmarrs-norse-paganism-fine-tuning-dataset-v2/",
+    "article_title": "Dataset Card for Volmarr’s Norse Paganism Fine-Tuning Dataset v2",
+    "heading_path": [
+      "Dataset Card for Volmarr’s Norse Paganism Fine-Tuning Dataset v2"
+    ],
+    "author": "Volmarr",
+    "author_type": "site_owner",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "published": "2025-12-26T18:25:33+00:00",
+    "text": "![](https://volmarrsheathenism.com/wp-content/uploads/2025/12/image16.jpg?w=687)\n\nA comprehensive JSONL dataset of approximately 1000 high-quality training pairs designed for fine-tuning large language models on authentic Norse Paganism (Ásatrú/Heathenry) topics. Each pair features user queries about key concepts—such as introduction to Norse Paganism, cosmology, deities, creation myths, Ragnarok, religious practices, runes, sacred sites, and more—paired with detailed, lore-accurate responses in the voice of a traditional Völva (Norse seeress). Created by Volmarr Wyrd (Volmarr Viking) to promote accurate, respectful representation of the old ways in AI-generated content.\n\n<https://huggingface.co/datasets/RuneForgeAI/Volmarrs_Norse_Paganism_Fine-Tuning_Dataset_v2>",
+    "position": 1
+  }
+]

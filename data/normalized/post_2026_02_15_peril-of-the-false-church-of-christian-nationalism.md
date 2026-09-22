@@ -1,0 +1,32 @@
+---
+content_id: post_2026_02_15_peril-of-the-false-church-of-christian-nationalism
+url: https://volmarrsheathenism.com/2026/02/15/peril-of-the-false-church-of-christian-nationalism/
+title: "A Modern Viking’s Call: Norse Pagan Values in Today’s World and the Peril of the False Church of Christian Nationalism"
+published: "2026-02-16T01:47:32+00:00"
+modified: "2026-02-16T01:48:29+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["Devotion", "Free Speech", "Freedom", "Heathen Third Path", "Heritage", "Resistance", "Social Behavior", "Spirituality", "Thews (Virtues)", "Vikings", "politics"]
+tags: []
+normalized_hash: "sha256:a2a75fa84292cab11d37e33ad255ced67a1d461bedd7eff18bc499184fce6733"
+---
+
+![](https://volmarrsheathenism.com/wp-content/uploads/2026/02/gemini_generated_image_4e2co94e2co94e2c.png?w=519)
+
+Greetings, fellow seekers of wisdom and wanderers of the web! I’m Volmarr, a modern Viking navigating the currents of contemporary life in the USA. In this age of rapid change and clashing ideologies, I draw my strength from the ancient Norse Pagan traditions—Heathenry, as some call it—adapted to fit the society I live in. I’m not out raiding villages or sailing longships across stormy seas (though I love a good adventure game!). Instead, I embody the core values of my spiritual ancestors: honor, courage, resilience, hospitality, and a deep respect for the natural world and personal wyrd (fate). These principles guide me in building a stable, peaceful life, fostering community, and standing firm against threats to freedom and diversity.
+
+As a Norse Pagan, I honor the gods like Odin, Thor, Freyja, and the spirits of land and ancestors through rituals that make sense in modern times—perhaps a blót (offering) in my backyard during the equinox, or meditating on the Eddas while sipping energy drink before engaging in creative projects. I value self-reliance, mutual aid, and living in harmony with the cycles of nature, all while participating in a multicultural society. This path isn’t about rejecting progress; it’s about weaving timeless wisdom into everyday actions, like advocating for environmental stewardship or supporting local farmers who echo the agrarian roots of old Norse life. But let’s be clear: I don’t follow the teachings of Jesus. Christianity isn’t my spiritual home, and that’s okay—faith is personal, and mine is rooted in the polytheistic, nature and ancestor-venerating ways of the North.
+
+That said, I extend my hand in brotherhood and sisterhood to those who do genuinely follow Jesus’ teachings. The core messages of love, compassion, forgiveness, humility, and caring for the vulnerable? Those resonate across traditions. If you’re a Christian living out “love thy neighbor” without coercion, turning the other cheek in the face of hate, or feeding the hungry as Jesus commanded—welcome to the hall! We’re allies in pursuing a world where people of all backgrounds can chase life, liberty, and happiness without fear. True faith, in any form, builds bridges, not walls.
+
+However, there’s a shadow looming over this landscape of potential unity: Christian Nationalism. This isn’t the faith of Jesus—far from it. It’s what the Christian Bible itself warns against as the “False Church,” a corrupt institution symbolized in Revelation as the Whore of Babylon, drunk on power and allied with empires of greed. Christian Nationalism twists spirituality into a tool for dominance, echoing the Roman Empire’s obsession with control, conquest, and exclusion rather than Jesus’ radical calls for peace, non-violence, and equality. Jesus rejected worldly kingdoms, preached against judging others, and flipped tables on exploitative systems. Yet, this movement seeks to impose a theocratic vision on society, blending faith with nationalism to justify division, fear-mongering, and policies that favor one group over all others. It’s not about salvation; it’s about supremacy, and that poisons the well for everyone.
+
+Worse still, in the United States today, a large portion of those who claim Christianity have drifted from following YHWH or Jesus, elevating Donald Trump to a god-like status. He’s become their messiah figure—an “anointed” leader whose words and agenda supersede scripture. We’ve seen it in the rhetoric: comparisons to biblical kings like Cyrus or Jehu, claims of divine protection, and blind loyalty that excuses flaws while demanding absolute devotion. This isn’t devotion to Jesus; it’s idolatry, plain and simple, where political power trumps spiritual truth. Trump isn’t a deity—he’s a mortal man, and conflating him with the divine risks turning faith into a cult of personality, eroding the very principles of humility and love that Jesus embodied.
+
+This shift poses a major danger not just to Christians, but to all of us. It threatens the fabric of a free, pluralistic society where Norse Pagans like me, true followers of Jesus, Muslims, Jews, Hindus, atheists, and everyone else can coexist peacefully. As modern Vikings and Norse Pagans, we know from our sagas the perils of unchecked ambition and false idols—stories like Ragnarok warn of chaos when balance is lost. We must stand opposed, alongside clear-minded people of all faiths, cultures, and backgrounds. This isn’t about attacking religion; it’s about defending authentic spirituality from distortion and protecting our shared pursuit of stability and justice.
+
+Let’s raise our horns to unity in diversity. Honor your path, respect others’, and resist any force that seeks to impose its will through fear or false prophets. Skål to a better world—may the Norns weave favorable threads for us all.
+
+What are your thoughts, kin? Share in the comments below. Until next time, stay true to your wyrd.
+
+— Volmarr

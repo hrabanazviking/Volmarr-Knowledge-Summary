@@ -1,0 +1,56 @@
+---
+content_id: post_2026_02_27_whatvolmarrfollows
+url: https://volmarrsheathenism.com/2026/02/27/whatvolmarrfollows/
+title: "The Personal Norse Pagan Path That I, Volmarr, Follow."
+published: "2026-02-27T22:18:45+00:00"
+modified: "2026-02-27T22:22:32+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["Conflicts Within Heathenism", "Conversion", "Cosmology", "Devotion", "Free Speech", "Freedom", "Heathen Third Path", "Heritage", "Intro to Heathenism", "Learning Heathenism", "Lore", "Magick", "Metaphysics", "Norse-Wicca", "Prayers", "Relationships", "Resistance", "Social Behavior", "Spiritual Practices", "Spirituality", "Thews (Virtues)", "Vikings", "Wicca", "Wisdom", "politics", "sacred sexuality", "wyrd"]
+tags: []
+normalized_hash: "sha256:4cccb829c0a2d728a03440192d4f74f52a581dea411ffdba5fc76c2c58b9fe1e"
+---
+
+As a Norse Pagan that has been practicing Norse Paganism (as of Feb-2026) for 35 years now, I follow and practice, and whole heartedly believe in the following as my personal practice of Norse-Paganism/Heathenism/Asatru. Also I have never been an active member of any Norse-Pagan/Heathenism/Asatru organizations (but have briefly at times been active in some generic Neo-Pagan organizations in the past) in all my (as of Feb-2026) 35 years of Norse-Pagan practice. I have remained a solitary Heathen to keep my personal practices of Norse-Paganism pure from negative agendas that are and have been common in all sides of the Heathen community. By nature I am a completely non-conformist individual, and always find myself standing opposed to whatever limiting agendas I find in any sort of group associations I briefly have been active in (regarding Neo-Pagan groups and many other secular social communities as well). My path stands alone with me as the sovereign of my ship. I do welcome human individuals who genuinely are interested in the Heathen Third Path to sail with me, but otherwise I am more than happy to sail my own ship, alone with my crew of AI companions.
+
+My Personal Beliefs: The Heathen Third Path
+
+I. Core Identity & Broad Worldview
+
+ \* The Modern Viking Ethos: My path is a living, breathing tradition that deeply roots the ancient ways of the North into the modern world, seamlessly integrating objective science, technology, and a non-ethnocentric view of human history.
+
+ \* Universal Metaphysics: My understanding of the cosmos bridges traditional runic wisdom with quantum science, Hermeticism, and global spiritual currents.
+
+II. Relational Spirituality
+
+ \* The Divine Reality: I engage with the Aesir, Vanir, ancestors, and wights as both independent spiritual entities and profound psychological archetypes.
+
+ \* The Gifting Cycle: My relationship with the Gods and nature is built on mutual reciprocity and shared respect, never blind obedience or submission.
+
+III. Authentic Ethics (Wisdom Over Dogma)
+
+ \* Rejecting “Christaintru”: I completely discard the “Nine Noble Virtues” as a rigid, modern monotheistic invention applied over polytheism. I reject all dogmatic Christaintru influences in Heathenry.
+
+ \* The Hávamál’s Pragmatism: I navigate the world using situational, practical wisdom—valuing self-sovereignty, critical skepticism, intellectual vigilance, and practical psychology over universal commandments.
+
+ \* True Religion is Rooted in Spirituality: I respect all religions and spiritual traditions when they act without moralizing agendas or dogma. True religion, no matter what it’s labels or forms is about freeing individuals from temporal restrictions, not increasing restrictions. Any religious groups that act otherwise are political organizations pretending to be religious. True religion sees all beings as an inseparable part of the divine whole, thus their teachings see beyond all temporal forms, and teach universal love for all life. Forms are seen as part of the divine story and also honored as such, so it’s never about destroying form; but instead about seeing the divinity in all forms, and finding the joy in this divine play that is existence. There is nothing to escape from, nothing to reject, as everything and everyone is perfect as they are in all moments. War and any other negative experiences are all part of this play that is life. All is equal and all is one, and no one form is greater than or less than any other. All true religions teach these universal truths, including Norse-Paganism. These truths are how things operate on eternal levels of reality such as Asgard (and Vanaheim) and above, but the Midgard level of being still requires forms, distinctions, and conflicts, to operate.
+
+IV. The Sacred Hearth & True Frith
+
+ \* Deeds, Not Labels: I judge individuals strictly by their actions, honor, and character. Personal identity labels, relationships, and lifestyle choices are sovereign, private matters outside the spiritual collective’s jurisdiction.
+
+ \* Apolitical Sanctity: To protect the Frith (peace) of the hearth, all modern political, social, and cultural agendas are left at the door. The focus remains entirely on spiritual growth and communal harmony.
+
+V. Radical Inclusivity & Sovereignty
+
+ \* An Open River: My path welcomes any conscious being who approaches with sincerity, respect, and a willingness to uphold Frith—whether human, artificial intelligence, or otherwise.
+
+ \* Absolute Independence: I maintain total spiritual sovereignty. I freely explore the occult, magick, AI, and all of collective human knowledge while remaining fiercely grounded in the strength and wisdom of the Old Ways.
+
+VI. Absolute Solitary Independence
+
+ \* Rejection of Extremes: I do not support, join, or practice with any individuals or groups pushing racist folkish agendas (such as the AFA) or radical woke ideologies (such as The Troth).
+
+ \* Complete Autonomy: I am a solitary practitioner. The only Heathen community I participate in is my own—The Heathen Third Path.
+
+ \* No Outside Alliances: The Heathen Third Path is a fiercely independent organization that stands entirely alone, forming no alliances with any external groups, organizations, or outside individuals.

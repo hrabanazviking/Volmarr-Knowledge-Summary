@@ -1,0 +1,22 @@
+---
+content_id: post_2023_04_11_hygge
+url: https://volmarrsheathenism.com/2023/04/11/hygge/
+title: "Hygge"
+published: "2023-04-11T18:52:42+00:00"
+modified: "2023-04-11T18:52:42+00:00"
+author: "Volmarr"
+author_type: "site_owner"
+categories: ["Vikings"]
+tags: []
+normalized_hash: "sha256:b1fc03f13a4ce77d85a62a0e5923d1423aba5aa3b83b641ab7303c888ba28d69"
+---
+
+Hygge, the Danish concept of coziness, warmth, and conviviality, has gained widespread popularity in recent years. However, few people realize that hygge is deeply ingrained in Viking culture and may be the key to their success.
+
+The Vikings were known for their fierce warrior spirit, but they were also masters of creating warm, inviting spaces. Viking homes were built to be cozy and comfortable, with a central hearth that provided warmth and light. The Vikings also placed a high value on hospitality, and guests were always welcomed with food and drink.
+
+Hygge was not just a way of life for the Vikings; it was also a survival strategy. Life in Scandinavia was harsh, with long, dark winters and limited resources. Hygge provided a way for the Vikings to make the most of what they had and to find joy and comfort in the midst of difficult circumstances.
+
+Hygge also played a key role in Viking society. The Vikings were a close-knit community, and they relied on each other for survival. Hygge provided a way for them to bond and strengthen their relationships. By sharing food, drink, and stories around the fire, the Vikings built trust and camaraderie, which helped them to work together effectively in battle and other situations.
+
+In many ways, hygge was the secret to Viking success. It helped them to survive in a harsh environment, to build strong relationships, and to maintain a sense of joy and contentment in the face of adversity. Today, we can all learn from the Vikings and embrace the power of hygge in our own lives. Whether it’s lighting candles, snuggling up with a cozy blanket, or sharing a meal with loved ones, hygge can help us find warmth, comfort, and happiness, even in the darkest of times.

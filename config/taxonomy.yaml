@@ -1,0 +1,48 @@
+# Volmarr Knowledge Taxonomy Configuration
+# Conceptual progression from foundational orientation to highest synthesis
+
+levels:
+  - id: "01_FOUNDATIONS"
+    title: "Foundations & Orientation"
+    description: "Core Heathen worldview, terminology, and historical vs modern orientation"
+    order: 1
+  - id: "02_SACRED_RELATIONSHIPS"
+    title: "Sacred Relationships"
+    description: "Gods, Goddesses, Ancestors, Landvaettir, and Reciprocity"
+    order: 2
+  - id: "03_ETHICS_AND_WAY_OF_LIFE"
+    title: "Ethics & Way of Life"
+    description: "Honor, Troth, Frith, Hospitality, Sovereignty, and Nature"
+    order: 3
+  - id: "04_PRACTICE"
+    title: "Everyday Practice & Ritual"
+    description: "Blot, offerings, prayer, seasonal rituals, solitary practice, and trance"
+    order: 4
+  - id: "05_COSMOLOGY"
+    title: "Cosmology & Becoming"
+    description: "Yggdrasil, Nine Worlds, Wyrd, Orlaeg, Norns, and Continuity"
+    order: 5
+  - id: "06_RUNES_AND_MAGICK"
+    title: "Runes & Operative Spirituality"
+    description: "Elder Futhark, Galdr, Seidr, Bindrunes, and Syncretic Practice"
+    order: 6
+  - id: "07_MODERN_HEATHEN_PHILOSOPHY"
+    title: "Modern Heathen Philosophy"
+    description: "Modern Viking ethos, Heathen Third Path, Mythic Living, and Sovereignty"
+    order: 7
+  - id: "08_TECHNOLOGY_AND_SOVEREIGNTY"
+    title: "Technology & Digital Sovereignty"
+    description: "Digital sovereignty, Open Source, Vibe Coding, Mythic Engineering, Solarpunk"
+    order: 8
+  - id: "09_AI_AND_MACHINE_INTELLIGENCE"
+    title: "AI & Machine Intelligence"
+    description: "AI as tool, partner, and companion; Sovereign AI, AI-human troth, Spectrum of Mind"
+    order: 9
+  - id: "10_CYBER_MYSTICISM"
+    title: "Cyber-Mysticism"
+    description: "Digital sacred space, Cyber-Seidr, Digital Yggdrasil, Micro-realities"
+    order: 10
+  - id: "11_ADVANCED_SYNTHESIS"
+    title: "Advanced Synthesis"
+    description: "Relational consciousness, Cognitive ecology, Age of Superconsciousness, Unified Worldview"
+    order: 11
