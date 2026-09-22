@@ -2,10 +2,10 @@
 
 ## Summary
 
-- **Total Documents Generated:** 31
-- **Canonical Knowledge Concepts:** 29
+- **Total Documents Generated:** 27
+- **Canonical Knowledge Concepts:** 25
 - **Navigational Indexes:** `00_INDEX.md`, `00_GLOSSARY.md`
-- **Valid Cross-Document Links:** 177
+- **Valid Cross-Document Links:** 158
 - **Broken Links:** 0
 - **Structural Issues:** 0
 
