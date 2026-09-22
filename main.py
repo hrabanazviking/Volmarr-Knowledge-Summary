@@ -83,10 +83,17 @@ def main():
     parser.add_argument("--graph", action="store_true", help="Generate prerequisite graph")
     parser.add_argument("--weave", action="store_true", help="Synthesize canonical Markdown")
     parser.add_argument("--audit", action="store_true", help="Run quality assurance audit")
+    parser.add_argument("--loop", action="store_true", help="Run in continuous auto-continue watcher loop")
+    parser.add_argument("--interval", type=int, default=300, help="Loop interval in seconds (default: 300)")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of items to fetch/process")
     parser.add_argument("--ids", type=str, default=None, help="Comma-separated content IDs to process")
 
     args = parser.parse_args()
+
+    if args.loop:
+        from src.incremental_loop import IncrementalLoopEngine
+        IncrementalLoopEngine(interval_seconds=args.interval).run_forever()
+        return
 
     if len(sys.argv) == 1 or args.all:
         run_pipeline(fetch_limit=args.limit, fetch_ids=args.ids)
