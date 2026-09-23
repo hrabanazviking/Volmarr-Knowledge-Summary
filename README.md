@@ -55,9 +55,10 @@ Volmarr-Knowledge-Summary/
 │   ├── cluster/                 # Phase 7-8: Concept Registry & Deduplication
 │   ├── graph/                   # Phase 12-14: Prerequisite DAG & Bi-directional Indexes
 │   ├── synthesize/              # Phase 16: Knowledge Weaver
-│   ├── validate/                # Phase 18-20: QA & Redundancy Auditor
+│   ├── validate/                # Phase 18-20: QA, Redundancy & Human Review Queue
 │   ├── incremental_loop.py      # Automated 24/7 daemon loop for live change sync
 │   └── search.py                # Terminal knowledge query engine
+├── tests/                       # Phase 27: Evaluation Suite (12 pytest suites)
 └── main.py                      # Unified CLI entrypoint
 ```
 
@@ -81,6 +82,8 @@ uv run python main.py --registry   # Build canonical concept registry & clusters
 uv run python main.py --graph      # Build DAG & calculate topological order
 uv run python main.py --weave      # Synthesize canonical Markdown library
 uv run python main.py --audit      # Run QA audit (link integrity, redundancy)
+uv run python main.py --review     # Display human review queue (Phase 26)
+uv run python main.py --test       # Run evaluation test suite (Phase 27)
 
 # Machine-Readable Indexes & Visual Graph:
 uv run python src/graph/build_indexes.py # Build source_to_concepts & concept_to_sources

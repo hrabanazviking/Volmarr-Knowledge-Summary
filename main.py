@@ -83,6 +83,8 @@ def main():
     parser.add_argument("--graph", action="store_true", help="Generate prerequisite graph")
     parser.add_argument("--weave", action="store_true", help="Synthesize canonical Markdown")
     parser.add_argument("--audit", action="store_true", help="Run quality assurance audit")
+    parser.add_argument("--review", action="store_true", help="Display human review queue")
+    parser.add_argument("--test", action="store_true", help="Run Phase 27 pytest evaluation suite")
     parser.add_argument("--loop", action="store_true", help="Run in continuous auto-continue watcher loop")
     parser.add_argument("--interval", type=int, default=300, help="Loop interval in seconds (default: 300)")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of items to fetch/process")
@@ -120,6 +122,14 @@ def main():
         KnowledgeWeaver().synthesize_all()
     if args.audit:
         KnowledgeAuditor().audit_all()
+    if args.review:
+        from src.validate.review_queue import ReviewQueueManager
+        manager = ReviewQueueManager()
+        manager.populate_initial_queue()
+        manager.display_queue()
+    if args.test:
+        import pytest
+        sys.exit(pytest.main(["-v", "tests"]))
 
 if __name__ == "__main__":
     main()
