@@ -10,7 +10,7 @@ def test_concept_registry_uniqueness():
     assert registry_file.exists()
     
     concepts = [json.loads(line) for line in open(registry_file, encoding="utf-8") if line.strip()]
-    assert len(concepts) == 25, f"Expected 25 canonical concepts, found {len(concepts)}"
+    assert len(concepts) == 64, f"Expected 64 canonical concepts, found {len(concepts)}"
     
     ids = [c["concept_id"] for c in concepts]
     assert len(ids) == len(set(ids)), "Duplicate concept IDs found in registry"
@@ -23,7 +23,7 @@ def test_pairwise_semantic_redundancy():
         f for f in KNOWLEDGE_DIR.rglob("*.md")
         if "_meta" not in f.parts and f.name not in ["00_INDEX.md", "00_GLOSSARY.md", "00_CONCEPT_MAP.md"]
     ]
-    assert len(md_files) == 25, f"Expected 25 concept markdown docs, found {len(md_files)}"
+    assert len(md_files) == 64, f"Expected 64 concept markdown docs, found {len(md_files)}"
     
     words = {}
     for f in md_files:

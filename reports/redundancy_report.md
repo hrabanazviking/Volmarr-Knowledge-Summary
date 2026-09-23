@@ -1,7 +1,7 @@
 # Cross-Document Redundancy Audit Report
 
-- **Total Canonical Documents Audited:** 30
-- **Max Pairwise Jaccard Similarity:** 0.333 (01_Gods_and_Goddesses.md vs 02_Freyja.md)
+- **Total Canonical Documents Audited:** 69
+- **Max Pairwise Jaccard Similarity:** 0.349 (01_What_This_Worldview_Is.md vs 02_Heathen_Third_Path.md)
 - **Threshold Target:** < 0.45 pairwise semantic overlap
 - **Status:** **PASSED: All documents maintain distinct conceptual focus.**
 
@@ -9,13 +9,13 @@
 
 | Document A | Document B | Word Similarity | Status |
 | --- | --- | --- | --- |
-| `01_Gods_and_Goddesses.md` | `02_Freyja.md` | 0.333 | Distinct |
-| `01_Gods_and_Goddesses.md` | `02_Galdr_and_Seidr.md` | 0.331 | Distinct |
-| `05_Ancestors_and_Disir.md` | `01_Blot_and_Daily_Practice.md` | 0.329 | Distinct |
-| `01_Gods_and_Goddesses.md` | `06_Landvaettir_and_Spirits.md` | 0.327 | Distinct |
-| `01_Yggdrasil_and_the_Nine_Worlds.md` | `01_Runes_and_Elder_Futhark.md` | 0.321 | Distinct |
-| `02_Freyja.md` | `02_Galdr_and_Seidr.md` | 0.320 | Distinct |
-| `01_AI_as_Cognitive_Partner.md` | `01_Cyber_Mysticism_and_the_Tree_of_Becoming.md` | 0.316 | Distinct |
-| `01_Blot_and_Daily_Practice.md` | `01_Yggdrasil_and_the_Nine_Worlds.md` | 0.312 | Distinct |
-| `01_Troth_and_Reciprocity.md` | `02_Frith_and_Hospitality.md` | 0.309 | Distinct |
-| `02_Frith_and_Hospitality.md` | `04_Thews_and_Virtues.md` | 0.304 | Distinct |
+| `01_What_This_Worldview_Is.md` | `02_Heathen_Third_Path.md` | 0.349 | Distinct |
+| `03_Sovereignty_and_Responsibility.md` | `03_Personal_and_Spiritual_Sovereignty.md` | 0.309 | Distinct |
+| `04_The_Norns_and_Becoming.md` | `06_The_Great_Tree_of_Becoming.md` | 0.299 | Distinct |
+| `05_Solitary_Practice.md` | `03_Personal_and_Spiritual_Sovereignty.md` | 0.281 | Distinct |
+| `02_Heathen_Third_Path.md` | `06_Unified_Worldview.md` | 0.269 | Distinct |
+| `02_Heathenism_and_Norse_Paganism.md` | `01_Gods_and_Goddesses.md` | 0.269 | Distinct |
+| `01_What_This_Worldview_Is.md` | `06_Unified_Worldview.md` | 0.267 | Distinct |
+| `02_Wyrd.md` | `03_Orlaeg.md` | 0.264 | Distinct |
+| `04_Relational_Worldview.md` | `01_Honor_Troth_and_Reciprocity.md` | 0.262 | Distinct |
+| `01_What_This_Worldview_Is.md` | `04_Relational_Worldview.md` | 0.260 | Distinct |

@@ -12,9 +12,9 @@ def test_prerequisite_graph_is_dag():
     edges = data["edges"]
     topological_order = data["topological_reading_order"]
     
-    assert len(nodes) == 25, f"Expected 25 nodes, got {len(nodes)}"
+    assert len(nodes) == 64, f"Expected 64 nodes, got {len(nodes)}"
     assert len(edges) >= 30, f"Expected at least 30 edges, got {len(edges)}"
-    assert len(topological_order) == 25, f"Topological order missing nodes"
+    assert len(topological_order) == 64, f"Topological order missing nodes"
     
     G = nx.DiGraph()
     for n in nodes:

@@ -7,7 +7,7 @@ def test_ai_memory_export():
     
     assert "metadata" in memory_pack
     assert "concepts" in memory_pack
-    assert len(memory_pack["concepts"]) == 25
+    assert len(memory_pack["concepts"]) == 64
     
     first = memory_pack["concepts"][0]
     assert "concept_id" in first

@@ -15,7 +15,7 @@ def test_canonical_documents_schema_compliance():
         f for f in KNOWLEDGE_DIR.rglob("*.md")
         if "_meta" not in f.parts and f.name not in ["00_INDEX.md", "00_GLOSSARY.md", "00_CONCEPT_MAP.md"]
     ]
-    assert len(concept_docs) == 25, f"Expected 25 concept documents, got {len(concept_docs)}"
+    assert len(concept_docs) == 64, f"Expected 64 concept documents, got {len(concept_docs)}"
     
     missing_sections = []
     for doc in concept_docs:

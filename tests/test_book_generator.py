@@ -12,6 +12,7 @@ def test_book_generation():
     assert "# The Heathen Third Path: A Canonical Synthesis" in text
     assert "## Foreword & Epistemic Orientation" in text
     assert "## Table of Contents" in text
-    assert "Chapter 1: Heathenism and Norse Paganism" in text
+    assert "Chapter 1: What This Worldview Is" in text
+    assert "Chapter 2: Heathenism and Norse Paganism" in text
     assert "Appendix A: Complete Glossary of Terms" in text
     assert "Appendix B: Prerequisite Graph & Reading Paths" in text
