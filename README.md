@@ -95,9 +95,10 @@ uv run python src/search.py "troth"
 uv run python src/search.py "superconsciousness"
 uv run python src/search.py "solarpunk"
 
-# Run the autonomous continuous loop runner:
-uv run python loop.py              # Root-level auto-sync loop runner
-.\loop.ps1                         # Native PowerShell runner
+# Run the autonomous indestructible continuous loop runner:
+uv run python loop.py              # Multi-tier fallback loop runner (6-tier discovery, 4-tier pipeline, 6-tier git sync)
+.\loop.ps1                         # Indestructible PowerShell supervisor watchdog with auto-restart & lock-healing
+
 ```
 
 ---
