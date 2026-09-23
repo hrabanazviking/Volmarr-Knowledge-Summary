@@ -85,6 +85,8 @@ def main():
     parser.add_argument("--audit", action="store_true", help="Run quality assurance audit")
     parser.add_argument("--review", action="store_true", help="Display human review queue")
     parser.add_argument("--test", action="store_true", help="Run Phase 27 pytest evaluation suite")
+    parser.add_argument("--build", action="store_true", help="Execute complete release packaging and build all assets")
+    parser.add_argument("--export", action="store_true", help="Export AI companion memory pack for RAG")
     parser.add_argument("--loop", action="store_true", help="Run in continuous auto-continue watcher loop")
     parser.add_argument("--interval", type=int, default=300, help="Loop interval in seconds (default: 300)")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of items to fetch/process")

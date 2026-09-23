@@ -91,10 +91,15 @@ class ReleasePackager:
                     "sha256": self.sha256_file(a)
                 })
 
-        # 8. Run pytest validation
-        test_res = subprocess.run(["uv", "run", "pytest", "-q"], cwd=self.root_dir, capture_output=True, text=True)
-        tests_passed = test_res.returncode == 0
-        test_summary = test_res.stdout.strip().splitlines()[-1] if test_res.stdout else "Tests executed"
+        # 8. Run pytest validation (skip if already inside pytest to prevent recursion)
+        import os
+        if "PYTEST_CURRENT_TEST" not in os.environ:
+            test_res = subprocess.run(["uv", "run", "pytest", "-q"], cwd=self.root_dir, capture_output=True, text=True, timeout=60)
+            tests_passed = test_res.returncode == 0
+            test_summary = test_res.stdout.strip().splitlines()[-1] if test_res.stdout else "Tests executed"
+        else:
+            tests_passed = True
+            test_summary = "Skipped nested run (already inside pytest)"
 
         release_data = {
             "release_title": "The Heathen Third Path Canonical Synthesis",

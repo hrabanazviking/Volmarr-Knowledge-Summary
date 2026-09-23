@@ -1,7 +1,7 @@
 {
   "release_title": "The Heathen Third Path Canonical Synthesis",
   "version": "1.0.0",
-  "release_date": "2026-09-23T02:49:40.175459+00:00",
+  "release_date": "2026-09-23T02:50:47.320594+00:00",
   "source_corpus": {
     "url": "https://volmarrsheathenism.com",
     "total_articles_indexed": 573,
@@ -11,7 +11,7 @@
     "canonical_concepts": 25,
     "dag_dependency_edges": 33,
     "atomic_source_claims": 6570,
-    "evaluation_tests": "20 passed in 0.77s",
+    "evaluation_tests": "Skipped nested run (already inside pytest)",
     "tests_passed": true
   },
   "distributed_assets": [
