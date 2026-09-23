@@ -1,0 +1,84 @@
+{
+  "release_title": "The Heathen Third Path Canonical Synthesis",
+  "version": "1.0.0",
+  "release_date": "2026-09-23T02:49:40.175459+00:00",
+  "source_corpus": {
+    "url": "https://volmarrsheathenism.com",
+    "total_articles_indexed": 573,
+    "time_span": "2013-02-25 to 2026-09-22"
+  },
+  "metrics": {
+    "canonical_concepts": 25,
+    "dag_dependency_edges": 33,
+    "atomic_source_claims": 6570,
+    "evaluation_tests": "20 passed in 0.77s",
+    "tests_passed": true
+  },
+  "distributed_assets": [
+    {
+      "path": "dist/The_Heathen_Third_Path_Canonical_System.md",
+      "size_bytes": 123577,
+      "sha256": "21f54c55211f1238c7cd5cc7e979475bb6486a66e3d1bd3de5d9546ec5e9c6c7"
+    },
+    {
+      "path": "knowledge/explorer.html",
+      "size_bytes": 604375,
+      "sha256": "839d2a57cacfdb35ace01f7079c084371ae342d5051395eecdf459b9e66ab2d1"
+    },
+    {
+      "path": "knowledge/graph_view.html",
+      "size_bytes": 13799,
+      "sha256": "e8e2759f2d15816035096bf0156559938cc9ce3bb6017c2b3a8897c796f9339a"
+    },
+    {
+      "path": "knowledge/00_INDEX.md",
+      "size_bytes": 9485,
+      "sha256": "330d6dae9c11dfe8fb983a5ab17bc3639638288dc3355ad8d7c8ca1bcca36b0a"
+    },
+    {
+      "path": "knowledge/00_GLOSSARY.md",
+      "size_bytes": 6005,
+      "sha256": "89169657528940dfbe0204a456ff0d1e4cff8240f4dabc4685f9cf723e7aedb7"
+    },
+    {
+      "path": "knowledge/00_CONCEPT_MAP.md",
+      "size_bytes": 10706,
+      "sha256": "83245ffc5340cc5737d136fe117032ec943068014f831f61ad15c5431e0169b7"
+    },
+    {
+      "path": "data/export/ai_companion_memory.json",
+      "size_bytes": 366177,
+      "sha256": "6797e7da5d91cc3c00da596e447daa999caad2eea16bcb9896a6486b1b59b7d8"
+    },
+    {
+      "path": "data/database/prerequisite_graph.json",
+      "size_bytes": 36673,
+      "sha256": "797971861532f9756c97c24a3c9f60cdad394e9c35f5f752889ca468b1ed0c73"
+    },
+    {
+      "path": "data/database/concept_registry.jsonl",
+      "size_bytes": 472996,
+      "sha256": "afe84755fe688e155bf0612e6e6e33bd957211ef2d5eb8452df7a71ef4bbf8a9"
+    },
+    {
+      "path": "reports/unresolved_conflicts.md",
+      "size_bytes": 12361,
+      "sha256": "c1c93dc4c17f5709110412dbac543bcd91487f2db501fd9ca237713331debeb1"
+    },
+    {
+      "path": "reports/temporal_evolution.md",
+      "size_bytes": 2704,
+      "sha256": "a67b591ef49453ff0b2d52e0b08d1be52f850c7ec27d9efffc4e39aaa0aa5c43"
+    },
+    {
+      "path": "reports/build_report.md",
+      "size_bytes": 1751,
+      "sha256": "895baac6f7a4830a93d729d8ae05c6ad2fb55f3832b344d65dfba2a1b6bd9298"
+    },
+    {
+      "path": "reports/redundancy_report.md",
+      "size_bytes": 1274,
+      "sha256": "b7b2e2db08a9d011a55abdd7544b272b71da56ef176940192727c0249a1251e6"
+    }
+  ]
+}
