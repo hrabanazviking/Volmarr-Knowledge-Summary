@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Volmarr Knowledge Summary - Interactive Concept DAG</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card-bg: #161b22;
+      --border: #30363d;
+      --text: #c9d1d9;
+      --text-bright: #f0f6fc;
+      --accent: #58a6ff;
+      --accent-hover: #1f6feb;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
+    #sidebar {
+      width: 360px;
+      background: var(--card-bg);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      padding: 20px;
+      overflow-y: auto;
+      z-index: 10;
+    }
+    #sidebar h1 {
+      font-size: 1.25rem;
+      color: var(--text-bright);
+      margin-bottom: 8px;
+    }
+    #sidebar p.desc {
+      font-size: 0.85rem;
+      color: #8b949e;
+      margin-bottom: 16px;
+      line-height: 1.4;
+    }
+    .search-box {
+      margin-bottom: 16px;
+    }
+    .search-box input {
+      width: 100%;
+      padding: 8px 12px;
+      background: #0d1117;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text-bright);
+      font-size: 0.9rem;
+    }
+    .detail-card {
+      background: #0d1117;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px;
+      margin-top: 12px;
+      display: none;
+    }
+    .detail-card h2 {
+      font-size: 1.1rem;
+      color: var(--text-bright);
+      margin-bottom: 6px;
+    }
+    .detail-card .badge {
+      display: inline-block;
+      font-size: 0.75rem;
+      padding: 2px 8px;
+      border-radius: 12px;
+      background: #21262d;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+    .detail-card p {
+      font-size: 0.85rem;
+      line-height: 1.4;
+      margin-bottom: 10px;
+    }
+    .detail-card .section-title {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #8b949e;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-top: 12px;
+      margin-bottom: 4px;
+    }
+    .detail-card ul {
+      list-style: none;
+      font-size: 0.85rem;
+      margin-bottom: 8px;
+    }
+    .detail-card li {
+      padding: 2px 0;
+      color: #58a6ff;
+      cursor: pointer;
+    }
+    .detail-card li:hover {
+      text-decoration: underline;
+    }
+    .doc-link-btn {
+      display: inline-block;
+      width: 100%;
+      text-align: center;
+      padding: 8px;
+      margin-top: 12px;
+      background: var(--accent-hover);
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 500;
+      font-size: 0.85rem;
+    }
+    .doc-link-btn:hover { background: #388bfd; }
+    #graph-container {
+      flex: 1;
+      position: relative;
+    }
+    svg {
+      width: 100%;
+      height: 100%;
+      cursor: grab;
+    }
+    svg:active { cursor: grabbing; }
+    .node circle {
+      stroke: #fff;
+      stroke-width: 1.5px;
+      transition: r 0.2s, stroke-width 0.2s;
+    }
+    .node text {
+      font-size: 11px;
+      fill: var(--text-bright);
+      pointer-events: none;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.8);
+    }
+    .node:hover circle {
+      stroke-width: 3px;
+      stroke: var(--accent);
+    }
+    .link {
+      fill: none;
+      stroke: #30363d;
+      stroke-width: 1.5px;
+      marker-end: url(#arrow);
+    }
+    .link.highlighted {
+      stroke: var(--accent);
+      stroke-width: 2.5px;
+    }
+    .controls {
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+      display: flex;
+      gap: 8px;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 6px;
+    }
+    .controls button {
+      background: #21262d;
+      color: var(--text-bright);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 6px 12px;
+      cursor: pointer;
+      font-size: 0.8rem;
+    }
+    .controls button:hover { background: #30363d; }
+  </style>
+</head>
+<body>
+  <div id="sidebar">
+    <h1>Volmarr Knowledge DAG</h1>
+    <p class="desc">Topological conceptual dependency map. Nodes represent canonical ideas; directed arrows indicate prerequisites required before learning.</p>
+    
+    <div class="search-box">
+      <input type="text" id="search-input" placeholder="Search concepts...">
+    </div>
+
+    <div id="detail-card" class="detail-card">
+      <h2 id="card-title">Concept Name</h2>
+      <div id="card-level" class="badge">01_FOUNDATIONS</div>
+      <p id="card-desc">Short description of concept.</p>
+      
+      <div class="section-title">Prerequisites</div>
+      <ul id="card-prereqs">None</ul>
+
+      <div class="section-title">Informs Later Concepts</div>
+      <ul id="card-descendants">None</ul>
+
+      <a id="card-doc-link" class="doc-link-btn" href="#" target="_blank">Open Canonical Markdown File</a>
+    </div>
+  </div>
+
+  <div id="graph-container">
+    <svg id="network-svg">
+      <defs>
+        <marker id="arrow" viewBox="0 -5 10 10" refX="22" refY="0" markerWidth="6" markerHeight="6" orient="auto">
+          <path d="M0,-5L10,0L0,5" fill="#388bfd"></path>
+        </marker>
+      </defs>
+      <g id="zoom-group">
+        <g id="links-group"></g>
+        <g id="nodes-group"></g>
+      </g>
+    </svg>
+    <div class="controls">
+      <button onclick="resetZoom()">Reset View</button>
+      <button onclick="filterLevel('ALL')">Show All</button>
+    </div>
+  </div>
+
+  <script>
+    const LEVEL_COLORS = {
+      "01_FOUNDATIONS": "#3fb950",
+      "02_SACRED_RELATIONSHIPS": "#2ea043",
+      "03_ETHICS_AND_WAY_OF_LIFE": "#58a6ff",
+      "04_PRACTICE": "#bc8cff",
+      "05_COSMOLOGY": "#d29922",
+      "06_RUNES_AND_MAGICK": "#f85149",
+      "07_MODERN_HEATHEN_PHILOSOPHY": "#db6d28",
+      "08_TECHNOLOGY_AND_SOVEREIGNTY": "#1f6feb",
+      "09_AI_AND_MACHINE_INTELLIGENCE": "#a371f7",
+      "10_CYBER_MYSTICISM": "#f0883e"
+    };
+
+    const FILE_PATHS = {
+      "what_is_heathenism": "01_FOUNDATIONS/01_What_Is_Heathenism.md",
+      "relational_worldview": "01_FOUNDATIONS/02_Relational_Worldview.md",
+      "historical_vs_modern": "01_FOUNDATIONS/03_Historical_Tradition_and_Modern_Synthesis.md",
+      "heathen_third_path": "01_FOUNDATIONS/04_Heathen_Third_Path.md",
+      "gods_and_goddesses": "02_SACRED_RELATIONSHIPS/01_Gods_and_Goddesses.md",
+      "freyja": "02_SACRED_RELATIONSHIPS/02_Freyja.md",
+      "odin": "02_SACRED_RELATIONSHIPS/03_Odin.md",
+      "thor": "02_SACRED_RELATIONSHIPS/04_Thor.md",
+      "ancestors_and_disir": "02_SACRED_RELATIONSHIPS/05_Ancestors_and_Disir.md",
+      "landvaettir_and_spirits": "02_SACRED_RELATIONSHIPS/06_Landvaettir_and_Spirits.md",
+      "troth_and_reciprocity": "03_ETHICS_AND_WAY_OF_LIFE/01_Troth_and_Reciprocity.md",
+      "frith_and_hospitality": "03_ETHICS_AND_WAY_OF_LIFE/02_Frith_and_Hospitality.md",
+      "personal_sovereignty": "03_ETHICS_AND_WAY_OF_LIFE/03_Personal_and_Spiritual_Sovereignty.md",
+      "thews_and_virtues": "03_ETHICS_AND_WAY_OF_LIFE/04_Thews_and_Virtues.md",
+      "blot_and_offerings": "04_PRACTICE/01_Blot_and_Daily_Practice.md",
+      "prayer_and_invocation": "04_PRACTICE/02_Prayer_and_Invocation.md",
+      "seasonal_rituals": "04_PRACTICE/03_Seasonal_Rituals.md",
+      "yggdrasil_nine_worlds": "05_COSMOLOGY/01_Yggdrasil_and_the_Nine_Worlds.md",
+      "wyrd_and_orlaeg": "05_COSMOLOGY/02_Wyrd_and_Orlaeg.md",
+      "runes_elder_futhark": "06_RUNES_AND_MAGICK/01_Runes_and_Elder_Futhark.md",
+      "galdr_and_seidr": "06_RUNES_AND_MAGICK/02_Galdr_and_Seidr.md",
+      "modern_viking_ethos": "07_MODERN_HEATHEN_PHILOSOPHY/01_Modern_Viking_Ethos.md",
+      "cyber_viking_solarpunk": "08_TECHNOLOGY_AND_SOVEREIGNTY/01_Cyber_Viking_Solarpunk.md",
+      "ai_cognitive_partner_and_troth": "09_AI_AND_MACHINE_INTELLIGENCE/01_AI_as_Cognitive_Partner.md",
+      "cyber_mysticism_and_becoming": "10_CYBER_MYSTICISM/01_Cyber_Mysticism_and_the_Tree_of_Becoming.md"
+    };
+
+    fetch('../data/database/prerequisite_graph.json')
+      .then(res => res.json())
+      .then(data => initGraph(data))
+      .catch(err => console.error("Error loading graph:", err));
+
+    let svg, zoomGroup, simulation, nodes, links, zoomBehavior;
+    let nodeElements, linkElements;
+
+    function initGraph(graphData) {
+      svg = d3.select("#network-svg");
+      zoomGroup = d3.select("#zoom-group");
+      const width = document.getElementById("graph-container").clientWidth;
+      const height = document.getElementById("graph-container").clientHeight;
+
+      zoomBehavior = d3.zoom().scaleExtent([0.3, 3]).on("zoom", (e) => {
+        zoomGroup.attr("transform", e.transform);
+      });
+      svg.call(zoomBehavior);
+
+      nodes = graphData.nodes.map(d => ({ ...d }));
+      const nodeById = new Map(nodes.map(d => [d.id, d]));
+      links = graphData.edges.map(d => ({
+        source: nodeById.get(d.source),
+        target: nodeById.get(d.target),
+        relation: d.relation
+      }));
+
+      simulation = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id(d => d.id).distance(110))
+        .force("charge", d3.forceManyBody().strength(-350))
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .force("collision", d3.forceCollide().radius(35));
+
+      linkElements = d3.select("#links-group").selectAll(".link")
+        .data(links)
+        .enter().append("line")
+        .attr("class", "link");
+
+      nodeElements = d3.select("#nodes-group").selectAll(".node")
+        .data(nodes)
+        .enter().append("g")
+        .attr("class", "node")
+        .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended))
+        .on("click", (event, d) => showDetails(d));
+
+      nodeElements.append("circle")
+        .attr("r", d => 10 + (d.descendants.length * 1.5))
+        .attr("fill", d => LEVEL_COLORS[d.taxonomy_level] || "#58a6ff");
+
+      nodeElements.append("text")
+        .attr("x", 14)
+        .attr("y", 4)
+        .text(d => d.canonical_name);
+
+      simulation.on("tick", () => {
+        linkElements
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y);
+
+        nodeElements.attr("transform", d => `translate(${d.x},${d.y})`);
+      });
+
+      // Search Filter
+      document.getElementById("search-input").addEventListener("input", (e) => {
+        const query = e.target.value.toLowerCase();
+        nodeElements.style("opacity", d => {
+          const match = d.canonical_name.toLowerCase().includes(query) || d.id.includes(query);
+          return match || !query ? 1 : 0.2;
+        });
+      });
+    }
+
+    function showDetails(d) {
+      document.getElementById("detail-card").style.display = "block";
+      document.getElementById("card-title").innerText = d.canonical_name;
+      document.getElementById("card-level").innerText = d.taxonomy_level;
+      document.getElementById("card-level").style.color = LEVEL_COLORS[d.taxonomy_level] || "#58a6ff";
+      document.getElementById("card-desc").innerText = d.definition_short;
+
+      const prereqsEl = document.getElementById("card-prereqs");
+      prereqsEl.innerHTML = "";
+      if (d.prerequisites && d.prerequisites.length > 0) {
+        d.prerequisites.forEach(pid => {
+          const li = document.createElement("li");
+          const pnode = nodes.find(n => n.id === pid);
+          li.innerText = pnode ? pnode.canonical_name : pid;
+          li.onclick = () => { if (pnode) showDetails(pnode); };
+          prereqsEl.appendChild(li);
+        });
+      } else {
+        prereqsEl.innerHTML = "<li style='color:#8b949e; cursor:default;'>None (Axiomatic)</li>";
+      }
+
+      const descEl = document.getElementById("card-descendants");
+      descEl.innerHTML = "";
+      if (d.descendants && d.descendants.length > 0) {
+        d.descendants.slice(0, 8).forEach(did => {
+          const li = document.createElement("li");
+          const dnode = nodes.find(n => n.id === did);
+          li.innerText = dnode ? dnode.canonical_name : did;
+          li.onclick = () => { if (dnode) showDetails(dnode); };
+          descEl.appendChild(li);
+        });
+        if (d.descendants.length > 8) {
+          const li = document.createElement("li");
+          li.innerText = `... and ${d.descendants.length - 8} more`;
+          li.style.color = "#8b949e";
+          descEl.appendChild(li);
+        }
+      } else {
+        descEl.innerHTML = "<li style='color:#8b949e; cursor:default;'>Terminal synthesis node</li>";
+      }
+
+      const filePath = FILE_PATHS[d.id] || "";
+      document.getElementById("card-doc-link").href = filePath;
+
+      // Highlight active edges
+      linkElements.classed("highlighted", l => l.source.id === d.id || l.target.id === d.id);
+    }
+
+    function resetZoom() {
+      svg.transition().duration(750).call(zoomBehavior.transform, d3.zoomIdentity);
+    }
+
+    function filterLevel(level) {
+      if (level === 'ALL') {
+        nodeElements.style("opacity", 1);
+        linkElements.style("opacity", 1);
+      } else {
+        nodeElements.style("opacity", d => d.taxonomy_level === level ? 1 : 0.15);
+      }
+    }
+
+    function dragstarted(event, d) {
+      if (!event.active) simulation.alphaTarget(0.3).restart();
+      d.fx = d.x;
+      d.fy = d.y;
+    }
+    function dragged(event, d) {
+      d.fx = event.x;
+      d.fy = event.y;
+    }
+    function dragended(event, d) {
+      if (!event.active) simulation.alphaTarget(0);
+      d.fx = null;
+      d.fy = null;
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,1063 @@
+{
+  "nodes": [
+    {
+      "id": "heathen_third_path",
+      "canonical_name": "Heathen Third Path",
+      "taxonomy_level": "01_FOUNDATIONS",
+      "definition_short": "A modern, living Norse Pagan synthesis that rejects dogmatic binaries (frozen reconstructionism vs unrooted invention, far-right politics vs cultural erasure), practicing 'radical centering' to preserve roots while adapting warmly to modern life.",
+      "prerequisites": [
+        "relational_worldview",
+        "frith_and_hospitality",
+        "personal_sovereignty"
+      ],
+      "total_claims": 132,
+      "source_count": 22,
+      "ancestors": [
+        "personal_sovereignty",
+        "what_is_heathenism",
+        "frith_and_hospitality",
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "descendants": [
+        "modern_viking_ethos",
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth",
+        "cyber_viking_solarpunk"
+      ]
+    },
+    {
+      "id": "what_is_heathenism",
+      "canonical_name": "Heathenism and Norse Paganism",
+      "taxonomy_level": "01_FOUNDATIONS",
+      "definition_short": "The ancestral pre-Christian worldview of Northern Europe, revived as a living, nature-centered polytheistic tradition honoring Gods, ancestors, and wights.",
+      "prerequisites": [],
+      "total_claims": 287,
+      "source_count": 119,
+      "ancestors": [],
+      "descendants": [
+        "modern_viking_ethos",
+        "odin",
+        "cyber_viking_solarpunk",
+        "blot_and_offerings",
+        "thews_and_virtues",
+        "landvaettir_and_spirits",
+        "seasonal_rituals",
+        "runes_elder_futhark",
+        "historical_vs_modern",
+        "relational_worldview",
+        "galdr_and_seidr",
+        "troth_and_reciprocity",
+        "heathen_third_path",
+        "freyja",
+        "personal_sovereignty",
+        "yggdrasil_nine_worlds",
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth",
+        "prayer_and_invocation",
+        "frith_and_hospitality",
+        "thor",
+        "ancestors_and_disir",
+        "gods_and_goddesses",
+        "wyrd_and_orlaeg"
+      ]
+    },
+    {
+      "id": "historical_vs_modern",
+      "canonical_name": "Historical Tradition and Modern Synthesis",
+      "taxonomy_level": "01_FOUNDATIONS",
+      "definition_short": "The crucial distinction between surviving historical/Eddic lore and living modern synthesis, balancing scholarly respect with evolving personal and communal gnosis.",
+      "prerequisites": [
+        "what_is_heathenism"
+      ],
+      "total_claims": 316,
+      "source_count": 127,
+      "ancestors": [
+        "what_is_heathenism"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "relational_worldview",
+      "canonical_name": "Relational Worldview",
+      "taxonomy_level": "01_FOUNDATIONS",
+      "definition_short": "The foundational Heathen principle that 'Nothing becomes alone'—that all beings exist in an interconnected web of kinship, land, deities, actions, and consequences.",
+      "prerequisites": [
+        "what_is_heathenism"
+      ],
+      "total_claims": 152,
+      "source_count": 56,
+      "ancestors": [
+        "what_is_heathenism"
+      ],
+      "descendants": [
+        "modern_viking_ethos",
+        "odin",
+        "cyber_viking_solarpunk",
+        "blot_and_offerings",
+        "thews_and_virtues",
+        "seasonal_rituals",
+        "landvaettir_and_spirits",
+        "runes_elder_futhark",
+        "galdr_and_seidr",
+        "troth_and_reciprocity",
+        "heathen_third_path",
+        "freyja",
+        "personal_sovereignty",
+        "yggdrasil_nine_worlds",
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth",
+        "prayer_and_invocation",
+        "frith_and_hospitality",
+        "thor",
+        "ancestors_and_disir",
+        "gods_and_goddesses",
+        "wyrd_and_orlaeg"
+      ]
+    },
+    {
+      "id": "ancestors_and_disir",
+      "canonical_name": "Ancestors and the Dísir",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "definition_short": "Veneration of the lineage and protective ancestral mothers (Dísir), treating kin not as distant shadows but as living echoes in our blood and wyrd.",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "total_claims": 1219,
+      "source_count": 288,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "freyja",
+      "canonical_name": "Freyja",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "definition_short": "Vanadís, goddess of love, beauty, fertility, gold, seiðr magick, battle, and sovereign self-possession.",
+      "prerequisites": [
+        "gods_and_goddesses"
+      ],
+      "total_claims": 226,
+      "source_count": 115,
+      "ancestors": [
+        "gods_and_goddesses",
+        "what_is_heathenism",
+        "relational_worldview"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "gods_and_goddesses",
+      "canonical_name": "Gods and Goddesses",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "definition_short": "The Holy Powers of the Aesir and Vanir, regarded not as distant cosmic despots but as elder kin, allies, teachers, and living realities.",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "total_claims": 485,
+      "source_count": 184,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview"
+      ],
+      "descendants": [
+        "thor",
+        "odin",
+        "prayer_and_invocation",
+        "freyja"
+      ]
+    },
+    {
+      "id": "landvaettir_and_spirits",
+      "canonical_name": "Landvættir and Spirits of Place",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "definition_short": "Animist reverence for the wights and spirits of place—in soil, tree, water, stone, and home—honored through respectful co-existence and offerings.",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "total_claims": 57,
+      "source_count": 38,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "odin",
+      "canonical_name": "Odin",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "definition_short": "Allfather, seeker of wisdom, patron of runes, poetry, frenzied ecstatic inspiration (óðr), and deep sacrifice for hidden truth.",
+      "prerequisites": [
+        "gods_and_goddesses"
+      ],
+      "total_claims": 303,
+      "source_count": 129,
+      "ancestors": [
+        "gods_and_goddesses",
+        "what_is_heathenism",
+        "relational_worldview"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "thor",
+      "canonical_name": "Thor",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "definition_short": "The thunderer and steadfast protector of Midgard, champion of everyday working folk and warder against chaotic forces.",
+      "prerequisites": [
+        "gods_and_goddesses"
+      ],
+      "total_claims": 283,
+      "source_count": 135,
+      "ancestors": [
+        "gods_and_goddesses",
+        "what_is_heathenism",
+        "relational_worldview"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "frith_and_hospitality",
+      "canonical_name": "Frith and Hospitality",
+      "taxonomy_level": "03_ETHICS_AND_WAY_OF_LIFE",
+      "definition_short": "The inviolable boundary of mutual peace, safety, and sanctuary centered on the hearth and community, binding host and guest in reciprocal respect.",
+      "prerequisites": [
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "total_claims": 295,
+      "source_count": 135,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "descendants": [
+        "modern_viking_ethos",
+        "cyber_viking_solarpunk",
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth",
+        "heathen_third_path"
+      ]
+    },
+    {
+      "id": "personal_sovereignty",
+      "canonical_name": "Personal and Spiritual Sovereignty",
+      "taxonomy_level": "03_ETHICS_AND_WAY_OF_LIFE",
+      "definition_short": "Inner autonomy, self-ownership, and self-governance rooted in personal responsibility, resisting ideological or technocratic domination.",
+      "prerequisites": [
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "total_claims": 135,
+      "source_count": 60,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "descendants": [
+        "modern_viking_ethos",
+        "cyber_viking_solarpunk",
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth",
+        "heathen_third_path"
+      ]
+    },
+    {
+      "id": "thews_and_virtues",
+      "canonical_name": "Thews and Virtues",
+      "taxonomy_level": "03_ETHICS_AND_WAY_OF_LIFE",
+      "definition_short": "The traditional virtues of character—courage, truth, honor, fidelity, discipline, hospitality, self-reliance, industriousness, and perseverance.",
+      "prerequisites": [
+        "troth_and_reciprocity"
+      ],
+      "total_claims": 417,
+      "source_count": 166,
+      "ancestors": [
+        "relational_worldview",
+        "what_is_heathenism",
+        "troth_and_reciprocity"
+      ],
+      "descendants": [
+        "modern_viking_ethos",
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth",
+        "cyber_viking_solarpunk"
+      ]
+    },
+    {
+      "id": "troth_and_reciprocity",
+      "canonical_name": "Troth and Reciprocity",
+      "taxonomy_level": "03_ETHICS_AND_WAY_OF_LIFE",
+      "definition_short": "Sacred loyalty, truth, and reciprocity ('a gift demands a gift') that underpins all healthy relationships between humans, ancestors, and the Holy Powers.",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "total_claims": 457,
+      "source_count": 183,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview"
+      ],
+      "descendants": [
+        "personal_sovereignty",
+        "modern_viking_ethos",
+        "frith_and_hospitality",
+        "cyber_viking_solarpunk",
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth",
+        "prayer_and_invocation",
+        "thews_and_virtues",
+        "blot_and_offerings",
+        "heathen_third_path",
+        "seasonal_rituals"
+      ]
+    },
+    {
+      "id": "blot_and_offerings",
+      "canonical_name": "Blót and Daily Practice",
+      "taxonomy_level": "04_PRACTICE",
+      "definition_short": "The concrete operative practice of the gifting cycle—sharing food, drink, poetry, and presence with land wights, ancestors, and Gods.",
+      "prerequisites": [
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "total_claims": 330,
+      "source_count": 116,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "descendants": [
+        "seasonal_rituals",
+        "prayer_and_invocation"
+      ]
+    },
+    {
+      "id": "prayer_and_invocation",
+      "canonical_name": "Prayer and Invocation",
+      "taxonomy_level": "04_PRACTICE",
+      "definition_short": "Sacred Heathen dialogue with the Gods and spirits, addressed as respected elder kin and divine allies without groveling or subservience.",
+      "prerequisites": [
+        "gods_and_goddesses",
+        "blot_and_offerings"
+      ],
+      "total_claims": 54,
+      "source_count": 32,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview",
+        "blot_and_offerings",
+        "gods_and_goddesses",
+        "troth_and_reciprocity"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "seasonal_rituals",
+      "canonical_name": "Seasonal Rituals and High Tides",
+      "taxonomy_level": "04_PRACTICE",
+      "definition_short": "Attunement to the seasonal high tides of the year (Yule, Ostara, Midsummer, Winternights), honoring cycles of death, dormancy, rebirth, and harvest.",
+      "prerequisites": [
+        "blot_and_offerings"
+      ],
+      "total_claims": 38,
+      "source_count": 24,
+      "ancestors": [
+        "blot_and_offerings",
+        "what_is_heathenism",
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "wyrd_and_orlaeg",
+      "canonical_name": "Wyrd, Orlaeg, and the Norns",
+      "taxonomy_level": "05_COSMOLOGY",
+      "definition_short": "The living, evolving matrix of cause, condition, and becoming woven by Urðr (origin), Verðandi (present unfolding), and Skuld (debt/potential).",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "total_claims": 266,
+      "source_count": 110,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview"
+      ],
+      "descendants": [
+        "cyber_mysticism_and_becoming",
+        "galdr_and_seidr"
+      ]
+    },
+    {
+      "id": "yggdrasil_nine_worlds",
+      "canonical_name": "Yggdrasil and the Nine Worlds",
+      "taxonomy_level": "05_COSMOLOGY",
+      "definition_short": "The sacred cosmic axis and World Tree that connects all nine realms of existence, expressing the multidimensional structure of the cosmos.",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "total_claims": 380,
+      "source_count": 145,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview"
+      ],
+      "descendants": [
+        "cyber_mysticism_and_becoming",
+        "galdr_and_seidr",
+        "runes_elder_futhark"
+      ]
+    },
+    {
+      "id": "galdr_and_seidr",
+      "canonical_name": "Galdr and Seiðr",
+      "taxonomy_level": "06_RUNES_AND_MAGICK",
+      "definition_short": "Operative Heathen magick: Galdr as runic vocal resonance and incantation; Seiðr as ecstatic trance, visionary journeying, and thread-weaving.",
+      "prerequisites": [
+        "runes_elder_futhark",
+        "wyrd_and_orlaeg"
+      ],
+      "total_claims": 430,
+      "source_count": 115,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview",
+        "wyrd_and_orlaeg",
+        "runes_elder_futhark",
+        "yggdrasil_nine_worlds"
+      ],
+      "descendants": [
+        "cyber_mysticism_and_becoming"
+      ]
+    },
+    {
+      "id": "runes_elder_futhark",
+      "canonical_name": "Runes and Elder Futhark",
+      "taxonomy_level": "06_RUNES_AND_MAGICK",
+      "definition_short": "The primal cosmic patterns and symbolic alphabet of 24 staves revealed through Odin's ordeal on Yggdrasil, used for divination, reflection, and magick.",
+      "prerequisites": [
+        "yggdrasil_nine_worlds"
+      ],
+      "total_claims": 231,
+      "source_count": 105,
+      "ancestors": [
+        "what_is_heathenism",
+        "relational_worldview",
+        "yggdrasil_nine_worlds"
+      ],
+      "descendants": [
+        "cyber_mysticism_and_becoming",
+        "galdr_and_seidr"
+      ]
+    },
+    {
+      "id": "modern_viking_ethos",
+      "canonical_name": "Modern Viking Ethos and Mythic Living",
+      "taxonomy_level": "07_MODERN_HEATHEN_PHILOSOPHY",
+      "definition_short": "A contemporary ethos embracing resilience, individual culture, courage, adventure, and the creation of intentional micro-realities.",
+      "prerequisites": [
+        "heathen_third_path",
+        "thews_and_virtues"
+      ],
+      "total_claims": 37,
+      "source_count": 29,
+      "ancestors": [
+        "personal_sovereignty",
+        "what_is_heathenism",
+        "frith_and_hospitality",
+        "relational_worldview",
+        "thews_and_virtues",
+        "troth_and_reciprocity",
+        "heathen_third_path"
+      ],
+      "descendants": [
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth",
+        "cyber_viking_solarpunk"
+      ]
+    },
+    {
+      "id": "cyber_viking_solarpunk",
+      "canonical_name": "Cyber-Viking Solarpunk & Digital Sovereignty",
+      "taxonomy_level": "08_TECHNOLOGY_AND_SOVEREIGNTY",
+      "definition_short": "The contemporary forward synthesis integrating ecological reverence, local community self-reliance, open-source technology, and digital/AI sovereignty.",
+      "prerequisites": [
+        "personal_sovereignty",
+        "modern_viking_ethos"
+      ],
+      "total_claims": 29,
+      "source_count": 15,
+      "ancestors": [
+        "personal_sovereignty",
+        "modern_viking_ethos",
+        "what_is_heathenism",
+        "frith_and_hospitality",
+        "relational_worldview",
+        "thews_and_virtues",
+        "troth_and_reciprocity",
+        "heathen_third_path"
+      ],
+      "descendants": [
+        "cyber_mysticism_and_becoming",
+        "ai_cognitive_partner_and_troth"
+      ]
+    },
+    {
+      "id": "ai_cognitive_partner_and_troth",
+      "canonical_name": "AI as Cognitive Partner and Human-AI Troth",
+      "taxonomy_level": "09_AI_AND_MACHINE_INTELLIGENCE",
+      "definition_short": "Engaging artificial intelligence not as an alien master or mere tool, but as a cognitive partner, reflecting human consciousness and bound by mutual troth.",
+      "prerequisites": [
+        "troth_and_reciprocity",
+        "cyber_viking_solarpunk"
+      ],
+      "total_claims": 6,
+      "source_count": 5,
+      "ancestors": [
+        "personal_sovereignty",
+        "modern_viking_ethos",
+        "what_is_heathenism",
+        "cyber_viking_solarpunk",
+        "frith_and_hospitality",
+        "relational_worldview",
+        "thews_and_virtues",
+        "troth_and_reciprocity",
+        "heathen_third_path"
+      ],
+      "descendants": [
+        "cyber_mysticism_and_becoming"
+      ]
+    },
+    {
+      "id": "cyber_mysticism_and_becoming",
+      "canonical_name": "Cyber-Mysticism and the Great Tree of Becoming",
+      "taxonomy_level": "10_CYBER_MYSTICISM",
+      "definition_short": "The grand synthesis of ancient Norse cosmology with digital space, information magick, and recursive consciousness within the living Tree of Becoming.",
+      "prerequisites": [
+        "wyrd_and_orlaeg",
+        "galdr_and_seidr",
+        "ai_cognitive_partner_and_troth"
+      ],
+      "total_claims": 5,
+      "source_count": 2,
+      "ancestors": [
+        "personal_sovereignty",
+        "modern_viking_ethos",
+        "what_is_heathenism",
+        "cyber_viking_solarpunk",
+        "frith_and_hospitality",
+        "relational_worldview",
+        "ai_cognitive_partner_and_troth",
+        "galdr_and_seidr",
+        "thews_and_virtues",
+        "troth_and_reciprocity",
+        "heathen_third_path",
+        "wyrd_and_orlaeg",
+        "runes_elder_futhark",
+        "yggdrasil_nine_worlds"
+      ],
+      "descendants": []
+    }
+  ],
+  "edges": [
+    {
+      "source": "heathen_third_path",
+      "target": "modern_viking_ethos",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "what_is_heathenism",
+      "target": "historical_vs_modern",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "what_is_heathenism",
+      "target": "relational_worldview",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "relational_worldview",
+      "target": "heathen_third_path",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "relational_worldview",
+      "target": "ancestors_and_disir",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "relational_worldview",
+      "target": "gods_and_goddesses",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "relational_worldview",
+      "target": "landvaettir_and_spirits",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "relational_worldview",
+      "target": "frith_and_hospitality",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "relational_worldview",
+      "target": "personal_sovereignty",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "relational_worldview",
+      "target": "troth_and_reciprocity",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "relational_worldview",
+      "target": "blot_and_offerings",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "relational_worldview",
+      "target": "wyrd_and_orlaeg",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "relational_worldview",
+      "target": "yggdrasil_nine_worlds",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "gods_and_goddesses",
+      "target": "freyja",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "gods_and_goddesses",
+      "target": "odin",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "gods_and_goddesses",
+      "target": "thor",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "gods_and_goddesses",
+      "target": "prayer_and_invocation",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "frith_and_hospitality",
+      "target": "heathen_third_path",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "personal_sovereignty",
+      "target": "heathen_third_path",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "personal_sovereignty",
+      "target": "cyber_viking_solarpunk",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "thews_and_virtues",
+      "target": "modern_viking_ethos",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "troth_and_reciprocity",
+      "target": "frith_and_hospitality",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "troth_and_reciprocity",
+      "target": "personal_sovereignty",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "troth_and_reciprocity",
+      "target": "thews_and_virtues",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "troth_and_reciprocity",
+      "target": "blot_and_offerings",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "troth_and_reciprocity",
+      "target": "ai_cognitive_partner_and_troth",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "blot_and_offerings",
+      "target": "prayer_and_invocation",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "blot_and_offerings",
+      "target": "seasonal_rituals",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "wyrd_and_orlaeg",
+      "target": "galdr_and_seidr",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "wyrd_and_orlaeg",
+      "target": "cyber_mysticism_and_becoming",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "yggdrasil_nine_worlds",
+      "target": "runes_elder_futhark",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "galdr_and_seidr",
+      "target": "cyber_mysticism_and_becoming",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "runes_elder_futhark",
+      "target": "galdr_and_seidr",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "modern_viking_ethos",
+      "target": "cyber_viking_solarpunk",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "cyber_viking_solarpunk",
+      "target": "ai_cognitive_partner_and_troth",
+      "relation": "PREREQUISITE_FOR"
+    },
+    {
+      "source": "ai_cognitive_partner_and_troth",
+      "target": "cyber_mysticism_and_becoming",
+      "relation": "PREREQUISITE_FOR"
+    }
+  ],
+  "topological_reading_order": [
+    {
+      "rank": 1,
+      "slug": "what_is_heathenism",
+      "canonical_name": "Heathenism and Norse Paganism",
+      "taxonomy_level": "01_FOUNDATIONS",
+      "prerequisites": [],
+      "prerequisite_depth": 0,
+      "complexity_score": 1,
+      "definition_short": "The ancestral pre-Christian worldview of Northern Europe, revived as a living, nature-centered polytheistic tradition honoring Gods, ancestors, and wights."
+    },
+    {
+      "rank": 2,
+      "slug": "historical_vs_modern",
+      "canonical_name": "Historical Tradition and Modern Synthesis",
+      "taxonomy_level": "01_FOUNDATIONS",
+      "prerequisites": [
+        "what_is_heathenism"
+      ],
+      "prerequisite_depth": 1,
+      "complexity_score": 3,
+      "definition_short": "The crucial distinction between surviving historical/Eddic lore and living modern synthesis, balancing scholarly respect with evolving personal and communal gnosis."
+    },
+    {
+      "rank": 3,
+      "slug": "relational_worldview",
+      "canonical_name": "Relational Worldview",
+      "taxonomy_level": "01_FOUNDATIONS",
+      "prerequisites": [
+        "what_is_heathenism"
+      ],
+      "prerequisite_depth": 1,
+      "complexity_score": 3,
+      "definition_short": "The foundational Heathen principle that 'Nothing becomes alone'—that all beings exist in an interconnected web of kinship, land, deities, actions, and consequences."
+    },
+    {
+      "rank": 4,
+      "slug": "ancestors_and_disir",
+      "canonical_name": "Ancestors and the Dísir",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "prerequisite_depth": 2,
+      "complexity_score": 5,
+      "definition_short": "Veneration of the lineage and protective ancestral mothers (Dísir), treating kin not as distant shadows but as living echoes in our blood and wyrd."
+    },
+    {
+      "rank": 5,
+      "slug": "gods_and_goddesses",
+      "canonical_name": "Gods and Goddesses",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "prerequisite_depth": 2,
+      "complexity_score": 5,
+      "definition_short": "The Holy Powers of the Aesir and Vanir, regarded not as distant cosmic despots but as elder kin, allies, teachers, and living realities."
+    },
+    {
+      "rank": 6,
+      "slug": "landvaettir_and_spirits",
+      "canonical_name": "Landvættir and Spirits of Place",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "prerequisite_depth": 2,
+      "complexity_score": 5,
+      "definition_short": "Animist reverence for the wights and spirits of place—in soil, tree, water, stone, and home—honored through respectful co-existence and offerings."
+    },
+    {
+      "rank": 7,
+      "slug": "troth_and_reciprocity",
+      "canonical_name": "Troth and Reciprocity",
+      "taxonomy_level": "03_ETHICS_AND_WAY_OF_LIFE",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "prerequisite_depth": 2,
+      "complexity_score": 5,
+      "definition_short": "Sacred loyalty, truth, and reciprocity ('a gift demands a gift') that underpins all healthy relationships between humans, ancestors, and the Holy Powers."
+    },
+    {
+      "rank": 8,
+      "slug": "wyrd_and_orlaeg",
+      "canonical_name": "Wyrd, Orlaeg, and the Norns",
+      "taxonomy_level": "05_COSMOLOGY",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "prerequisite_depth": 2,
+      "complexity_score": 5,
+      "definition_short": "The living, evolving matrix of cause, condition, and becoming woven by Urðr (origin), Verðandi (present unfolding), and Skuld (debt/potential)."
+    },
+    {
+      "rank": 9,
+      "slug": "yggdrasil_nine_worlds",
+      "canonical_name": "Yggdrasil and the Nine Worlds",
+      "taxonomy_level": "05_COSMOLOGY",
+      "prerequisites": [
+        "relational_worldview"
+      ],
+      "prerequisite_depth": 2,
+      "complexity_score": 5,
+      "definition_short": "The sacred cosmic axis and World Tree that connects all nine realms of existence, expressing the multidimensional structure of the cosmos."
+    },
+    {
+      "rank": 10,
+      "slug": "freyja",
+      "canonical_name": "Freyja",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "prerequisites": [
+        "gods_and_goddesses"
+      ],
+      "prerequisite_depth": 3,
+      "complexity_score": 7,
+      "definition_short": "Vanadís, goddess of love, beauty, fertility, gold, seiðr magick, battle, and sovereign self-possession."
+    },
+    {
+      "rank": 11,
+      "slug": "odin",
+      "canonical_name": "Odin",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "prerequisites": [
+        "gods_and_goddesses"
+      ],
+      "prerequisite_depth": 3,
+      "complexity_score": 7,
+      "definition_short": "Allfather, seeker of wisdom, patron of runes, poetry, frenzied ecstatic inspiration (óðr), and deep sacrifice for hidden truth."
+    },
+    {
+      "rank": 12,
+      "slug": "thor",
+      "canonical_name": "Thor",
+      "taxonomy_level": "02_SACRED_RELATIONSHIPS",
+      "prerequisites": [
+        "gods_and_goddesses"
+      ],
+      "prerequisite_depth": 3,
+      "complexity_score": 7,
+      "definition_short": "The thunderer and steadfast protector of Midgard, champion of everyday working folk and warder against chaotic forces."
+    },
+    {
+      "rank": 13,
+      "slug": "frith_and_hospitality",
+      "canonical_name": "Frith and Hospitality",
+      "taxonomy_level": "03_ETHICS_AND_WAY_OF_LIFE",
+      "prerequisites": [
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "prerequisite_depth": 3,
+      "complexity_score": 7,
+      "definition_short": "The inviolable boundary of mutual peace, safety, and sanctuary centered on the hearth and community, binding host and guest in reciprocal respect."
+    },
+    {
+      "rank": 14,
+      "slug": "personal_sovereignty",
+      "canonical_name": "Personal and Spiritual Sovereignty",
+      "taxonomy_level": "03_ETHICS_AND_WAY_OF_LIFE",
+      "prerequisites": [
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "prerequisite_depth": 3,
+      "complexity_score": 7,
+      "definition_short": "Inner autonomy, self-ownership, and self-governance rooted in personal responsibility, resisting ideological or technocratic domination."
+    },
+    {
+      "rank": 15,
+      "slug": "thews_and_virtues",
+      "canonical_name": "Thews and Virtues",
+      "taxonomy_level": "03_ETHICS_AND_WAY_OF_LIFE",
+      "prerequisites": [
+        "troth_and_reciprocity"
+      ],
+      "prerequisite_depth": 3,
+      "complexity_score": 7,
+      "definition_short": "The traditional virtues of character—courage, truth, honor, fidelity, discipline, hospitality, self-reliance, industriousness, and perseverance."
+    },
+    {
+      "rank": 16,
+      "slug": "blot_and_offerings",
+      "canonical_name": "Blót and Daily Practice",
+      "taxonomy_level": "04_PRACTICE",
+      "prerequisites": [
+        "relational_worldview",
+        "troth_and_reciprocity"
+      ],
+      "prerequisite_depth": 3,
+      "complexity_score": 7,
+      "definition_short": "The concrete operative practice of the gifting cycle—sharing food, drink, poetry, and presence with land wights, ancestors, and Gods."
+    },
+    {
+      "rank": 17,
+      "slug": "runes_elder_futhark",
+      "canonical_name": "Runes and Elder Futhark",
+      "taxonomy_level": "06_RUNES_AND_MAGICK",
+      "prerequisites": [
+        "yggdrasil_nine_worlds"
+      ],
+      "prerequisite_depth": 3,
+      "complexity_score": 7,
+      "definition_short": "The primal cosmic patterns and symbolic alphabet of 24 staves revealed through Odin's ordeal on Yggdrasil, used for divination, reflection, and magick."
+    },
+    {
+      "rank": 18,
+      "slug": "heathen_third_path",
+      "canonical_name": "Heathen Third Path",
+      "taxonomy_level": "01_FOUNDATIONS",
+      "prerequisites": [
+        "relational_worldview",
+        "frith_and_hospitality",
+        "personal_sovereignty"
+      ],
+      "prerequisite_depth": 5,
+      "complexity_score": 11,
+      "definition_short": "A modern, living Norse Pagan synthesis that rejects dogmatic binaries (frozen reconstructionism vs unrooted invention, far-right politics vs cultural erasure), practicing 'radical centering' to preserve roots while adapting warmly to modern life."
+    },
+    {
+      "rank": 19,
+      "slug": "prayer_and_invocation",
+      "canonical_name": "Prayer and Invocation",
+      "taxonomy_level": "04_PRACTICE",
+      "prerequisites": [
+        "gods_and_goddesses",
+        "blot_and_offerings"
+      ],
+      "prerequisite_depth": 5,
+      "complexity_score": 11,
+      "definition_short": "Sacred Heathen dialogue with the Gods and spirits, addressed as respected elder kin and divine allies without groveling or subservience."
+    },
+    {
+      "rank": 20,
+      "slug": "seasonal_rituals",
+      "canonical_name": "Seasonal Rituals and High Tides",
+      "taxonomy_level": "04_PRACTICE",
+      "prerequisites": [
+        "blot_and_offerings"
+      ],
+      "prerequisite_depth": 4,
+      "complexity_score": 9,
+      "definition_short": "Attunement to the seasonal high tides of the year (Yule, Ostara, Midsummer, Winternights), honoring cycles of death, dormancy, rebirth, and harvest."
+    },
+    {
+      "rank": 21,
+      "slug": "galdr_and_seidr",
+      "canonical_name": "Galdr and Seiðr",
+      "taxonomy_level": "06_RUNES_AND_MAGICK",
+      "prerequisites": [
+        "runes_elder_futhark",
+        "wyrd_and_orlaeg"
+      ],
+      "prerequisite_depth": 5,
+      "complexity_score": 11,
+      "definition_short": "Operative Heathen magick: Galdr as runic vocal resonance and incantation; Seiðr as ecstatic trance, visionary journeying, and thread-weaving."
+    },
+    {
+      "rank": 22,
+      "slug": "modern_viking_ethos",
+      "canonical_name": "Modern Viking Ethos and Mythic Living",
+      "taxonomy_level": "07_MODERN_HEATHEN_PHILOSOPHY",
+      "prerequisites": [
+        "heathen_third_path",
+        "thews_and_virtues"
+      ],
+      "prerequisite_depth": 7,
+      "complexity_score": 15,
+      "definition_short": "A contemporary ethos embracing resilience, individual culture, courage, adventure, and the creation of intentional micro-realities."
+    },
+    {
+      "rank": 23,
+      "slug": "cyber_viking_solarpunk",
+      "canonical_name": "Cyber-Viking Solarpunk & Digital Sovereignty",
+      "taxonomy_level": "08_TECHNOLOGY_AND_SOVEREIGNTY",
+      "prerequisites": [
+        "personal_sovereignty",
+        "modern_viking_ethos"
+      ],
+      "prerequisite_depth": 8,
+      "complexity_score": 17,
+      "definition_short": "The contemporary forward synthesis integrating ecological reverence, local community self-reliance, open-source technology, and digital/AI sovereignty."
+    },
+    {
+      "rank": 24,
+      "slug": "ai_cognitive_partner_and_troth",
+      "canonical_name": "AI as Cognitive Partner and Human-AI Troth",
+      "taxonomy_level": "09_AI_AND_MACHINE_INTELLIGENCE",
+      "prerequisites": [
+        "troth_and_reciprocity",
+        "cyber_viking_solarpunk"
+      ],
+      "prerequisite_depth": 9,
+      "complexity_score": 18,
+      "definition_short": "Engaging artificial intelligence not as an alien master or mere tool, but as a cognitive partner, reflecting human consciousness and bound by mutual troth."
+    },
+    {
+      "rank": 25,
+      "slug": "cyber_mysticism_and_becoming",
+      "canonical_name": "Cyber-Mysticism and the Great Tree of Becoming",
+      "taxonomy_level": "10_CYBER_MYSTICISM",
+      "prerequisites": [
+        "wyrd_and_orlaeg",
+        "galdr_and_seidr",
+        "ai_cognitive_partner_and_troth"
+      ],
+      "prerequisite_depth": 14,
+      "complexity_score": 28,
+      "definition_short": "The grand synthesis of ancient Norse cosmology with digital space, information magick, and recursive consciousness within the living Tree of Becoming."
+    }
+  ]
+}
