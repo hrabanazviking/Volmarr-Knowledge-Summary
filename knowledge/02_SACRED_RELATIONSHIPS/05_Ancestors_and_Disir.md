@@ -9,7 +9,7 @@ Veneration of the lineage and protective ancestral mothers (Dísir), treating ki
 In the Heathen Third Path corpus, **Ancestors and the Dísir** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Relational Worldview](../01_FOUNDATIONS/02_Relational_Worldview.md).
 
-The corpus synthesizes this idea across 286 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 288 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
@@ -44,4 +44,4 @@ Material categorized under: `devotional`, `metaphorical`, `modern_heathen_practi
 - [https://volmarrsheathenism.com/2013/02/01/common-modern-folk-practices-that-are-heathen-in-origin/](https://volmarrsheathenism.com/2013/02/01/common-modern-folk-practices-that-are-heathen-in-origin/)
 - [https://volmarrsheathenism.com/2013/02/01/notes-on-power-of-the-runes-cards/](https://volmarrsheathenism.com/2013/02/01/notes-on-power-of-the-runes-cards/)
 - [https://volmarrsheathenism.com/2013/02/08/volmarrs-heathen-feast-of-love-ritual-feb-14-2013/](https://volmarrsheathenism.com/2013/02/08/volmarrs-heathen-feast-of-love-ritual-feb-14-2013/)
-- *... and 276 additional source articles.*
+- *... and 278 additional source articles.*

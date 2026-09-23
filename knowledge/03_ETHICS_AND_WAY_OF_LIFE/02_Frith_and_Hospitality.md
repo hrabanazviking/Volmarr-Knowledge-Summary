@@ -9,15 +9,15 @@ The inviolable boundary of mutual peace, safety, and sanctuary centered on the h
 In the Heathen Third Path corpus, **Frith and Hospitality** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Relational Worldview](../01_FOUNDATIONS/02_Relational_Worldview.md), [Troth and Reciprocity](./01_Troth_and_Reciprocity.md).
 
-The corpus synthesizes this idea across 133 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 135 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
-- Frith is protected relational peace. Frith is the condition in which a hearth, relationship, ritual, family, community, or sacred gathering can exist without being consumed by hostility.
-- Hospitality opens the door, boundaries keep the hearth intact.
 - Honor and truthfulness, strength of will, courage in the face of fate, hospitality to others, and reciprocity (maintaining a give-and-take balance in relationships) were all important ideals. A concept called frith, meaning peace and goodwill among people, was central to the culture; people strove to keep frith by finding fair, peaceful solutions to conflicts and treating others as they themselves wished to be treated.
 - Honor and hospitality were cornerstones of Norse culture. Equally, hospitality was a sacred duty: everyone, even a stranger or enemy, deserved food, shelter, and respectful treatment under your roof.
 - This is what Wikipedia has to say about frith: > Frith is an Old English word meaning “peace; freedom from molestation, protection; safety, security”. Frith has a great deal to do not only with the state of peace but also with the nature of social relationships conducive to peace.
+- ” “Wildness/Ecstasy ” “Music and dance; the nurturing of inner wildness and childlike being, being like the “fey” ” “Love” “The all-encompassing force; love for family, for kin, for humanity, for all beings.” “Frith ” “The peace and goodwill between people bound together; loyalty and the keeping of one’s word. ” “Giving ” “The binding of two parties into one common bond, generosity and hospitality.
+- True Christains that come to us in frith deserve our hospitality, but Christo-Fascists deserve nothing other than our sword piercing through their body, but for now let’s try to defeat them at the voting booth. As a free society we should be accepting of all positive lifestyles and viewpoints, but not allow anyone to promote an agenda based on trying to control and limit anyone’s (peaceful) freedom.
 
 ## Relationships to Surrounding Concepts
 
@@ -45,4 +45,4 @@ Material categorized under: `metaphorical`, `modern_heathen_practice`, `philosop
 - [https://volmarrsheathenism.com/2013/06/24/volmarrs-heathen-midsummer-ritual-june-21-2013-vanatru-version/](https://volmarrsheathenism.com/2013/06/24/volmarrs-heathen-midsummer-ritual-june-21-2013-vanatru-version/)
 - [https://volmarrsheathenism.com/2013/11/02/volmarrs-heathen-winter-nights-anytime-from-oct-15-to-nov-1-ritual-version-2-outline-2013/](https://volmarrsheathenism.com/2013/11/02/volmarrs-heathen-winter-nights-anytime-from-oct-15-to-nov-1-ritual-version-2-outline-2013/)
 - [https://volmarrsheathenism.com/2018/09/15/the-historical-way-to-establish-sacred-space-for-a-ritual/](https://volmarrsheathenism.com/2018/09/15/the-historical-way-to-establish-sacred-space-for-a-ritual/)
-- *... and 123 additional source articles.*
+- *... and 125 additional source articles.*

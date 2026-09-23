@@ -9,15 +9,15 @@ The foundational Heathen principle that 'Nothing becomes alone'—that all being
 In the Heathen Third Path corpus, **Relational Worldview** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Heathenism and Norse Paganism](./01_What_Is_Heathenism.md).
 
-The corpus synthesizes this idea across 54 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 56 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
 - They’re not distant tyrants; they’re allies in the mess of life.
-- Its deepest principle is: > Nothing becomes alone. Every being exists within relationships.
-- Typical Third Path formulations are: rooted but not closed, inclusive but not rootless, traditional but not frozen, modern but not spiritually empty, independent but not isolated, mystical but not anti-rational, scientific but not metaphysically narrow, technological but not technocratic, individual but relational.
-- A Third Path practitioner is expected to: make offerings, cultivate sacred relationships, remember ancestors, honor the land, hail the Gods and Goddesses, study lore, use runes with seriousness, maintain frith, practice hospitality, keep useful commitments, exercise discernment, protect personal sovereignty, adapt ritual to actual life, learn, create, and accept responsibility for consequences.
-- Yggdrasil symbolizes the total relational structure.
+- They took the decentralized, localized, relational spirituality of actual Heathens and turned it into Germanic Nationalism: The Religion.
+- Gods as allies to negotiate with, not truths to enforce.
+- Historical paganisms were arboreal: Rooted in specific soil Branching in multiple directions Interconnected through mycorrhizal networks (look it up, trees are chatting underground) Alive, growing, dying, regenerating Permeable to wind and rain and light Modern bunker Paganism is architectural: Defensive walls Enclosed space Static and rigid Designed for siege warfare Cut off from the surrounding ecosystem The bunker serves fear: Fear of contamination Fear of impurity Fear of the Other The tree serves relationship: The willingness to be changed by connection The risk of vulnerability The acceptance that growth requires decay Roy Rappaport, an anthropologist who thought deeply about ritual, argued in Ritual and Religion in the Making of Humanity (1999) that religion evolved to regulate relationship—between humans, between humans and cosmos, between living and dead.
+- For instance, chanting “Earth below, sky above, runic power, fill with love” while meditating on the interconnectedness of all things.
 
 ## Relationships to Surrounding Concepts
 
@@ -45,4 +45,4 @@ Material categorized under: `metaphorical`, `modern_heathen_practice`, `philosop
 - [https://volmarrsheathenism.com/2024/05/13/rediscovering-identity-and-purpose-the-role-of-norse-paganism-and-viking-culture/](https://volmarrsheathenism.com/2024/05/13/rediscovering-identity-and-purpose-the-role-of-norse-paganism-and-viking-culture/)
 - [https://volmarrsheathenism.com/2024/05/21/honoring-tradition-the-sacred-balance-of-gender-in-norse-pagan-culture/](https://volmarrsheathenism.com/2024/05/21/honoring-tradition-the-sacred-balance-of-gender-in-norse-pagan-culture/)
 - [https://volmarrsheathenism.com/2024/06/07/harnessing-the-law-of-assumption-in-norse-paganism-and-modern-viking-lifestyle/](https://volmarrsheathenism.com/2024/06/07/harnessing-the-law-of-assumption-in-norse-paganism-and-modern-viking-lifestyle/)
-- *... and 44 additional source articles.*
+- *... and 46 additional source articles.*

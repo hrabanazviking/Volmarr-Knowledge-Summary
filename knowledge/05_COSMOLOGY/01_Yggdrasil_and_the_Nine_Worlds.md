@@ -9,7 +9,7 @@ The sacred cosmic axis and World Tree that connects all nine realms of existence
 In the Heathen Third Path corpus, **Yggdrasil and the Nine Worlds** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Relational Worldview](../01_FOUNDATIONS/02_Relational_Worldview.md).
 
-The corpus synthesizes this idea across 143 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 145 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
@@ -45,4 +45,4 @@ Material categorized under: `metaphorical`, `mystical`, `ritual_instruction`, `s
 - [https://volmarrsheathenism.com/2013/02/17/the-ancient-goddess-nehalennia/](https://volmarrsheathenism.com/2013/02/17/the-ancient-goddess-nehalennia/)
 - [https://volmarrsheathenism.com/2013/02/18/the-norse-viking-concept-of-right-vs-wrong/](https://volmarrsheathenism.com/2013/02/18/the-norse-viking-concept-of-right-vs-wrong/)
 - [https://volmarrsheathenism.com/2013/02/21/heathenism-and-meditation/](https://volmarrsheathenism.com/2013/02/21/heathenism-and-meditation/)
-- *... and 133 additional source articles.*
+- *... and 135 additional source articles.*

@@ -9,7 +9,7 @@ The living, evolving matrix of cause, condition, and becoming woven by Urðr (or
 In the Heathen Third Path corpus, **Wyrd, Orlaeg, and the Norns** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Relational Worldview](../01_FOUNDATIONS/02_Relational_Worldview.md).
 
-The corpus synthesizes this idea across 108 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 110 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
@@ -45,4 +45,4 @@ Material categorized under: `metaphorical`, `mystical`, `philosophical`, `ritual
 - [https://volmarrsheathenism.com/2013/02/14/volmarrs-daily-spiritual-rituals-and-practices/](https://volmarrsheathenism.com/2013/02/14/volmarrs-daily-spiritual-rituals-and-practices/)
 - [https://volmarrsheathenism.com/2013/02/17/the-ancient-goddess-nehalennia/](https://volmarrsheathenism.com/2013/02/17/the-ancient-goddess-nehalennia/)
 - [https://volmarrsheathenism.com/2013/02/21/the-issues-of-immigration-race-and-the-vikings/](https://volmarrsheathenism.com/2013/02/21/the-issues-of-immigration-race-and-the-vikings/)
-- *... and 98 additional source articles.*
+- *... and 100 additional source articles.*

@@ -9,7 +9,7 @@ The Holy Powers of the Aesir and Vanir, regarded not as distant cosmic despots b
 In the Heathen Third Path corpus, **Gods and Goddesses** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Relational Worldview](../01_FOUNDATIONS/02_Relational_Worldview.md).
 
-The corpus synthesizes this idea across 182 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 184 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
@@ -17,7 +17,7 @@ The corpus synthesizes this idea across 182 independent articles, drawing upon p
 - May she be nourished and guarded by the gods and goddesses.
 - Goddesses of the Aesir Hail to the goddesses of the Aesir! Goddesses of the Vanir Hail to the goddesses of the Vanir!
 - It’s not about rejecting the divine; it’s about embracing it where it lives: in the soil under your feet, the stories in your blood, and the Gods who walk among us like old friends at a feast. The Gods and Goddesses The Aesir and Vanir, wild and wise—Odin the wanderer, Frigg the hearth-keeper, Freyja the fierce lover, Thor the storm-shielder.
-- The Aesir and Vanir may be approached through multiple simultaneous layers: as independent divine beings, as sacred powers, as mythic persons, as archetypal presences, as psychological or symbolic realities, or through combinations of these.
+- In ancient times, these beliefs guided the Vikings and their ancestors, emphasizing reverence for a pantheon of gods, the spirits of nature, and the honored dead. We will look at devotional practices to the Aesir and Vanir gods and goddesses (the Norse deities), ways to honor nature spirits and ancestors, and the holistic benefits – spiritual and mental – that these practices can provide.
 
 ## Relationships to Surrounding Concepts
 
@@ -45,4 +45,4 @@ Material categorized under: `devotional`, `metaphorical`, `modern_heathen_practi
 - [https://volmarrsheathenism.com/2013/05/09/the-trinity-of-heathenism-the-two-distinct-sides-of-asatru-and-the-part-of-heathenism-that-differs-from-asatru/](https://volmarrsheathenism.com/2013/05/09/the-trinity-of-heathenism-the-two-distinct-sides-of-asatru-and-the-part-of-heathenism-that-differs-from-asatru/)
 - [https://volmarrsheathenism.com/2013/05/14/book-review-of-sea-sky-soil/](https://volmarrsheathenism.com/2013/05/14/book-review-of-sea-sky-soil/)
 - [https://volmarrsheathenism.com/2013/05/14/the-vanir-theory/](https://volmarrsheathenism.com/2013/05/14/the-vanir-theory/)
-- *... and 172 additional source articles.*
+- *... and 174 additional source articles.*

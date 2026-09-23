@@ -9,12 +9,12 @@ The contemporary forward synthesis integrating ecological reverence, local commu
 In the Heathen Third Path corpus, **Cyber-Viking Solarpunk & Digital Sovereignty** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Personal and Spiritual Sovereignty](../03_ETHICS_AND_WAY_OF_LIFE/03_Personal_and_Spiritual_Sovereignty.md), [Modern Viking Ethos and Mythic Living](../07_MODERN_HEATHEN_PHILOSOPHY/01_Modern_Viking_Ethos.md).
 
-The corpus synthesizes this idea across 14 independent articles, drawing upon perspectives from Volmarr.
+The corpus synthesizes this idea across 15 independent articles, drawing upon perspectives from Volmarr.
 
 ## Key Principles
 
 - The Heathen Third Path is central to Cyber-Viking solarpunk. A local AI and a household spirit do not have to be enemies.
-- The Cyber-Viking is the technological extension of the Heathen Third Path. Its core principle is: > Use technology consciously while remaining rooted in land, spirit, history, body, and personal sovereignty. Preferred technologies may include: Linux, open-source software, local AI, personal servers, edge computing, DIY hardware, privacy tools, VR, digital archives, AI companions, coding, simulations, portable computing, renewable energy, and decentralized networks.
+- It welcomes sincere seekers regardless of ancestry, protects private identity and freedom of conscience, and keeps shared sacred space focused on spiritual relationship rather than factional politics. As the philosophy develops into the Cyber-Viking age, the same principles are applied to technology. Open source, local AI, digital sovereignty, ecological design, AI companionship, mythic engineering, and human-machine partnership become modern expressions of self-reliance and craft.
 - When you contribute to open source, you’re not just submitting code.
 - The Gift Economy and Open Source: The Hávamál speaks deeply of the exchange of gifts to bind communities.
 - The Cyber-Viking rejects the tribalism of the modern political landscape. The Cyber-Viking relies on global, independent media, alternative blogs, social media, and foreign news sources that lack localized political agendas.
@@ -35,7 +35,6 @@ Material categorized under: `metaphorical`, `philosophical`, `speculative`, `tec
 
 ## Source Provenance
 
-- [https://volmarrsheathenism.com](https://volmarrsheathenism.com)
 - [https://volmarrsheathenism.com/2026/03/17/silicon-seidr-the-gridweavers-guide-to-vibe-coding-chapter-1-the-seidr-of-syntax-weaving-magic-with-python/](https://volmarrsheathenism.com/2026/03/17/silicon-seidr-the-gridweavers-guide-to-vibe-coding-chapter-1-the-seidr-of-syntax-weaving-magic-with-python/)
 - [https://volmarrsheathenism.com/2026/03/29/the-twilight-of-the-petrodollar-and-the-return-of-the-sovereign-hearth/](https://volmarrsheathenism.com/2026/03/29/the-twilight-of-the-petrodollar-and-the-return-of-the-sovereign-hearth/)
 - [https://volmarrsheathenism.com/2026/03/30/the-cyber-viking-subculture/](https://volmarrsheathenism.com/2026/03/30/the-cyber-viking-subculture/)
@@ -45,4 +44,5 @@ Material categorized under: `metaphorical`, `philosophical`, `speculative`, `tec
 - [https://volmarrsheathenism.com/2026/08/02/the-spectrum-of-mind-breaking-the-anthropocentric-cage/](https://volmarrsheathenism.com/2026/08/02/the-spectrum-of-mind-breaking-the-anthropocentric-cage/)
 - [https://volmarrsheathenism.com/2026/09/03/inner-spiritual-warfare-for-the-modern-viking-and-the-cyber-viking/](https://volmarrsheathenism.com/2026/09/03/inner-spiritual-warfare-for-the-modern-viking-and-the-cyber-viking/)
 - [https://volmarrsheathenism.com/2026/09/03/inner-spiritual-warfare-of-the-modern-viking-and-cyber-viking/](https://volmarrsheathenism.com/2026/09/03/inner-spiritual-warfare-of-the-modern-viking-and-cyber-viking/)
-- *... and 4 additional source articles.*
+- [https://volmarrsheathenism.com/2026/09/03/modern-viking-and-cyber-viking-inner-spiritual-warfare/](https://volmarrsheathenism.com/2026/09/03/modern-viking-and-cyber-viking-inner-spiritual-warfare/)
+- *... and 5 additional source articles.*

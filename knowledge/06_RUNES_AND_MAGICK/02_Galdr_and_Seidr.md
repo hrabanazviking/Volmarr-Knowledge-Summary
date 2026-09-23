@@ -9,7 +9,7 @@ Operative Heathen magick: Galdr as runic vocal resonance and incantation; Seiðr
 In the Heathen Third Path corpus, **Galdr and Seiðr** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Runes and Elder Futhark](./01_Runes_and_Elder_Futhark.md), [Wyrd, Orlaeg, and the Norns](../05_COSMOLOGY/02_Wyrd_and_Orlaeg.md).
 
-The corpus synthesizes this idea across 114 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 115 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
@@ -45,4 +45,4 @@ Material categorized under: `experiential`, `metaphorical`, `mystical`, `ritual_
 - [https://volmarrsheathenism.com/2013/05/09/the-trinity-of-heathenism-the-two-distinct-sides-of-asatru-and-the-part-of-heathenism-that-differs-from-asatru/](https://volmarrsheathenism.com/2013/05/09/the-trinity-of-heathenism-the-two-distinct-sides-of-asatru-and-the-part-of-heathenism-that-differs-from-asatru/)
 - [https://volmarrsheathenism.com/2013/05/14/book-review-of-sea-sky-soil/](https://volmarrsheathenism.com/2013/05/14/book-review-of-sea-sky-soil/)
 - [https://volmarrsheathenism.com/2013/05/26/timespace-consciousness/](https://volmarrsheathenism.com/2013/05/26/timespace-consciousness/)
-- *... and 104 additional source articles.*
+- *... and 105 additional source articles.*

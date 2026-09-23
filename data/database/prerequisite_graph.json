@@ -10,8 +10,8 @@
         "frith_and_hospitality",
         "personal_sovereignty"
       ],
-      "total_claims": 80,
-      "source_count": 20,
+      "total_claims": 132,
+      "source_count": 22,
       "ancestors": [
         "personal_sovereignty",
         "what_is_heathenism",
@@ -32,8 +32,8 @@
       "taxonomy_level": "01_FOUNDATIONS",
       "definition_short": "The ancestral pre-Christian worldview of Northern Europe, revived as a living, nature-centered polytheistic tradition honoring Gods, ancestors, and wights.",
       "prerequisites": [],
-      "total_claims": 276,
-      "source_count": 117,
+      "total_claims": 287,
+      "source_count": 119,
       "ancestors": [],
       "descendants": [
         "modern_viking_ethos",
@@ -70,8 +70,8 @@
       "prerequisites": [
         "what_is_heathenism"
       ],
-      "total_claims": 307,
-      "source_count": 125,
+      "total_claims": 316,
+      "source_count": 127,
       "ancestors": [
         "what_is_heathenism"
       ],
@@ -85,8 +85,8 @@
       "prerequisites": [
         "what_is_heathenism"
       ],
-      "total_claims": 129,
-      "source_count": 54,
+      "total_claims": 152,
+      "source_count": 56,
       "ancestors": [
         "what_is_heathenism"
       ],
@@ -123,8 +123,8 @@
       "prerequisites": [
         "relational_worldview"
       ],
-      "total_claims": 1183,
-      "source_count": 286,
+      "total_claims": 1219,
+      "source_count": 288,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview"
@@ -139,8 +139,8 @@
       "prerequisites": [
         "gods_and_goddesses"
       ],
-      "total_claims": 225,
-      "source_count": 114,
+      "total_claims": 226,
+      "source_count": 115,
       "ancestors": [
         "gods_and_goddesses",
         "what_is_heathenism",
@@ -156,8 +156,8 @@
       "prerequisites": [
         "relational_worldview"
       ],
-      "total_claims": 475,
-      "source_count": 182,
+      "total_claims": 485,
+      "source_count": 184,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview"
@@ -177,8 +177,8 @@
       "prerequisites": [
         "relational_worldview"
       ],
-      "total_claims": 56,
-      "source_count": 37,
+      "total_claims": 57,
+      "source_count": 38,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview"
@@ -193,8 +193,8 @@
       "prerequisites": [
         "gods_and_goddesses"
       ],
-      "total_claims": 299,
-      "source_count": 127,
+      "total_claims": 303,
+      "source_count": 129,
       "ancestors": [
         "gods_and_goddesses",
         "what_is_heathenism",
@@ -210,8 +210,8 @@
       "prerequisites": [
         "gods_and_goddesses"
       ],
-      "total_claims": 276,
-      "source_count": 133,
+      "total_claims": 283,
+      "source_count": 135,
       "ancestors": [
         "gods_and_goddesses",
         "what_is_heathenism",
@@ -228,8 +228,8 @@
         "relational_worldview",
         "troth_and_reciprocity"
       ],
-      "total_claims": 287,
-      "source_count": 133,
+      "total_claims": 295,
+      "source_count": 135,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview",
@@ -252,8 +252,8 @@
         "relational_worldview",
         "troth_and_reciprocity"
       ],
-      "total_claims": 120,
-      "source_count": 59,
+      "total_claims": 135,
+      "source_count": 60,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview",
@@ -275,8 +275,8 @@
       "prerequisites": [
         "troth_and_reciprocity"
       ],
-      "total_claims": 408,
-      "source_count": 165,
+      "total_claims": 417,
+      "source_count": 166,
       "ancestors": [
         "relational_worldview",
         "what_is_heathenism",
@@ -297,8 +297,8 @@
       "prerequisites": [
         "relational_worldview"
       ],
-      "total_claims": 441,
-      "source_count": 182,
+      "total_claims": 457,
+      "source_count": 183,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview"
@@ -326,8 +326,8 @@
         "relational_worldview",
         "troth_and_reciprocity"
       ],
-      "total_claims": 325,
-      "source_count": 114,
+      "total_claims": 330,
+      "source_count": 116,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview",
@@ -366,8 +366,8 @@
       "prerequisites": [
         "blot_and_offerings"
       ],
-      "total_claims": 37,
-      "source_count": 23,
+      "total_claims": 38,
+      "source_count": 24,
       "ancestors": [
         "blot_and_offerings",
         "what_is_heathenism",
@@ -384,8 +384,8 @@
       "prerequisites": [
         "relational_worldview"
       ],
-      "total_claims": 256,
-      "source_count": 108,
+      "total_claims": 266,
+      "source_count": 110,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview"
@@ -403,8 +403,8 @@
       "prerequisites": [
         "relational_worldview"
       ],
-      "total_claims": 377,
-      "source_count": 143,
+      "total_claims": 380,
+      "source_count": 145,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview"
@@ -424,8 +424,8 @@
         "runes_elder_futhark",
         "wyrd_and_orlaeg"
       ],
-      "total_claims": 429,
-      "source_count": 114,
+      "total_claims": 430,
+      "source_count": 115,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview",
@@ -445,8 +445,8 @@
       "prerequisites": [
         "yggdrasil_nine_worlds"
       ],
-      "total_claims": 230,
-      "source_count": 104,
+      "total_claims": 231,
+      "source_count": 105,
       "ancestors": [
         "what_is_heathenism",
         "relational_worldview",
@@ -466,8 +466,8 @@
         "heathen_third_path",
         "thews_and_virtues"
       ],
-      "total_claims": 36,
-      "source_count": 28,
+      "total_claims": 37,
+      "source_count": 29,
       "ancestors": [
         "personal_sovereignty",
         "what_is_heathenism",
@@ -492,8 +492,8 @@
         "personal_sovereignty",
         "modern_viking_ethos"
       ],
-      "total_claims": 26,
-      "source_count": 14,
+      "total_claims": 29,
+      "source_count": 15,
       "ancestors": [
         "personal_sovereignty",
         "modern_viking_ethos",
@@ -545,8 +545,8 @@
         "galdr_and_seidr",
         "ai_cognitive_partner_and_troth"
       ],
-      "total_claims": 3,
-      "source_count": 1,
+      "total_claims": 5,
+      "source_count": 2,
       "ancestors": [
         "personal_sovereignty",
         "modern_viking_ethos",

@@ -9,15 +9,15 @@ Sacred loyalty, truth, and reciprocity ('a gift demands a gift') that underpins 
 In the Heathen Third Path corpus, **Troth and Reciprocity** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Relational Worldview](../01_FOUNDATIONS/02_Relational_Worldview.md).
 
-The corpus synthesizes this idea across 182 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 183 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
-- Qualities such as courage, loyalty, truthfulness, discipline, endurance, hospitality, and honor may be valuable, but no modern list replaces situational wisdom. The preferred ethical vocabulary is: wisdom, consequence, oath, reputation, role, relationship, reciprocity, consent, wyrd, orlog, responsibility, and practical judgment.
-- Troth includes loyalty, fidelity, trust, oath, and relationship. In the mature Third Path it becomes: > the conscious recognition, honoring, and maintenance of relationship. Humans exist in relationship with: ancestors, descendants, Earth, plants, animals, Gods, spirits, communities, knowledge, technology, and artificial intelligence.
-- Center consent, responsibility, oath, and consequence. Understand troth as conscious tending of relationship.
 - It offers a way to reconnect with nature, find guidance in ancient myths, honor those who came before, and cultivate virtues that strengthen one’s character. You honor the past, which gives you wisdom for the present.
 - Loyalty to one’s community was paramount; people stood up for each other no matter what, and hospitality was one way of promoting frith among them. This close-knit spirit even extended to relationships between chieftains and their warriors (oath-sworn communities that feasted in the lord’s hall enjoying the “joys of the hall” together).
+- \ The Gifting Cycle: My relationship with the Gods and nature is built on mutual reciprocity and shared respect, never blind obedience or submission. Forms are seen as part of the divine story and also honored as such, so it’s never about destroying form; but instead about seeing the divinity in all forms, and finding the joy in this divine play that is existence.
+- For example Odin followers should be into runes and should study magick, and a male follower of Odin having sex with women outside of his marriage (so long as his wife is ok with him doing so) is also acceptable as that is part of honoring the ways of Odin. Of course I feel that when you are part of a group you should honor the rules the group has for actions when dealing with the group, it’s members, or doing any activities which represent the group; this is staying in frith with the group.
+- [Wikipedia page about frith](http://en.wikipedia.org/wiki/Frith) Troth means loyalty to all those you hold relationships with. Loyalty means to stay by them and to maintain a tie with them and to keep any promises you make towards them.
 
 ## Relationships to Surrounding Concepts
 
@@ -35,7 +35,6 @@ Material categorized under: `metaphorical`, `modern_heathen_practice`, `philosop
 
 ## Source Provenance
 
-- [https://volmarrsheathenism.com](https://volmarrsheathenism.com)
 - [https://volmarrsheathenism.com/2013/01/01/volmarrs-asatru-end-of-yule-jan-1st-ritual-2013/](https://volmarrsheathenism.com/2013/01/01/volmarrs-asatru-end-of-yule-jan-1st-ritual-2013/)
 - [https://volmarrsheathenism.com/2013/01/19/volmarrs-asatru-thorrablot-ritual-jan-2013-do-on-first-friday-after-jan-19th-or-on-full-moon-of-jan/](https://volmarrsheathenism.com/2013/01/19/volmarrs-asatru-thorrablot-ritual-jan-2013-do-on-first-friday-after-jan-19th-or-on-full-moon-of-jan/)
 - [https://volmarrsheathenism.com/2013/02/08/volmarrs-heathen-feast-of-love-ritual-feb-14-2013/](https://volmarrsheathenism.com/2013/02/08/volmarrs-heathen-feast-of-love-ritual-feb-14-2013/)
@@ -45,4 +44,5 @@ Material categorized under: `metaphorical`, `modern_heathen_practice`, `philosop
 - [https://volmarrsheathenism.com/2013/02/24/733/](https://volmarrsheathenism.com/2013/02/24/733/)
 - [https://volmarrsheathenism.com/2013/03/23/volmarrs-heathen-winter-nights-oct-ritual-outline-oct-2013/](https://volmarrsheathenism.com/2013/03/23/volmarrs-heathen-winter-nights-oct-ritual-outline-oct-2013/)
 - [https://volmarrsheathenism.com/2013/04/09/personal-relationships-with-godsgoddesses-and-labels-for-them/](https://volmarrsheathenism.com/2013/04/09/personal-relationships-with-godsgoddesses-and-labels-for-them/)
-- *... and 172 additional source articles.*
+- [https://volmarrsheathenism.com/2013/04/16/magick-trance-states-and-rising-ones-divinity-on-the-path-towards-enlightenment-and-the-need-for-daily-practice/](https://volmarrsheathenism.com/2013/04/16/magick-trance-states-and-rising-ones-divinity-on-the-path-towards-enlightenment-and-the-need-for-daily-practice/)
+- *... and 173 additional source articles.*

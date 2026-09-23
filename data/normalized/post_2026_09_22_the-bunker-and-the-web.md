@@ -1,9 +1,9 @@
 ---
-content_id: page_home
-url: https://volmarrsheathenism.com
+content_id: post_2026_09_22_the-bunker-and-the-web
+url: https://volmarrsheathenism.com/2026/09/22/the-bunker-and-the-web/
 title: "The Bunker and the Web"
-published: ""
-modified: ""
+published: "2026-09-23T00:17:56+00:00"
+modified: "2026-09-23T00:19:30+00:00"
 author: "Volmarr"
 author_type: "site_owner"
 categories: ["1990s Paganism", "5D warfare", "Asatru", "Conflicts Within Heathenism", "Conversion", "Cyber Viking", "Defeating Christian Nationalism", "Defeating Gatekeeping", "Defeating Wokism", "Devotion", "Folk Practices", "Free Speech", "Freedom", "Heathen Third Path", "Heritage", "Intro to Heathenism", "Learning Heathenism", "Lore", "Mythology", "Norse Paganism", "Norse-Wicca", "Pagan Elders", "Relationships", "Resistance", "Saxon Paganism", "Social Behavior", "Solitary Paganism", "Sovereign Paganism", "Spiritual Practices", "Spirituality", "Thews (Virtues)", "Traditional Witchcraft", "Vanatru", "Vikings", "Web4.0", "Wicca", "Wisdom", "ancestors", "anthropology", "crackpot ideas", "dangerous ideas", "dangerous philosophy", "defeating Trumpism", "digital sovereignty", "individual sovereignty", "insane philosophy", "personal sovereignty", "politics", "thought control", "tinfoil hat", "weird ideas", "writings of neurodivergent philosophers", "writings of tinfoil hat wearers", "wyrd"]

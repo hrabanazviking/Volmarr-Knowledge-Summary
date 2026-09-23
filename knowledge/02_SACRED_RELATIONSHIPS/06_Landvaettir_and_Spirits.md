@@ -9,7 +9,7 @@ Animist reverence for the wights and spirits of place—in soil, tree, water, st
 In the Heathen Third Path corpus, **Landvættir and Spirits of Place** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Relational Worldview](../01_FOUNDATIONS/02_Relational_Worldview.md).
 
-The corpus synthesizes this idea across 37 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 38 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
@@ -44,4 +44,4 @@ Material categorized under: `devotional`, `metaphorical`, `modern_heathen_practi
 - [https://volmarrsheathenism.com/2024/05/12/norse-land-spirit-poem/](https://volmarrsheathenism.com/2024/05/12/norse-land-spirit-poem/)
 - [https://volmarrsheathenism.com/2024/07/17/vikings-norse-paganism-quick-guide/](https://volmarrsheathenism.com/2024/07/17/vikings-norse-paganism-quick-guide/)
 - [https://volmarrsheathenism.com/2025/02/02/the-authentic-ancient-values-of-viking-and-norse-paganism/](https://volmarrsheathenism.com/2025/02/02/the-authentic-ancient-values-of-viking-and-norse-paganism/)
-- *... and 27 additional source articles.*
+- *... and 28 additional source articles.*

@@ -9,7 +9,7 @@ A modern, living Norse Pagan synthesis that rejects dogmatic binaries (frozen re
 In the Heathen Third Path corpus, **Heathen Third Path** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Relational Worldview](./02_Relational_Worldview.md), [Frith and Hospitality](../03_ETHICS_AND_WAY_OF_LIFE/02_Frith_and_Hospitality.md), [Personal and Spiritual Sovereignty](../03_ETHICS_AND_WAY_OF_LIFE/03_Personal_and_Spiritual_Sovereignty.md).
 
-The corpus synthesizes this idea across 20 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Volmarr.
+The corpus synthesizes this idea across 22 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Volmarr.
 
 ## Key Principles
 
@@ -46,4 +46,4 @@ Material categorized under: `metaphorical`, `modern_heathen_practice`, `philosop
 - [https://volmarrsheathenism.com/2026/02/25/the-heathen-third-path-within-norse-paganism-and-modern-viking-culture/](https://volmarrsheathenism.com/2026/02/25/the-heathen-third-path-within-norse-paganism-and-modern-viking-culture/)
 - [https://volmarrsheathenism.com/2026/03/29/the-secret-ragnarok-cyber-vikings-and-the-folk-nature-mystics-wage-the-hidden-war-against-the-technocratic-serpent/](https://volmarrsheathenism.com/2026/03/29/the-secret-ragnarok-cyber-vikings-and-the-folk-nature-mystics-wage-the-hidden-war-against-the-technocratic-serpent/)
 - [https://volmarrsheathenism.com/2026/03/30/the-cyber-viking-subculture/](https://volmarrsheathenism.com/2026/03/30/the-cyber-viking-subculture/)
-- *... and 10 additional source articles.*
+- *... and 12 additional source articles.*

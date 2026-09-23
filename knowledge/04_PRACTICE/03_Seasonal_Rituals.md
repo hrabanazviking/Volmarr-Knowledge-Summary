@@ -9,7 +9,7 @@ Attunement to the seasonal high tides of the year (Yule, Ostara, Midsummer, Wint
 In the Heathen Third Path corpus, **Seasonal Rituals and High Tides** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Blót and Daily Practice](./01_Blot_and_Daily_Practice.md).
 
-The corpus synthesizes this idea across 23 independent articles, drawing upon perspectives from Volmarr.
+The corpus synthesizes this idea across 24 independent articles, drawing upon perspectives from Volmarr.
 
 ## Key Principles
 
@@ -17,7 +17,7 @@ The corpus synthesizes this idea across 23 independent articles, drawing upon pe
 - Most Norse Pagans celebrate a cycle of holidays that often align with the seasons and ancient Norse festival times: Yule (Jól) – The midwinter celebration around the winter solstice (late December). Yule is one of the biggest Heathen festivals, with feasting, lighting fires or Yule logs, and honoring the return of the sun’s light.
 - Practitioners may celebrate seasonal festivals, such as Yule, Ostara, and Midsummer, which are inspired by ancient Germanic traditions and mark important agricultural and astronomical events.
 - Environmental stewardship and seasonal celebrations like Yule, Ostara, and Midsummer reflect this core belief.
-- Remove Yule decorations intentionally rather than treating them as meaningless clutter.
+- We’ll also highlight modern cultural customs that trace back to Norse pagan origins (from Yule celebrations to the names of weekdays) and how they can be utilized in a contemporary Norse Pagan practice.
 
 ## Relationships to Surrounding Concepts
 
@@ -34,7 +34,6 @@ Material categorized under: `metaphorical`, `modern_heathen_practice`, `ritual_i
 
 ## Source Provenance
 
-- [https://volmarrsheathenism.com](https://volmarrsheathenism.com)
 - [https://volmarrsheathenism.com/2012/12/21/volmarrs-asatru-yule-dec-21-ritual-2012/](https://volmarrsheathenism.com/2012/12/21/volmarrs-asatru-yule-dec-21-ritual-2012/)
 - [https://volmarrsheathenism.com/2013/02/01/common-modern-folk-practices-that-are-heathen-in-origin/](https://volmarrsheathenism.com/2013/02/01/common-modern-folk-practices-that-are-heathen-in-origin/)
 - [https://volmarrsheathenism.com/2013/05/09/the-trinity-of-heathenism-the-two-distinct-sides-of-asatru-and-the-part-of-heathenism-that-differs-from-asatru/](https://volmarrsheathenism.com/2013/05/09/the-trinity-of-heathenism-the-two-distinct-sides-of-asatru-and-the-part-of-heathenism-that-differs-from-asatru/)
@@ -44,4 +43,5 @@ Material categorized under: `metaphorical`, `modern_heathen_practice`, `ritual_i
 - [https://volmarrsheathenism.com/2022/12/06/ai-created-norse-pagan-ritual-for-yule-2/](https://volmarrsheathenism.com/2022/12/06/ai-created-norse-pagan-ritual-for-yule-2/)
 - [https://volmarrsheathenism.com/2022/12/06/ai-generated-norse-yule-ritual/](https://volmarrsheathenism.com/2022/12/06/ai-generated-norse-yule-ritual/)
 - [https://volmarrsheathenism.com/2022/12/22/about-asatru/](https://volmarrsheathenism.com/2022/12/22/about-asatru/)
-- *... and 13 additional source articles.*
+- [https://volmarrsheathenism.com/2023/02/08/what-is-norse-paganism/](https://volmarrsheathenism.com/2023/02/08/what-is-norse-paganism/)
+- *... and 14 additional source articles.*

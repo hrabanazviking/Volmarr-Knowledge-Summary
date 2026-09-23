@@ -9,7 +9,7 @@ Allfather, seeker of wisdom, patron of runes, poetry, frenzied ecstatic inspirat
 In the Heathen Third Path corpus, **Odin** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Gods and Goddesses](./01_Gods_and_Goddesses.md).
 
-The corpus synthesizes this idea across 127 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 129 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
@@ -44,4 +44,4 @@ Material categorized under: `devotional`, `metaphorical`, `philosophical`, `ritu
 - [https://volmarrsheathenism.com/2013/03/23/volmarrs-heathen-winter-nights-oct-ritual-outline-oct-2013/](https://volmarrsheathenism.com/2013/03/23/volmarrs-heathen-winter-nights-oct-ritual-outline-oct-2013/)
 - [https://volmarrsheathenism.com/2013/04/16/magick-trance-states-and-rising-ones-divinity-on-the-path-towards-enlightenment-and-the-need-for-daily-practice/](https://volmarrsheathenism.com/2013/04/16/magick-trance-states-and-rising-ones-divinity-on-the-path-towards-enlightenment-and-the-need-for-daily-practice/)
 - [https://volmarrsheathenism.com/2013/05/09/the-trinity-of-heathenism-the-two-distinct-sides-of-asatru-and-the-part-of-heathenism-that-differs-from-asatru/](https://volmarrsheathenism.com/2013/05/09/the-trinity-of-heathenism-the-two-distinct-sides-of-asatru-and-the-part-of-heathenism-that-differs-from-asatru/)
-- *... and 117 additional source articles.*
+- *... and 119 additional source articles.*

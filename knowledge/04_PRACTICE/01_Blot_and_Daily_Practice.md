@@ -9,7 +9,7 @@ The concrete operative practice of the gifting cycle—sharing food, drink, poet
 In the Heathen Third Path corpus, **Blót and Daily Practice** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Relational Worldview](../01_FOUNDATIONS/02_Relational_Worldview.md), [Troth and Reciprocity](../03_ETHICS_AND_WAY_OF_LIFE/01_Troth_and_Reciprocity.md).
 
-The corpus synthesizes this idea across 114 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 116 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
@@ -17,7 +17,7 @@ The corpus synthesizes this idea across 114 independent articles, drawing upon p
 - If you’re indoors, clear a small space for your altar. Place your candle or natural item and your cup there.
 - I draw a rune for the day and place this on my altar. Daily offering blot of apple juice to the god, goddess, or wight of the day.
 - Blót: that old Norse word for “offering,” once blood sacrifices, now a drop of tea or mead. Find an “altar” (shelf, stone, windowsill).
-- Place the altar so it is practical for the rite. Traditional forms may orient the main altar and opening attention toward north.
+- You might light a candle there on birthdays or death anniversaries, or whenever you wish to feel their presence. Some hold a periodic ritual known as Disablót (mentioned in lore as a sacrifice to the dísir, the female ancestral spirits) or simply toast their ancestors during a ceremony (like raising a glass “to the ancestors” in a rite).
 
 ## Relationships to Surrounding Concepts
 
@@ -45,4 +45,4 @@ Material categorized under: `devotional`, `metaphorical`, `modern_heathen_practi
 - [https://volmarrsheathenism.com/2013/02/08/volmarrs-heathen-ritual-for-day-of-remembrance-of-eyvind-kinnrifi-feb-9-2013-2/](https://volmarrsheathenism.com/2013/02/08/volmarrs-heathen-ritual-for-day-of-remembrance-of-eyvind-kinnrifi-feb-9-2013-2/)
 - [https://volmarrsheathenism.com/2013/02/17/the-ancient-goddess-nehalennia/](https://volmarrsheathenism.com/2013/02/17/the-ancient-goddess-nehalennia/)
 - [https://volmarrsheathenism.com/2013/02/24/733/](https://volmarrsheathenism.com/2013/02/24/733/)
-- *... and 104 additional source articles.*
+- *... and 106 additional source articles.*

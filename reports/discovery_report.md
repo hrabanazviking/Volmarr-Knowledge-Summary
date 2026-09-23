@@ -1,16 +1,16 @@
 # Corpus Discovery Report
 
-Generated on: 2026-09-23T00:16:03.798354Z
+Generated on: 2026-09-23T00:22:02.110902Z
 
 ## Summary Statistics
 
-- **Total Canonical URLs:** 571
-- **Total Canonical Posts:** 549
+- **Total Canonical URLs:** 573
+- **Total Canonical Posts:** 551
 - **Total Static Pages:** 21
 - **Home / Root Page:** 1
 - **Total Excluded Entries:** 0
 - **Oldest Recorded Date:** `2013-02-25T03:54:46+00:00`
-- **Newest Recorded Date:** `2026-09-22T20:50:55+00:00`
+- **Newest Recorded Date:** `2026-09-23T00:19:30+00:00`
 
 ## Static Pages Discovered
 

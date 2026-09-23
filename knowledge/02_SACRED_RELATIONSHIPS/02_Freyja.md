@@ -9,7 +9,7 @@ Vanadís, goddess of love, beauty, fertility, gold, seiðr magick, battle, and s
 In the Heathen Third Path corpus, **Freyja** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Gods and Goddesses](./01_Gods_and_Goddesses.md).
 
-The corpus synthesizes this idea across 114 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Volmarr.
+The corpus synthesizes this idea across 115 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Volmarr.
 
 ## Key Principles
 
@@ -34,7 +34,6 @@ Material categorized under: `devotional`, `metaphorical`, `mystical`, `ritual_in
 
 ## Source Provenance
 
-- [https://volmarrsheathenism.com](https://volmarrsheathenism.com)
 - [https://volmarrsheathenism.com/2012/12/03/lessor-hallowing-ritual-of-the-hammer-lhrh/](https://volmarrsheathenism.com/2012/12/03/lessor-hallowing-ritual-of-the-hammer-lhrh/)
 - [https://volmarrsheathenism.com/2013/02/01/hail-freyja-goddess-of-desire/](https://volmarrsheathenism.com/2013/02/01/hail-freyja-goddess-of-desire/)
 - [https://volmarrsheathenism.com/2013/02/08/volmarrs-heathen-feast-of-love-ritual-feb-14-2013/](https://volmarrsheathenism.com/2013/02/08/volmarrs-heathen-feast-of-love-ritual-feb-14-2013/)
@@ -44,4 +43,5 @@ Material categorized under: `devotional`, `metaphorical`, `mystical`, `ritual_in
 - [https://volmarrsheathenism.com/2013/03/20/volmarrs-heathen-ostara-march-21-ritual-march-21-2013/](https://volmarrsheathenism.com/2013/03/20/volmarrs-heathen-ostara-march-21-ritual-march-21-2013/)
 - [https://volmarrsheathenism.com/2013/04/16/magick-trance-states-and-rising-ones-divinity-on-the-path-towards-enlightenment-and-the-need-for-daily-practice/](https://volmarrsheathenism.com/2013/04/16/magick-trance-states-and-rising-ones-divinity-on-the-path-towards-enlightenment-and-the-need-for-daily-practice/)
 - [https://volmarrsheathenism.com/2013/04/30/volmarrs-heathen-wulpurgis-night-ritual-april-30-2013/](https://volmarrsheathenism.com/2013/04/30/volmarrs-heathen-wulpurgis-night-ritual-april-30-2013/)
-- *... and 104 additional source articles.*
+- [https://volmarrsheathenism.com/2013/05/09/the-trinity-of-heathenism-the-two-distinct-sides-of-asatru-and-the-part-of-heathenism-that-differs-from-asatru/](https://volmarrsheathenism.com/2013/05/09/the-trinity-of-heathenism-the-two-distinct-sides-of-asatru-and-the-part-of-heathenism-that-differs-from-asatru/)
+- *... and 105 additional source articles.*

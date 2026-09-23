@@ -9,7 +9,7 @@ The crucial distinction between surviving historical/Eddic lore and living moder
 In the Heathen Third Path corpus, **Historical Tradition and Modern Synthesis** serves as a vital structural pillar.
 This concept directly builds upon foundational understandings established in [Heathenism and Norse Paganism](./01_What_Is_Heathenism.md).
 
-The corpus synthesizes this idea across 125 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 127 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
@@ -44,4 +44,4 @@ Material categorized under: `historical`, `metaphorical`, `philosophical`, `reco
 - [https://volmarrsheathenism.com/2013/05/14/book-review-of-sea-sky-soil/](https://volmarrsheathenism.com/2013/05/14/book-review-of-sea-sky-soil/)
 - [https://volmarrsheathenism.com/2013/05/26/the-indo-european-trinity-and-how-it-relates-to-heathenism/](https://volmarrsheathenism.com/2013/05/26/the-indo-european-trinity-and-how-it-relates-to-heathenism/)
 - [https://volmarrsheathenism.com/2013/06/13/the-three-major-approaches-to-neo-paganism/](https://volmarrsheathenism.com/2013/06/13/the-three-major-approaches-to-neo-paganism/)
-- *... and 115 additional source articles.*
+- *... and 117 additional source articles.*

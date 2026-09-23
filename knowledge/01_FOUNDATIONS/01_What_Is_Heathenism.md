@@ -8,7 +8,7 @@ The ancestral pre-Christian worldview of Northern Europe, revived as a living, n
 
 In the Heathen Third Path corpus, **Heathenism and Norse Paganism** serves as a vital structural pillar.
 
-The corpus synthesizes this idea across 117 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
+The corpus synthesizes this idea across 119 independent articles, drawing upon perspectives from Astrid Freyjasdottir, Caducea, Volmarr.
 
 ## Key Principles
 
@@ -44,4 +44,4 @@ Material categorized under: `historical`, `metaphorical`, `modern_heathen_practi
 - [https://volmarrsheathenism.com/2013/02/18/volmarrs-liberal-modernist-heathenism-for-solitary-practitioners-pronouncing-runes/](https://volmarrsheathenism.com/2013/02/18/volmarrs-liberal-modernist-heathenism-for-solitary-practitioners-pronouncing-runes/)
 - [https://volmarrsheathenism.com/2013/02/19/why-the-racists-and-extremists-problem-within-heathenism/](https://volmarrsheathenism.com/2013/02/19/why-the-racists-and-extremists-problem-within-heathenism/)
 - [https://volmarrsheathenism.com/2013/02/20/some-short-heathen-book-reviews/](https://volmarrsheathenism.com/2013/02/20/some-short-heathen-book-reviews/)
-- *... and 107 additional source articles.*
+- *... and 109 additional source articles.*
