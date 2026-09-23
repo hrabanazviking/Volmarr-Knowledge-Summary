@@ -83,7 +83,9 @@ uv run python main.py --graph      # Build DAG & calculate topological order
 uv run python main.py --weave      # Synthesize canonical Markdown library
 uv run python main.py --audit      # Run QA audit (link integrity, redundancy)
 uv run python main.py --review     # Display human review queue (Phase 26)
-uv run python main.py --test       # Run evaluation test suite (Phase 27)
+uv run python main.py --test       # Run evaluation test suite (21 pytest suites)
+uv run python main.py --build      # Compile single-volume book, explorer & release manifest
+uv run python main.py --export     # Export vector-ready AI companion memory pack
 
 # Machine-Readable Indexes & Visual Graph:
 uv run python src/graph/build_indexes.py # Build source_to_concepts & concept_to_sources
@@ -93,8 +95,9 @@ uv run python src/search.py "troth"
 uv run python src/search.py "superconsciousness"
 uv run python src/search.py "solarpunk"
 
-# Run the 24/7 autonomous change detection loop:
-uv run python main.py --loop --interval 300
+# Run the autonomous continuous loop runner:
+uv run python loop.py              # Root-level auto-sync loop runner
+.\loop.ps1                         # Native PowerShell runner
 ```
 
 ---

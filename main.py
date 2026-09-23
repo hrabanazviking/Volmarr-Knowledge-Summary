@@ -132,6 +132,12 @@ def main():
     if args.test:
         import pytest
         sys.exit(pytest.main(["-v", "tests"]))
+    if args.build:
+        from src.export.packager import ReleasePackager
+        ReleasePackager().build_release()
+    if args.export:
+        from src.export.ai_memory_exporter import AIMemoryExporter
+        AIMemoryExporter().export_memory_pack()
 
 if __name__ == "__main__":
     main()
