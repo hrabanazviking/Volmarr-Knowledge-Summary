@@ -57,21 +57,21 @@ class IncrementalLoopEngine:
             console.print(f"[bold red]Git push failed: {e}[/bold red]")
             return False
 
-    def load_existing_hashes(self) -> dict[str, str]:
+    def load_existing_sitemap_lastmods(self) -> dict[str, str]:
         if not self.manifest_path.exists():
             return {}
-        hashes = {}
+        sitemap_mods = {}
         with open(self.manifest_path, "r", encoding="utf-8") as f:
             for line in f:
                 if line.strip():
                     r = json.loads(line)
-                    hashes[r["url"]] = r.get("modified", "")
-        return hashes
+                    sitemap_mods[r["url"]] = r.get("sitemap_lastmod") or r.get("modified", "")
+        return sitemap_mods
 
     def check_for_updates(self) -> list[str]:
         """Check sitemap against stored manifest to identify new or modified URLs."""
         console.print(f"\n[cyan][{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}] Checking site for updates...[/cyan]")
-        old_hashes = self.load_existing_hashes()
+        old_mods = self.load_existing_sitemap_lastmods()
         
         crawler = SiteCrawler()
         discovered = crawler.discover()
@@ -79,12 +79,12 @@ class IncrementalLoopEngine:
         changed_cids = []
         for r in discovered:
             url = r["url"]
-            lastmod = r.get("modified", "")
-            if url not in old_hashes:
+            lastmod = r.get("sitemap_lastmod") or r.get("modified", "")
+            if url not in old_mods:
                 console.print(f"[green]New URL detected:[/green] {url}")
                 changed_cids.append(r["content_id"])
-            elif lastmod and lastmod != old_hashes[url]:
-                console.print(f"[yellow]Modified content detected:[/yellow] {url} (lastmod: {lastmod} vs old: {old_hashes[url]})")
+            elif lastmod and lastmod != old_mods[url]:
+                console.print(f"[yellow]Modified content detected:[/yellow] {url} (new: {lastmod} vs old: {old_mods[url]})")
                 changed_cids.append(r["content_id"])
 
         return changed_cids
@@ -127,8 +127,6 @@ class IncrementalLoopEngine:
             return True
         else:
             console.print("[dim green]Site is fully up to date. No new posts detected.[/dim green]")
-            # Ensure any unstaged working files are pushed
-            self.git_commit_and_push("Periodic synchronization check")
             return False
 
     def run_forever(self):

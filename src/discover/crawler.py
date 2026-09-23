@@ -71,6 +71,19 @@ class SiteCrawler:
         raw_entries = root.findall("sm:url", ns)
         console.print(f"Found [green]{len(raw_entries)}[/green] raw sitemap URL elements.")
         
+        # Load existing manifest if present to preserve metadata and status
+        existing_records = {}
+        out_file = Path(output_manifest)
+        if out_file.exists():
+            try:
+                with open(out_file, "r", encoding="utf-8") as f:
+                    for line in f:
+                        if line.strip():
+                            rec = json.loads(line)
+                            existing_records[rec["url"]] = rec
+            except Exception as e:
+                console.print(f"[yellow]Could not read existing manifest: {e}[/yellow]")
+
         canonical_records = {}
         excluded_urls = []
         
@@ -101,23 +114,28 @@ class SiteCrawler:
                 
             content_id = self.generate_content_id(url)
             
-            record = {
-                "content_id": content_id,
-                "url": url,
-                "canonical_url": url,
-                "content_type": content_type,
-                "modified": lastmod_str,
-                "published": lastmod_str,  # Will be refined during fetch/parse from HTML
-                "author": "Volmarr",       # Default, will be extracted during parsing
-                "title": "",               # Extracted during parsing
-                "categories": [],
-                "tags": [],
-                "content_hash": "",
-                "normalized_hash": "",
-                "discovered_from": ["sitemap.xml"],
-                "fetch_status": "pending",
-                "extracted_at": None
-            }
+            if url in existing_records:
+                record = existing_records[url]
+                record["sitemap_lastmod"] = lastmod_str
+            else:
+                record = {
+                    "content_id": content_id,
+                    "url": url,
+                    "canonical_url": url,
+                    "content_type": content_type,
+                    "modified": lastmod_str,
+                    "sitemap_lastmod": lastmod_str,
+                    "published": lastmod_str,  # Will be refined during fetch/parse from HTML
+                    "author": "Volmarr",       # Default, will be extracted during parsing
+                    "title": "",               # Extracted during parsing
+                    "categories": [],
+                    "tags": [],
+                    "content_hash": "",
+                    "normalized_hash": "",
+                    "discovered_from": ["sitemap.xml"],
+                    "fetch_status": "pending",
+                    "extracted_at": None
+                }
             canonical_records[url] = record
 
         records_list = list(canonical_records.values())
