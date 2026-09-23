@@ -13,7 +13,7 @@ REQUIRED_SECTIONS = [
 def test_canonical_documents_schema_compliance():
     concept_docs = [
         f for f in KNOWLEDGE_DIR.rglob("*.md")
-        if f.name not in ["00_INDEX.md", "00_GLOSSARY.md", "00_CONCEPT_MAP.md", "build_report.md", "unresolved_conflicts.md", "redundancy_report.md"]
+        if "_meta" not in f.parts and f.name not in ["00_INDEX.md", "00_GLOSSARY.md", "00_CONCEPT_MAP.md"]
     ]
     assert len(concept_docs) == 25, f"Expected 25 concept documents, got {len(concept_docs)}"
     

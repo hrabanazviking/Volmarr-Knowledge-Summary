@@ -19,7 +19,10 @@ def test_concept_registry_uniqueness():
     assert len(names) == len(set(names)), "Duplicate canonical concept names found"
 
 def test_pairwise_semantic_redundancy():
-    md_files = [f for f in KNOWLEDGE_DIR.rglob("*.md") if f.name not in ["00_INDEX.md", "00_GLOSSARY.md", "00_CONCEPT_MAP.md", "build_report.md", "unresolved_conflicts.md", "redundancy_report.md"]]
+    md_files = [
+        f for f in KNOWLEDGE_DIR.rglob("*.md")
+        if "_meta" not in f.parts and f.name not in ["00_INDEX.md", "00_GLOSSARY.md", "00_CONCEPT_MAP.md"]
+    ]
     assert len(md_files) == 25, f"Expected 25 concept markdown docs, found {len(md_files)}"
     
     words = {}
